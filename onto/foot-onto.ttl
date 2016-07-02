@@ -113,6 +113,13 @@ ftb:startSecondHalf a rdf:Property, owl:DatatypeProperty;
 	rdfs:isDefinedBy <http://data.mondeca.com/def/ftb> ;
 	.
 
+ftb:endSecondHalf a rdf:Property, owl:DatatypeProperty;
+	rdfs:label "Fin 2NDE période"@fr , "End Second half"@en ;
+	rdfs:domain ftb:FootballMatch ;
+	rdfs:range xsd:dateTime ;
+	rdfs:isDefinedBy <http://data.mondeca.com/def/ftb> ;
+	.
+	
 ftb:goal a rdf:Property, owl:DatatypeProperty;
 	rdfs:label "But"@fr , "Goal"@en ;
 	rdfs:domain ftb:FootballMatch ;

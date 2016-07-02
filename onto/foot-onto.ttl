@@ -135,4 +135,11 @@ ftb:nationalTeam a rdf:Property, owl:DatatypeProperty;
 	rdfs:range xsd:string ;
 	rdfs:isDefinedBy <http://data.mondeca.com/def/ftb> ;
 	.
+	
+ftb:club a rdf:Property, owl:DatatypeProperty;
+	rdfs:label "Club"@fr , "Club"@en ;
+	rdfs:domain ftb:FootballPlayer ;
+	rdfs:range xsd:string ;
+	rdfs:isDefinedBy <http://data.mondeca.com/def/ftb> ;
+	.
 

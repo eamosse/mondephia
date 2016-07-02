@@ -50,6 +50,10 @@ ftb:FootballPlayer a rdfs:Class , owl:Class ;
 	rdfs:subClassOf foaf:Agent ;
 	.
 
+ftb:FootballTeam a rdfs:Class , owl:Class ;
+	rdfs:label "Football Team"@en ;
+	.
+
 ## Object Properties here
 
 ftb:hasAction a owl:ObjectProperty, rdf:Property ;

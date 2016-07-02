@@ -128,4 +128,11 @@ ftb:shoot a rdf:Property, owl:DatatypeProperty;
 	rdfs:range xsd:boolean ;
 	rdfs:isDefinedBy <http://data.mondeca.com/def/ftb> ;
 	.
+	
+ftb:nationalTeam a rdf:Property, owl:DatatypeProperty;
+	rdfs:label "Equipe national"@fr , "National team"@en ;
+	rdfs:domain ftb:FootballPlayer ;
+	rdfs:range xsd:string ;
+	rdfs:isDefinedBy <http://data.mondeca.com/def/ftb> ;
+	.
 

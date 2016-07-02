@@ -1,0 +1,909 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:ns0="http://linkedevents.org/ontology/"
+         xmlns:ns1="http://data.mondeca.com/def/ftb#"
+         xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+         xmlns:dc="http://purl.org/dc/terms/">
+
+  <rdf:Description rdf:about="http://data.mondeca.com/id/soccer/0246dd1a-fc1c-41be-b461-3cacd91a9fad">
+    <rdf:type rdf:resource="http://data.mondeca.com/def/ftb#FootballMatch"/>
+    <rdf:type rdf:resource="http://linkedevents.org/ontology/Event"/>
+    <ns0:atPlace rdf:resource="http://wikidata.org/entity/Q861000"/>
+    <ns0:atTime>
+      <rdf:Description>
+        <ns1:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T20:00:00+02:00</ns1:endTime>
+        <ns1:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T18:00:00+02:00</ns1:startTime>
+      </rdf:Description>
+    </ns0:atTime>
+
+    <ns0:inSpace>
+      <rdf:Description>
+        <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">45.4607788</geo:lat>
+        <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.3901296</geo:long>
+      </rdf:Description>
+    </ns0:inSpace>
+
+    <dc:title xml:lang="fr">République-Tchèque / Croatie (Euro2016)</dc:title>
+  </rdf:Description>
+
+  <ns1:FootballMatch rdf:about="http://data.mondeca.com/id/soccer/0973a3c0-58ec-4f62-be75-7eaddcacd112">
+    <rdf:type rdf:resource="http://linkedevents.org/ontology/Event"/>
+    <ns0:atPlace rdf:resource="http://wikidata.org/entity/Q738044"/>
+    <ns0:atTime>
+      <rdf:Description>
+        <ns1:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T17:00:00+02:00</ns1:endTime>
+        <ns1:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T15:00:00+02:00</ns1:startTime>
+      </rdf:Description>
+    </ns0:atTime>
+
+    <ns0:inSpace>
+      <rdf:Description>
+        <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">43.5833239</geo:lat>
+        <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.4340475</geo:long>
+      </rdf:Description>
+    </ns0:inSpace>
+
+    <dc:title xml:lang="fr">Espagne / République-Tchèque (Euro2016)</dc:title>
+  </ns1:FootballMatch>
+
+  <ns1:FootballMatch rdf:about="http://data.mondeca.com/id/soccer/0c6eec69-b9d8-4281-a66b-8f42eb925ac4">
+    <rdf:type rdf:resource="http://linkedevents.org/ontology/Event"/>
+    <ns0:atPlace rdf:resource="http://wikidata.org/entity/Q13205"/>
+    <ns0:atTime>
+      <rdf:Description>
+        <ns1:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T20:00:00+02:00</ns1:endTime>
+        <ns1:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T18:00:00+02:00</ns1:startTime>
+      </rdf:Description>
+    </ns0:atTime>
+
+    <ns0:inSpace>
+      <rdf:Description>
+        <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">48.9244699</geo:lat>
+        <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.3601316</geo:long>
+      </rdf:Description>
+    </ns0:inSpace>
+
+    <dc:title xml:lang="fr">Huitième de finale Euro2016</dc:title>
+  </ns1:FootballMatch>
+
+  <ns1:FootballMatch rdf:about="http://data.mondeca.com/id/soccer/21c38910-affa-47e9-9aa9-b3738325f6e6">
+    <rdf:type rdf:resource="http://linkedevents.org/ontology/Event"/>
+    <ns0:atPlace rdf:resource="http://wikidata.org/entity/Q1410402"/>
+    <ns0:atTime>
+      <rdf:Description>
+        <ns1:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T20:00:00+02:00</ns1:endTime>
+        <ns1:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T18:00:00+02:00</ns1:startTime>
+      </rdf:Description>
+    </ns0:atTime>
+
+    <ns0:inSpace>
+      <rdf:Description>
+        <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">50.6119065</geo:lat>
+        <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">3.1304805</geo:long>
+      </rdf:Description>
+    </ns0:inSpace>
+
+    <dc:title xml:lang="fr">Huitième de finale Euro2016</dc:title>
+  </ns1:FootballMatch>
+
+  <ns1:FootballMatch rdf:about="http://data.mondeca.com/id/soccer/270df670-b6b8-48de-aada-e20aab6741b2">
+    <rdf:type rdf:resource="http://linkedevents.org/ontology/Event"/>
+    <ns0:atPlace rdf:resource="http://wikidata.org/entity/Q1410402"/>
+    <ns0:atTime>
+      <rdf:Description>
+        <ns1:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T17:00:00+02:00</ns1:endTime>
+        <ns1:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T15:00:00+02:00</ns1:startTime>
+      </rdf:Description>
+    </ns0:atTime>
+
+    <ns0:inSpace>
+      <rdf:Description>
+        <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">50.6119065</geo:lat>
+        <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">3.1304805</geo:long>
+      </rdf:Description>
+    </ns0:inSpace>
+
+    <dc:title xml:lang="fr">Russie / Slovaquie (Euro2016)</dc:title>
+  </ns1:FootballMatch>
+
+  <ns1:FootballMatch rdf:about="http://data.mondeca.com/id/soccer/2ae97421-7c0a-4942-bc64-f20ef96e9b2b">
+    <rdf:type rdf:resource="http://linkedevents.org/ontology/Event"/>
+    <ns0:atPlace rdf:resource="http://wikidata.org/entity/Q193431"/>
+    <ns0:atTime>
+      <rdf:Description>
+        <ns1:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T20:00:00+02:00</ns1:endTime>
+        <ns1:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T18:00:00+02:00</ns1:startTime>
+      </rdf:Description>
+    </ns0:atTime>
+
+    <ns0:inSpace>
+      <rdf:Description>
+        <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">48.8413729</geo:lat>
+        <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.2530487</geo:long>
+      </rdf:Description>
+    </ns0:inSpace>
+
+    <dc:title xml:lang="fr">Huitième de finale Euro2016</dc:title>
+  </ns1:FootballMatch>
+
+  <ns1:FootballMatch rdf:about="http://data.mondeca.com/id/soccer/39e98f8f-285b-4a74-8708-0d3e886e8a1e">
+    <rdf:type rdf:resource="http://linkedevents.org/ontology/Event"/>
+    <ns0:atPlace rdf:resource="http://wikidata.org/entity/Q13205"/>
+    <ns0:atTime>
+      <rdf:Description>
+        <ns1:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T23:00:00+02:00</ns1:endTime>
+        <ns1:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T21:00:00+02:00</ns1:startTime>
+      </rdf:Description>
+    </ns0:atTime>
+
+    <ns0:inSpace>
+      <rdf:Description>
+        <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">48.9244699</geo:lat>
+        <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.3601316</geo:long>
+      </rdf:Description>
+    </ns0:inSpace>
+
+    <dc:title xml:lang="fr">France / Roumanie (Euro2016) : 2 - 1</dc:title>
+  </ns1:FootballMatch>
+
+  <ns1:FootballMatch rdf:about="http://data.mondeca.com/id/soccer/45151b38-89ac-43fb-a35a-ea3c5b236c71">
+    <rdf:type rdf:resource="http://linkedevents.org/ontology/Event"/>
+    <ns0:atPlace rdf:resource="http://wikidata.org/entity/Q127372"/>
+    <ns0:atTime>
+      <rdf:Description>
+        <ns1:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T23:00:00+02:00</ns1:endTime>
+        <ns1:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T21:00:00+02:00</ns1:startTime>
+      </rdf:Description>
+    </ns0:atTime>
+
+    <ns0:inSpace>
+      <rdf:Description>
+        <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">43.7055342</geo:lat>
+        <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">7.1928294</geo:long>
+      </rdf:Description>
+    </ns0:inSpace>
+
+    <dc:title xml:lang="fr">Espagne / Turquie (Euro2016)</dc:title>
+  </ns1:FootballMatch>
+
+  <ns1:FootballMatch rdf:about="http://data.mondeca.com/id/soccer/480b8f86-b7b8-4b86-b813-c1d0ac1302c9">
+    <rdf:type rdf:resource="http://linkedevents.org/ontology/Event"/>
+    <ns0:atPlace rdf:resource="http://wikidata.org/entity/Q202150"/>
+    <ns0:atTime>
+      <rdf:Description>
+        <ns1:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T23:00:00+02:00</ns1:endTime>
+        <ns1:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T21:00:00+02:00</ns1:startTime>
+      </rdf:Description>
+    </ns0:atTime>
+
+    <ns0:inSpace>
+      <rdf:Description>
+        <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">43.2698503</geo:lat>
+        <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">5.3959121</geo:long>
+      </rdf:Description>
+    </ns0:inSpace>
+
+    <dc:title xml:lang="fr">Angleterre / Russie (Euro2016) : 1 - 1</dc:title>
+  </ns1:FootballMatch>
+
+  <ns1:FootballMatch rdf:about="http://data.mondeca.com/id/soccer/4a2ded69-244a-4e42-b420-70526252d74f">
+    <rdf:type rdf:resource="http://linkedevents.org/ontology/Event"/>
+    <ns0:atPlace rdf:resource="http://wikidata.org/entity/Q861000"/>
+    <ns0:atTime>
+      <rdf:Description>
+        <ns1:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T23:00:00+02:00</ns1:endTime>
+        <ns1:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T21:00:00+02:00</ns1:startTime>
+      </rdf:Description>
+    </ns0:atTime>
+
+    <ns0:inSpace>
+      <rdf:Description>
+        <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">45.4607788</geo:lat>
+        <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.3901296</geo:long>
+      </rdf:Description>
+    </ns0:inSpace>
+
+    <dc:title xml:lang="fr">Slovaquie / Angleterre (Euro2016)</dc:title>
+  </ns1:FootballMatch>
+
+  <ns1:FootballMatch rdf:about="http://data.mondeca.com/id/soccer/4f0b8751-b361-4594-86a0-d21810d29985">
+    <rdf:type rdf:resource="http://linkedevents.org/ontology/Event"/>
+    <ns0:atPlace rdf:resource="http://wikidata.org/entity/Q13205"/>
+    <ns0:atTime>
+      <rdf:Description>
+        <ns1:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T20:00:00+02:00</ns1:endTime>
+        <ns1:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T18:00:00+02:00</ns1:startTime>
+      </rdf:Description>
+    </ns0:atTime>
+
+    <ns0:inSpace>
+      <rdf:Description>
+        <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">48.9244699</geo:lat>
+        <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.3601316</geo:long>
+      </rdf:Description>
+    </ns0:inSpace>
+
+    <dc:title xml:lang="fr">Irlande / Suède (Euro2016)</dc:title>
+  </ns1:FootballMatch>
+
+  <ns1:FootballMatch rdf:about="http://data.mondeca.com/id/soccer/53949821-b1f7-4c51-98ac-45a09607362d">
+    <rdf:type rdf:resource="http://linkedevents.org/ontology/Event"/>
+    <ns0:atPlace rdf:resource="http://wikidata.org/entity/Q13205"/>
+    <ns0:atTime>
+      <rdf:Description>
+        <ns1:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T23:00:00+02:00</ns1:endTime>
+        <ns1:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T21:00:00+02:00</ns1:startTime>
+      </rdf:Description>
+    </ns0:atTime>
+
+    <ns0:inSpace>
+      <rdf:Description>
+        <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">48.9244699</geo:lat>
+        <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.3601316</geo:long>
+      </rdf:Description>
+    </ns0:inSpace>
+
+    <dc:title xml:lang="fr">Allemagne / Pologne (Euro2016)</dc:title>
+  </ns1:FootballMatch>
+
+  <ns1:FootballMatch rdf:about="http://data.mondeca.com/id/soccer/562fea34-0b63-4254-a269-ad5ac27f6a8d">
+    <rdf:type rdf:resource="http://linkedevents.org/ontology/Event"/>
+    <ns0:atPlace rdf:resource="http://wikidata.org/entity/Q13205"/>
+    <ns0:atTime>
+      <rdf:Description>
+        <ns1:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T20:00:00+02:00</ns1:endTime>
+        <ns1:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T18:00:00+02:00</ns1:startTime>
+      </rdf:Description>
+    </ns0:atTime>
+
+    <ns0:inSpace>
+      <rdf:Description>
+        <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">48.9244699</geo:lat>
+        <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.3601316</geo:long>
+      </rdf:Description>
+    </ns0:inSpace>
+
+    <dc:title xml:lang="fr">Islande / Autriche (Euro2016)</dc:title>
+  </ns1:FootballMatch>
+
+  <ns1:FootballMatch rdf:about="http://data.mondeca.com/id/soccer/612f5da2-2e65-4d09-b9b1-29551809272f">
+    <rdf:type rdf:resource="http://linkedevents.org/ontology/Event"/>
+    <ns0:atPlace rdf:resource="http://wikidata.org/entity/Q193431"/>
+    <ns0:atTime>
+      <rdf:Description>
+        <ns1:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T17:00:00+02:00</ns1:endTime>
+        <ns1:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T15:00:00+02:00</ns1:startTime>
+      </rdf:Description>
+    </ns0:atTime>
+
+    <ns0:inSpace>
+      <rdf:Description>
+        <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">48.8413729</geo:lat>
+        <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.2530487</geo:long>
+      </rdf:Description>
+    </ns0:inSpace>
+
+    <dc:title xml:lang="fr">Turquie / Croatie (Euro2016) : 0 - 1</dc:title>
+  </ns1:FootballMatch>
+
+  <ns1:FootballMatch rdf:about="http://data.mondeca.com/id/soccer/67ba7a03-2e2a-4d42-83ea-f071b9096ab4">
+    <rdf:type rdf:resource="http://linkedevents.org/ontology/Event"/>
+    <ns0:atPlace rdf:resource="http://wikidata.org/entity/Q127372"/>
+    <ns0:atTime>
+      <rdf:Description>
+        <ns1:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T23:00:00+02:00</ns1:endTime>
+        <ns1:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T21:00:00+02:00</ns1:startTime>
+      </rdf:Description>
+    </ns0:atTime>
+
+    <ns0:inSpace>
+      <rdf:Description>
+        <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">43.7055342</geo:lat>
+        <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">7.1928294</geo:long>
+      </rdf:Description>
+    </ns0:inSpace>
+
+    <dc:title xml:lang="fr">Suède / Belgique (Euro2016)</dc:title>
+  </ns1:FootballMatch>
+
+  <ns1:FootballMatch rdf:about="http://data.mondeca.com/id/soccer/6cbc0de6-a624-4b3b-a264-f37d9ace6da1">
+    <rdf:type rdf:resource="http://linkedevents.org/ontology/Event"/>
+    <ns0:atPlace rdf:resource="http://wikidata.org/entity/Q252481"/>
+    <ns0:atTime>
+      <rdf:Description>
+        <ns1:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T20:00:00+02:00</ns1:endTime>
+        <ns1:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T18:00:00+02:00</ns1:startTime>
+      </rdf:Description>
+    </ns0:atTime>
+
+    <ns0:inSpace>
+      <rdf:Description>
+        <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">44.8973526</geo:lat>
+        <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-0.561603</geo:long>
+      </rdf:Description>
+    </ns0:inSpace>
+
+    <dc:title xml:lang="fr">Autriche / Hongrie (Euro2016)</dc:title>
+  </ns1:FootballMatch>
+
+  <ns1:FootballMatch rdf:about="http://data.mondeca.com/id/soccer/70e281f6-00cb-483c-ad15-e8fb720aeafe">
+    <rdf:type rdf:resource="http://linkedevents.org/ontology/Event"/>
+    <ns0:atPlace rdf:resource="http://wikidata.org/entity/Q738044"/>
+    <ns0:atTime>
+      <rdf:Description>
+        <ns1:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T17:00:00+02:00</ns1:endTime>
+        <ns1:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T15:00:00+02:00</ns1:startTime>
+      </rdf:Description>
+    </ns0:atTime>
+
+    <ns0:inSpace>
+      <rdf:Description>
+        <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">43.5833239</geo:lat>
+        <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.4340475</geo:long>
+      </rdf:Description>
+    </ns0:inSpace>
+
+    <dc:title xml:lang="fr">Italie / Suède (Euro2016)</dc:title>
+  </ns1:FootballMatch>
+
+  <ns1:FootballMatch rdf:about="http://data.mondeca.com/id/soccer/74c050b0-c16f-4995-b7dd-8ac40ce4099e">
+    <rdf:type rdf:resource="http://linkedevents.org/ontology/Event"/>
+    <ns0:atPlace rdf:resource="http://wikidata.org/entity/Q8507"/>
+    <ns0:atTime>
+      <rdf:Description>
+        <ns1:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T20:00:00+02:00</ns1:endTime>
+        <ns1:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T18:00:00+02:00</ns1:startTime>
+      </rdf:Description>
+    </ns0:atTime>
+
+    <ns0:inSpace>
+      <rdf:Description>
+        <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">45.7652521</geo:lat>
+        <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.982038</geo:long>
+      </rdf:Description>
+    </ns0:inSpace>
+
+    <dc:title xml:lang="fr">Ukraine / Irlande-du-Nord (Euro2016)</dc:title>
+  </ns1:FootballMatch>
+
+  <ns1:FootballMatch rdf:about="http://data.mondeca.com/id/soccer/7eec9d1b-f471-460b-95dc-40af20310717">
+    <rdf:type rdf:resource="http://linkedevents.org/ontology/Event"/>
+    <ns0:atPlace rdf:resource="http://wikidata.org/entity/Q8507"/>
+    <ns0:atTime>
+      <rdf:Description>
+        <ns1:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T23:00:00+02:00</ns1:endTime>
+        <ns1:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T21:00:00+02:00</ns1:startTime>
+      </rdf:Description>
+    </ns0:atTime>
+
+    <ns0:inSpace>
+      <rdf:Description>
+        <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">45.7652521</geo:lat>
+        <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.982038</geo:long>
+      </rdf:Description>
+    </ns0:inSpace>
+
+    <dc:title xml:lang="fr">Belgique / Italie (Euro2016)</dc:title>
+  </ns1:FootballMatch>
+
+  <ns1:FootballMatch rdf:about="http://data.mondeca.com/id/soccer/845b7bdc-8fb1-4296-9fde-c18f6cd71b12">
+    <rdf:type rdf:resource="http://linkedevents.org/ontology/Event"/>
+    <ns0:atPlace rdf:resource="http://wikidata.org/entity/Q1410402"/>
+    <ns0:atTime>
+      <rdf:Description>
+        <ns1:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T23:00:00+02:00</ns1:endTime>
+        <ns1:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T21:00:00+02:00</ns1:startTime>
+      </rdf:Description>
+    </ns0:atTime>
+
+    <ns0:inSpace>
+      <rdf:Description>
+        <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">50.6119065</geo:lat>
+        <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">3.1304805</geo:long>
+      </rdf:Description>
+    </ns0:inSpace>
+
+    <dc:title xml:lang="fr">Allemagne / Ukraine (Euro2016)</dc:title>
+  </ns1:FootballMatch>
+
+  <ns1:FootballMatch rdf:about="http://data.mondeca.com/id/soccer/86a23215-d1da-4900-a05d-1196768fffab">
+    <rdf:type rdf:resource="http://linkedevents.org/ontology/Event"/>
+    <ns0:atPlace rdf:resource="http://wikidata.org/entity/Q252481"/>
+    <ns0:atTime>
+      <rdf:Description>
+        <ns1:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T17:00:00+02:00</ns1:endTime>
+        <ns1:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T15:00:00+02:00</ns1:startTime>
+      </rdf:Description>
+    </ns0:atTime>
+
+    <ns0:inSpace>
+      <rdf:Description>
+        <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">44.8973526</geo:lat>
+        <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-0.561603</geo:long>
+      </rdf:Description>
+    </ns0:inSpace>
+
+    <dc:title xml:lang="fr">Belgique / Irlande (Euro2016)</dc:title>
+  </ns1:FootballMatch>
+
+  <ns1:FootballMatch rdf:about="http://data.mondeca.com/id/soccer/86f0c57d-58f8-4f20-99fa-e752bb846180">
+    <rdf:type rdf:resource="http://linkedevents.org/ontology/Event"/>
+    <ns0:atPlace rdf:resource="http://wikidata.org/entity/Q1410402"/>
+    <ns0:atTime>
+      <rdf:Description>
+        <ns1:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T23:00:00+02:00</ns1:endTime>
+        <ns1:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T21:00:00+02:00</ns1:startTime>
+      </rdf:Description>
+    </ns0:atTime>
+
+    <ns0:inSpace>
+      <rdf:Description>
+        <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">50.6119065</geo:lat>
+        <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">3.1304805</geo:long>
+      </rdf:Description>
+    </ns0:inSpace>
+
+    <dc:title xml:lang="fr">Suisse / France (Euro2016)</dc:title>
+  </ns1:FootballMatch>
+
+  <ns1:FootballMatch rdf:about="http://data.mondeca.com/id/soccer/9100d69a-a23c-411f-a736-be21863ee255">
+    <rdf:type rdf:resource="http://linkedevents.org/ontology/Event"/>
+    <ns0:atPlace rdf:resource="http://wikidata.org/entity/Q854122"/>
+    <ns0:atTime>
+      <rdf:Description>
+        <ns1:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T17:00:00+02:00</ns1:endTime>
+        <ns1:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T15:00:00+02:00</ns1:startTime>
+      </rdf:Description>
+    </ns0:atTime>
+
+    <ns0:inSpace>
+      <rdf:Description>
+        <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">50.4324698</geo:lat>
+        <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.8150004</geo:long>
+      </rdf:Description>
+    </ns0:inSpace>
+
+    <dc:title xml:lang="fr">Albanie / Suisse (Euro2016) : 0 - 1</dc:title>
+  </ns1:FootballMatch>
+
+  <ns1:FootballMatch rdf:about="http://data.mondeca.com/id/soccer/92708788-2140-4b87-b281-3f649ef4fa97">
+    <rdf:type rdf:resource="http://linkedevents.org/ontology/Event"/>
+    <ns0:atPlace rdf:resource="http://wikidata.org/entity/Q202150"/>
+    <ns0:atTime>
+      <rdf:Description>
+        <ns1:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T20:00:00+02:00</ns1:endTime>
+        <ns1:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T18:00:00+02:00</ns1:startTime>
+      </rdf:Description>
+    </ns0:atTime>
+
+    <ns0:inSpace>
+      <rdf:Description>
+        <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">43.2698503</geo:lat>
+        <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">5.3959121</geo:long>
+      </rdf:Description>
+    </ns0:inSpace>
+
+    <dc:title xml:lang="fr">Ukraine / Pologne (Euro2016)</dc:title>
+  </ns1:FootballMatch>
+
+  <ns1:FootballMatch rdf:about="http://data.mondeca.com/id/soccer/966a0719-914f-4924-a497-b0e717b05a07">
+    <rdf:type rdf:resource="http://linkedevents.org/ontology/Event"/>
+    <ns0:atPlace rdf:resource="http://wikidata.org/entity/Q193431"/>
+    <ns0:atTime>
+      <rdf:Description>
+        <ns1:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T20:00:00+02:00</ns1:endTime>
+        <ns1:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T18:00:00+02:00</ns1:startTime>
+      </rdf:Description>
+    </ns0:atTime>
+
+    <ns0:inSpace>
+      <rdf:Description>
+        <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">48.8413729</geo:lat>
+        <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.2530487</geo:long>
+      </rdf:Description>
+    </ns0:inSpace>
+
+    <dc:title xml:lang="fr">Irlande-du-Nord / Allemagne (Euro2016)</dc:title>
+  </ns1:FootballMatch>
+
+  <ns1:FootballMatch rdf:about="http://data.mondeca.com/id/soccer/9e6a2c50-bca3-4f30-a05f-5b1edd2118b5">
+    <rdf:type rdf:resource="http://linkedevents.org/ontology/Event"/>
+    <ns0:atPlace rdf:resource="http://wikidata.org/entity/Q193431"/>
+    <ns0:atTime>
+      <rdf:Description>
+        <ns1:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T23:00:00+02:00</ns1:endTime>
+        <ns1:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T21:00:00+02:00</ns1:startTime>
+      </rdf:Description>
+    </ns0:atTime>
+
+    <ns0:inSpace>
+      <rdf:Description>
+        <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">48.8413729</geo:lat>
+        <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.2530487</geo:long>
+      </rdf:Description>
+    </ns0:inSpace>
+
+    <dc:title xml:lang="fr">Portugal / Autriche (Euro2016)</dc:title>
+  </ns1:FootballMatch>
+
+  <ns1:FootballMatch rdf:about="http://data.mondeca.com/id/soccer/9f076dad-65b6-4988-a219-031f913c1f4d">
+    <rdf:type rdf:resource="http://linkedevents.org/ontology/Event"/>
+    <ns0:atPlace rdf:resource="http://wikidata.org/entity/Q738044"/>
+    <ns0:atTime>
+      <rdf:Description>
+        <ns1:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T23:00:00+02:00</ns1:endTime>
+        <ns1:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T21:00:00+02:00</ns1:startTime>
+      </rdf:Description>
+    </ns0:atTime>
+
+    <ns0:inSpace>
+      <rdf:Description>
+        <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">43.5833239</geo:lat>
+        <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.4340475</geo:long>
+      </rdf:Description>
+    </ns0:inSpace>
+
+    <dc:title xml:lang="fr">Russie / Pays-de-Galles (Euro2016)</dc:title>
+  </ns1:FootballMatch>
+
+  <ns1:FootballMatch rdf:about="http://data.mondeca.com/id/soccer/a1bafeec-c30f-4754-af57-eab131636309">
+    <rdf:type rdf:resource="http://linkedevents.org/ontology/Event"/>
+    <ns0:atPlace rdf:resource="http://wikidata.org/entity/Q127372"/>
+    <ns0:atTime>
+      <rdf:Description>
+        <ns1:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T23:00:00+02:00</ns1:endTime>
+        <ns1:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T21:00:00+02:00</ns1:startTime>
+      </rdf:Description>
+    </ns0:atTime>
+
+    <ns0:inSpace>
+      <rdf:Description>
+        <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">43.7055342</geo:lat>
+        <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">7.1928294</geo:long>
+      </rdf:Description>
+    </ns0:inSpace>
+
+    <dc:title xml:lang="fr">Huitième de finale Euro2016</dc:title>
+  </ns1:FootballMatch>
+
+  <ns1:FootballMatch rdf:about="http://data.mondeca.com/id/soccer/a2da7877-b294-4d65-9da4-9439725bc7f3">
+    <rdf:type rdf:resource="http://linkedevents.org/ontology/Event"/>
+    <ns0:atPlace rdf:resource="http://wikidata.org/entity/Q127372"/>
+    <ns0:atTime>
+      <rdf:Description>
+        <ns1:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T20:00:00+02:00</ns1:endTime>
+        <ns1:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T18:00:00+02:00</ns1:startTime>
+      </rdf:Description>
+    </ns0:atTime>
+
+    <ns0:inSpace>
+      <rdf:Description>
+        <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">43.7055342</geo:lat>
+        <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">7.1928294</geo:long>
+      </rdf:Description>
+    </ns0:inSpace>
+
+    <dc:title xml:lang="fr">Pologne / Irlande-du-Nord (Euro2016)</dc:title>
+  </ns1:FootballMatch>
+
+  <ns1:FootballMatch rdf:about="http://data.mondeca.com/id/soccer/a595d9aa-16ce-4d9c-bfaa-bb20dcd49c5f">
+    <rdf:type rdf:resource="http://linkedevents.org/ontology/Event"/>
+    <ns0:atPlace rdf:resource="http://wikidata.org/entity/Q854122"/>
+    <ns0:atTime>
+      <rdf:Description>
+        <ns1:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T17:00:00+02:00</ns1:endTime>
+        <ns1:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T15:00:00+02:00</ns1:startTime>
+      </rdf:Description>
+    </ns0:atTime>
+
+    <ns0:inSpace>
+      <rdf:Description>
+        <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">50.4324698</geo:lat>
+        <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.8150004</geo:long>
+      </rdf:Description>
+    </ns0:inSpace>
+
+    <dc:title xml:lang="fr">Angleterre / Pays-de-Galles (Euro2016)</dc:title>
+  </ns1:FootballMatch>
+
+  <ns1:FootballMatch rdf:about="http://data.mondeca.com/id/soccer/a711ced5-4b1a-4e1f-adc0-74c604499f83">
+    <rdf:type rdf:resource="http://linkedevents.org/ontology/Event"/>
+    <ns0:atPlace rdf:resource="http://wikidata.org/entity/Q252481"/>
+    <ns0:atTime>
+      <rdf:Description>
+        <ns1:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T20:00:00+02:00</ns1:endTime>
+        <ns1:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T18:00:00+02:00</ns1:startTime>
+      </rdf:Description>
+    </ns0:atTime>
+
+    <ns0:inSpace>
+      <rdf:Description>
+        <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">44.8973526</geo:lat>
+        <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-0.561603</geo:long>
+      </rdf:Description>
+    </ns0:inSpace>
+
+    <dc:title xml:lang="fr">Pays-de-Galles / Slovaquie (Euro2016) : 2 - 1</dc:title>
+  </ns1:FootballMatch>
+
+  <ns1:FootballMatch rdf:about="http://data.mondeca.com/id/soccer/b64b3074-21de-4757-9d56-973eec7ced27">
+    <rdf:type rdf:resource="http://linkedevents.org/ontology/Event"/>
+    <ns0:atPlace rdf:resource="http://wikidata.org/entity/Q854122"/>
+    <ns0:atTime>
+      <rdf:Description>
+        <ns1:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T23:00:00+02:00</ns1:endTime>
+        <ns1:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T21:00:00+02:00</ns1:startTime>
+      </rdf:Description>
+    </ns0:atTime>
+
+    <ns0:inSpace>
+      <rdf:Description>
+        <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">50.4324698</geo:lat>
+        <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.8150004</geo:long>
+      </rdf:Description>
+    </ns0:inSpace>
+
+    <dc:title xml:lang="fr">République-Tchèque / Turquie (Euro2016)</dc:title>
+  </ns1:FootballMatch>
+
+  <ns1:FootballMatch rdf:about="http://data.mondeca.com/id/soccer/b6cce907-9e8b-4d9d-b632-7cca16bc8657">
+    <rdf:type rdf:resource="http://linkedevents.org/ontology/Event"/>
+    <ns0:atPlace rdf:resource="http://wikidata.org/entity/Q8507"/>
+    <ns0:atTime>
+      <rdf:Description>
+        <ns1:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T23:00:00+02:00</ns1:endTime>
+        <ns1:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T21:00:00+02:00</ns1:startTime>
+      </rdf:Description>
+    </ns0:atTime>
+
+    <ns0:inSpace>
+      <rdf:Description>
+        <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">45.7652521</geo:lat>
+        <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.982038</geo:long>
+      </rdf:Description>
+    </ns0:inSpace>
+
+    <dc:title xml:lang="fr">Roumanie / Albanie (Euro2016)</dc:title>
+  </ns1:FootballMatch>
+
+  <ns1:FootballMatch rdf:about="http://data.mondeca.com/id/soccer/b942a6a6-38ba-42b0-b183-8c95e274cf8f">
+    <rdf:type rdf:resource="http://linkedevents.org/ontology/Event"/>
+    <ns0:atPlace rdf:resource="http://wikidata.org/entity/Q854122"/>
+    <ns0:atTime>
+      <rdf:Description>
+        <ns1:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T23:00:00+02:00</ns1:endTime>
+        <ns1:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T21:00:00+02:00</ns1:startTime>
+      </rdf:Description>
+    </ns0:atTime>
+
+    <ns0:inSpace>
+      <rdf:Description>
+        <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">50.4324698</geo:lat>
+        <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.8150004</geo:long>
+      </rdf:Description>
+    </ns0:inSpace>
+
+    <dc:title xml:lang="fr">Huitième de finale Euro2016</dc:title>
+  </ns1:FootballMatch>
+
+  <ns1:FootballMatch rdf:about="http://data.mondeca.com/id/soccer/bd006269-781f-4d23-b4a0-bfd4dbc54cbf">
+    <rdf:type rdf:resource="http://linkedevents.org/ontology/Event"/>
+    <ns0:atPlace rdf:resource="http://wikidata.org/entity/Q861000"/>
+    <ns0:atTime>
+      <rdf:Description>
+        <ns1:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T23:00:00+02:00</ns1:endTime>
+        <ns1:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T21:00:00+02:00</ns1:startTime>
+      </rdf:Description>
+    </ns0:atTime>
+
+    <ns0:inSpace>
+      <rdf:Description>
+        <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">45.4607788</geo:lat>
+        <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.3901296</geo:long>
+      </rdf:Description>
+    </ns0:inSpace>
+
+    <dc:title xml:lang="fr">Portugal / Islande (Euro2016)</dc:title>
+  </ns1:FootballMatch>
+
+  <ns1:FootballMatch rdf:about="http://data.mondeca.com/id/soccer/d7c10868-fa5a-4383-a51d-794697f6e19e">
+    <rdf:type rdf:resource="http://linkedevents.org/ontology/Event"/>
+    <ns0:atPlace rdf:resource="http://wikidata.org/entity/Q8507"/>
+    <ns0:atTime>
+      <rdf:Description>
+        <ns1:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T17:00:00+02:00</ns1:endTime>
+        <ns1:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T15:00:00+02:00</ns1:startTime>
+      </rdf:Description>
+    </ns0:atTime>
+
+    <ns0:inSpace>
+      <rdf:Description>
+        <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">45.7652521</geo:lat>
+        <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.982038</geo:long>
+      </rdf:Description>
+    </ns0:inSpace>
+
+    <dc:title xml:lang="fr">Huitième de finale Euro2016</dc:title>
+  </ns1:FootballMatch>
+
+  <ns1:FootballMatch rdf:about="http://data.mondeca.com/id/soccer/e507bd8f-2258-4579-bfbe-ed062c2d7099">
+    <rdf:type rdf:resource="http://linkedevents.org/ontology/Event"/>
+    <ns0:atPlace rdf:resource="http://wikidata.org/entity/Q202150"/>
+    <ns0:atTime>
+      <rdf:Description>
+        <ns1:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T23:00:00+02:00</ns1:endTime>
+        <ns1:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T21:00:00+02:00</ns1:startTime>
+      </rdf:Description>
+    </ns0:atTime>
+
+    <ns0:inSpace>
+      <rdf:Description>
+        <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">43.2698503</geo:lat>
+        <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">5.3959121</geo:long>
+      </rdf:Description>
+    </ns0:inSpace>
+
+    <dc:title xml:lang="fr">France / Albanie (Euro2016)</dc:title>
+  </ns1:FootballMatch>
+
+  <ns1:FootballMatch rdf:about="http://data.mondeca.com/id/soccer/e8d5720c-9075-4183-9fdc-ff993006a6a8">
+    <rdf:type rdf:resource="http://linkedevents.org/ontology/Event"/>
+    <ns0:atPlace rdf:resource="http://wikidata.org/entity/Q202150"/>
+    <ns0:atTime>
+      <rdf:Description>
+        <ns1:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T23:00:00+02:00</ns1:endTime>
+        <ns1:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T21:00:00+02:00</ns1:startTime>
+      </rdf:Description>
+    </ns0:atTime>
+
+    <ns0:inSpace>
+      <rdf:Description>
+        <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">43.2698503</geo:lat>
+        <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">5.3959121</geo:long>
+      </rdf:Description>
+    </ns0:inSpace>
+
+    <dc:title xml:lang="fr">Quart de finale Euro2016</dc:title>
+  </ns1:FootballMatch>
+
+  <ns1:FootballMatch rdf:about="http://data.mondeca.com/id/soccer/e9122f28-0f27-42e7-a0f8-7699af7cbbb4">
+    <rdf:type rdf:resource="http://linkedevents.org/ontology/Event"/>
+    <ns0:atPlace rdf:resource="http://wikidata.org/entity/Q1410402"/>
+    <ns0:atTime>
+      <rdf:Description>
+        <ns1:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T23:00:00+02:00</ns1:endTime>
+        <ns1:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T21:00:00+02:00</ns1:startTime>
+      </rdf:Description>
+    </ns0:atTime>
+
+    <ns0:inSpace>
+      <rdf:Description>
+        <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">50.6119065</geo:lat>
+        <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">3.1304805</geo:long>
+      </rdf:Description>
+    </ns0:inSpace>
+
+    <dc:title xml:lang="fr">Italie / Irlande (Euro2016)</dc:title>
+  </ns1:FootballMatch>
+
+  <ns1:FootballMatch rdf:about="http://data.mondeca.com/id/soccer/f101c861-0401-49b4-b049-fc2f18c41814">
+    <rdf:type rdf:resource="http://linkedevents.org/ontology/Event"/>
+    <ns0:atPlace rdf:resource="http://wikidata.org/entity/Q202150"/>
+    <ns0:atTime>
+      <rdf:Description>
+        <ns1:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T20:00:00+02:00</ns1:endTime>
+        <ns1:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T18:00:00+02:00</ns1:startTime>
+      </rdf:Description>
+    </ns0:atTime>
+
+    <ns0:inSpace>
+      <rdf:Description>
+        <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">43.2698503</geo:lat>
+        <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">5.3959121</geo:long>
+      </rdf:Description>
+    </ns0:inSpace>
+
+    <dc:title xml:lang="fr">Islande / Hongrie (Euro2016)</dc:title>
+  </ns1:FootballMatch>
+
+  <ns1:FootballMatch rdf:about="http://data.mondeca.com/id/soccer/f2d91b34-539b-443b-ac7e-6dcb2899eb54">
+    <rdf:type rdf:resource="http://linkedevents.org/ontology/Event"/>
+    <ns0:atPlace rdf:resource="http://wikidata.org/entity/Q861000"/>
+    <ns0:atTime>
+      <rdf:Description>
+        <ns1:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T17:00:00+02:00</ns1:endTime>
+        <ns1:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T15:00:00+02:00</ns1:startTime>
+      </rdf:Description>
+    </ns0:atTime>
+
+    <ns0:inSpace>
+      <rdf:Description>
+        <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">45.4607788</geo:lat>
+        <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.3901296</geo:long>
+      </rdf:Description>
+    </ns0:inSpace>
+
+    <dc:title xml:lang="fr">Huitième de finale Euro2016</dc:title>
+  </ns1:FootballMatch>
+
+  <ns1:FootballMatch rdf:about="http://data.mondeca.com/id/soccer/f52b0c66-50ed-488d-8721-878121705762">
+    <rdf:type rdf:resource="http://linkedevents.org/ontology/Event"/>
+    <ns0:atPlace rdf:resource="http://wikidata.org/entity/Q252481"/>
+    <ns0:atTime>
+      <rdf:Description>
+        <ns1:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T23:00:00+02:00</ns1:endTime>
+        <ns1:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T21:00:00+02:00</ns1:startTime>
+      </rdf:Description>
+    </ns0:atTime>
+
+    <ns0:inSpace>
+      <rdf:Description>
+        <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">44.8973526</geo:lat>
+        <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-0.561603</geo:long>
+      </rdf:Description>
+    </ns0:inSpace>
+
+    <dc:title xml:lang="fr">Croatie / Espagne (Euro2016)</dc:title>
+  </ns1:FootballMatch>
+
+  <ns1:FootballMatch rdf:about="http://data.mondeca.com/id/soccer/f86db5c6-326c-45ad-8be0-5e914eedf853">
+    <rdf:type rdf:resource="http://linkedevents.org/ontology/Event"/>
+    <ns0:atPlace rdf:resource="http://wikidata.org/entity/Q8507"/>
+    <ns0:atTime>
+      <rdf:Description>
+        <ns1:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T20:00:00+02:00</ns1:endTime>
+        <ns1:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T18:00:00+02:00</ns1:startTime>
+      </rdf:Description>
+    </ns0:atTime>
+
+    <ns0:inSpace>
+      <rdf:Description>
+        <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">45.7652521</geo:lat>
+        <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.982038</geo:long>
+      </rdf:Description>
+    </ns0:inSpace>
+
+    <dc:title xml:lang="fr">Hongrie / Portugal (Euro2016)</dc:title>
+  </ns1:FootballMatch>
+
+  <ns1:FootballMatch rdf:about="http://data.mondeca.com/id/soccer/fa868820-80a5-4ad3-a2f6-b56120c56d4a">
+    <rdf:type rdf:resource="http://linkedevents.org/ontology/Event"/>
+    <ns0:atPlace rdf:resource="http://wikidata.org/entity/Q738044"/>
+    <ns0:atTime>
+      <rdf:Description>
+        <ns1:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T23:00:00+02:00</ns1:endTime>
+        <ns1:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T21:00:00+02:00</ns1:startTime>
+      </rdf:Description>
+    </ns0:atTime>
+
+    <ns0:inSpace>
+      <rdf:Description>
+        <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">43.5833239</geo:lat>
+        <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.4340475</geo:long>
+      </rdf:Description>
+    </ns0:inSpace>
+
+    <dc:title xml:lang="fr">Huitième de finale Euro2016</dc:title>
+  </ns1:FootballMatch>
+
+  <ns1:FootballMatch rdf:about="http://data.mondeca.com/id/soccer/fa97ecca-6d9e-4af2-a566-e6ca29b6052b">
+    <rdf:type rdf:resource="http://linkedevents.org/ontology/Event"/>
+    <ns0:atPlace rdf:resource="http://wikidata.org/entity/Q193431"/>
+    <ns0:atTime>
+      <rdf:Description>
+        <ns1:endTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T20:00:00+02:00</ns1:endTime>
+        <ns1:startTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T18:00:00+02:00</ns1:startTime>
+      </rdf:Description>
+    </ns0:atTime>
+
+    <ns0:inSpace>
+      <rdf:Description>
+        <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">48.8413729</geo:lat>
+        <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.2530487</geo:long>
+      </rdf:Description>
+    </ns0:inSpace>
+
+    <dc:title xml:lang="fr">Roumanie / Suisse (Euro2016)</dc:title>
+  </ns1:FootballMatch>
+
+</rdf:RDF>

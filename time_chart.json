@@ -1,0 +1,594 @@
+{
+  "axes": [
+    {
+      "scale": "x",
+      "title": "Time",
+      "type": "x"
+    },
+    {
+      "scale": "y",
+      "title": "Freq",
+      "type": "y"
+    }
+  ],
+  "data": [
+    {
+      "name": "table",
+      "values": [
+        {
+          "col": "data",
+          "idx": 1466009999000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466009999000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466009999000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466009999000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466009999000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466009999000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466009999000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010000000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010000000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010000000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010000000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010000000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010000000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010000000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010000000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010000000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010000000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010000000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010000000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010000000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010000000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010000000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010000000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010000000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010001000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010001000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010000000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010001000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010001000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010001000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010001000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010000000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010001000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010001000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010001000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010001000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010001000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010001000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010001000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010001000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010001000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010001000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010001000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010002000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010002000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010002000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010002000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010002000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010002000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010001000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010002000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010002000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010002000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010002000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010002000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010002000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010002000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010002000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010002000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010002000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010002000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010002000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010002000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010002000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010003000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010003000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010003000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010003000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010003000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010003000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010003000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010003000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010003000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010003000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010003000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010003000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010003000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010003000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010003000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010003000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010003000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010003000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010003000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010004000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010004000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010004000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010004000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010004000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010004000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010004000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010004000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010004000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010004000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010004000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010004000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010004000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010004000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010004000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010004000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1466010004000,
+          "val": 1
+        }
+      ]
+    }
+  ],
+  "height": 500,
+  "legends": [],
+  "marks": [
+    {
+      "from": {
+        "data": "table",
+        "transform": [
+          {
+            "keys": [
+              "data.col"
+            ],
+            "type": "facet"
+          }
+        ]
+      },
+      "marks": [
+        {
+          "properties": {
+            "enter": {
+              "stroke": {
+                "field": "data.col",
+                "scale": "color"
+              },
+              "strokeWidth": {
+                "value": 2
+              },
+              "x": {
+                "field": "data.idx",
+                "scale": "x"
+              },
+              "y": {
+                "field": "data.val",
+                "scale": "y"
+              }
+            }
+          },
+          "type": "line"
+        }
+      ],
+      "type": "group"
+    }
+  ],
+  "padding": "auto",
+  "scales": [
+    {
+      "domain": {
+        "data": "table",
+        "field": "data.idx"
+      },
+      "name": "x",
+      "range": "width",
+      "type": "time"
+    },
+    {
+      "domain": {
+        "data": "table",
+        "field": "data.val"
+      },
+      "name": "y",
+      "nice": true,
+      "range": "height"
+    },
+    {
+      "domain": {
+        "data": "table",
+        "field": "data.col"
+      },
+      "name": "color",
+      "range": "category20",
+      "type": "ordinal"
+    }
+  ],
+  "width": 960
+}

@@ -1,0 +1,131 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix owl: <http://www.w3.org/2002/07/owl#>.
+@prefix dc: <http://purl.org/dc/elements/1.1/>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix foaf: <http://xmlns.com/foaf/0.1/>.
+@prefix dcat: <http://www.w3.org/ns/dcat#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix dctype: <http://purl.org/dc/dcmitype/>.
+@prefix skos: <http://www.w3.org/2004/02/skos/core#>.
+@prefix dct: <http://purl.org/dc/terms/>.
+@prefix vann: <http://purl.org/vocab/vann/>.
+@prefix voaf: <http://purl.org/vocommons/voaf#>.
+@prefix v: <http://www.w3.org/2006/vcard/ns#>.
+@prefix schema: <http://schema.org/>.
+@prefix org: <http://www.w3.org/ns/org#> .
+@prefix ftb: <http://data.mondeca.com/def/ftb#> .
+@prefix lode: <http://linkedevents.org/ontology/> .
+
+
+# metadata info for the ontology here 
+<http://data.mondeca.com/def/ftb>
+    a owl:Ontology, voaf:Vocabulary;
+    rdfs:label "An ontology for detecting football event at Euro 2016"@en;
+    rdfs:label "Le vocabulaire nécessaire pour la détection des évènements dans les tweets de l'Euro"@fr;
+    dct:creator "MondePhia Team" ;        
+    dct:issued "2016-07-02"^^xsd:date;
+   # dct:modified "2016-06-29"^^xsd:date;
+   # dct:modified "2016-06-01"^^xsd:date;
+    vann:preferredNamespacePrefix "ftb" ;
+    owl:versionInfo "v1.0" ;
+    .
+
+## Class here 
+ftb:FootballMatch a rdfs:Class, owl:Class ;
+	rdfs:label "Football Match"@en ;
+	rdfs:comment "A football match "@en ;
+	rdfs:subClassOf lode:Event ;
+	rdfs:subClassOf schema:Event ;
+	rdfs:isDefinedBy <http://data.mondeca.com/def/ftb> ;
+	.
+
+ftb:Action a rdfs:Class, owl:Class ;
+	rdfs:label "Action"@en ;
+	rdfs:subClassOf schema:Action ;
+	rdfs:isDefinedBy <http://data.mondeca.com/def/ftb> ;
+	.
+
+ftb:FootballPlayer a rdfs:Class , owl:Class ;
+	rdfs:label "Football player"@en ;
+	rdfs:subClassOf foaf:Agent ;
+	.
+
+## Object Properties here
+
+ftb:hasAction a owl:ObjectProperty, rdf:Property ;
+	 rdfs:label "Has action"@en ;
+	 rdfs:domain ftb:FootballMatch ;
+	 rdfs:range ftb:Action ;
+	 rdfs:isDefinedBy <http://data.mondeca.com/def/ftb> ;
+	.
+
+ftb:replace a owl:ObjectProperty, rdf:Property ;
+	 rdfs:label "Replace"@en ;
+	 rdfs:domain ftb:FootballPlayer ;
+	 rdfs:isDefinedBy <http://data.mondeca.com/def/ftb> ;
+	.
+
+ftb:isReplaced a owl:ObjectProperty, rdf:Property ;
+	 rdfs:label "Is replaced by"@en ;
+	 rdfs:domain ftb:FootballPlayer ;
+	 rdfs:isDefinedBy <http://data.mondeca.com/def/ftb> ;
+	.
+
+ftb:penalty a owl:ObjectProperty, rdf:Property ;
+	 rdfs:label "Penalty"@en , "Penalty"@fr ;
+	 rdfs:domain ftb:FootballMatch ;
+	 rdfs:range ftb:FootballTeam ;
+	 rdfs:isDefinedBy <http://data.mondeca.com/def/ftb> ;
+	.
+
+## Data properties Here 
+
+ftb:cartonJaune a rdf:Property, owl:DatatypeProperty;
+	rdfs:label "Carton Jaune"@fr , "Yellow Card"@en ;
+	rdfs:comment "flag for a red card"@en ;
+	rdfs:domain ftb:FootballPlayer ;
+	rdfs:range xsd:boolean ;  #boolean
+	rdfs:isDefinedBy <http://data.mondeca.com/def/ftb> ;
+	.
+
+ftb:startFirstHalf a rdf:Property, owl:DatatypeProperty;
+	rdfs:label "Début 1ERE période"@fr , "Start First half"@en ;
+	rdfs:domain ftb:FootballMatch ;
+	rdfs:range xsd:dateTime ;
+	rdfs:isDefinedBy <http://data.mondeca.com/def/ftb> ;
+	.
+
+ftb:endFirstHalf a rdf:Property, owl:DatatypeProperty;
+	rdfs:label "Fin 1ERE période"@fr , "End First half"@en ;
+	rdfs:domain ftb:FootballMatch ;
+	rdfs:range xsd:dateTime ;
+	rdfs:isDefinedBy <http://data.mondeca.com/def/ftb> ;
+	.
+
+ftb:startSecondHalf a rdf:Property, owl:DatatypeProperty;
+	rdfs:label "Début 2NDE période"@fr , "Start Second half"@en ;
+	rdfs:domain ftb:FootballMatch ;
+	rdfs:range xsd:dateTime ;
+	rdfs:isDefinedBy <http://data.mondeca.com/def/ftb> ;
+	.
+
+ftb:goal a rdf:Property, owl:DatatypeProperty;
+	rdfs:label "But"@fr , "Goal"@en ;
+	rdfs:domain ftb:FootballMatch ;
+	rdfs:range xsd:integer ;
+	rdfs:isDefinedBy <http://data.mondeca.com/def/ftb> ;
+	.
+
+ftb:hasScored a rdf:Property, owl:DatatypeProperty;
+	rdfs:label "a marqué"@fr , "Has scored"@en ;
+	rdfs:domain ftb:FootballPlayer;
+	rdfs:isDefinedBy <http://data.mondeca.com/def/ftb> ;
+	.
+
+ftb:shoot a rdf:Property, owl:DatatypeProperty;
+	rdfs:label "tirer au but"@fr , "shoot"@en ;
+	rdfs:domain ftb:FootballPlayer;
+	rdfs:range xsd:boolean ;
+	rdfs:isDefinedBy <http://data.mondeca.com/def/ftb> ;
+	.
+

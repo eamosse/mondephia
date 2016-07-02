@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:ns0="http://purl.org/vocab/vann/">
+
+  <owl:Ontology rdf:about="http://data.mondeca.com/def/ftb">
+    <rdf:type rdf:resource="http://purl.org/vocommons/voaf#Vocabulary"/>
+    <rdfs:label xml:lang="en">An ontology for detecting football event at Euro 2016</rdfs:label>
+    <rdfs:label xml:lang="fr">Le vocabulaire nécessaire pour la détection des évènements dans les tweets de l'Euro</rdfs:label>
+    <dc:creator>MondePhia Team</dc:creator>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-07-02</dc:issued>
+    <ns0:preferredNamespacePrefix>ftb</ns0:preferredNamespacePrefix>
+    <owl:versionInfo>v1.0</owl:versionInfo>
+  </owl:Ontology>
+
+  <rdfs:Class rdf:about="http://data.mondeca.com/def/ftb#FootballMatch">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label xml:lang="en">Football Match</rdfs:label>
+    <rdfs:comment xml:lang="en">A football match </rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://linkedevents.org/ontology/Event"/>
+    <rdfs:subClassOf rdf:resource="http://schema.org/Event"/>
+    <rdfs:isDefinedBy rdf:resource="http://data.mondeca.com/def/ftb"/>
+  </rdfs:Class>
+
+  <rdfs:Class rdf:about="http://data.mondeca.com/def/ftb#Action">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label xml:lang="en">Action</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://schema.org/Action"/>
+    <rdfs:isDefinedBy rdf:resource="http://data.mondeca.com/def/ftb"/>
+  </rdfs:Class>
+
+  <rdfs:Class rdf:about="http://data.mondeca.com/def/ftb#FootballPlayer">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label xml:lang="en">Football player</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+  </rdfs:Class>
+
+  <owl:ObjectProperty rdf:about="http://data.mondeca.com/def/ftb#hasAction">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:label xml:lang="en">Has action</rdfs:label>
+    <rdfs:domain rdf:resource="http://data.mondeca.com/def/ftb#FootballMatch"/>
+    <rdfs:range rdf:resource="http://data.mondeca.com/def/ftb#Action"/>
+    <rdfs:isDefinedBy rdf:resource="http://data.mondeca.com/def/ftb"/>
+  </owl:ObjectProperty>
+
+  <owl:ObjectProperty rdf:about="http://data.mondeca.com/def/ftb#replace">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:label xml:lang="en">Replace</rdfs:label>
+    <rdfs:domain rdf:resource="http://data.mondeca.com/def/ftb#FootballPlayer"/>
+    <rdfs:isDefinedBy rdf:resource="http://data.mondeca.com/def/ftb"/>
+  </owl:ObjectProperty>
+
+  <owl:ObjectProperty rdf:about="http://data.mondeca.com/def/ftb#isReplaced">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:label xml:lang="en">Is replaced by</rdfs:label>
+    <rdfs:domain rdf:resource="http://data.mondeca.com/def/ftb#FootballPlayer"/>
+    <rdfs:isDefinedBy rdf:resource="http://data.mondeca.com/def/ftb"/>
+  </owl:ObjectProperty>
+
+  <owl:ObjectProperty rdf:about="http://data.mondeca.com/def/ftb#penalty">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+    <rdfs:label xml:lang="en">Penalty</rdfs:label>
+    <rdfs:label xml:lang="fr">Penalty</rdfs:label>
+    <rdfs:domain rdf:resource="http://data.mondeca.com/def/ftb#FootballMatch"/>
+    <rdfs:range rdf:resource="http://data.mondeca.com/def/ftb#FootballTeam"/>
+    <rdfs:isDefinedBy rdf:resource="http://data.mondeca.com/def/ftb"/>
+  </owl:ObjectProperty>
+
+  <rdf:Property rdf:about="http://data.mondeca.com/def/ftb#cartonJaune">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdfs:label xml:lang="fr">Carton Jaune</rdfs:label>
+    <rdfs:label xml:lang="en">Yellow Card</rdfs:label>
+    <rdfs:comment xml:lang="en">flag for a red card</rdfs:comment>
+    <rdfs:domain rdf:resource="http://data.mondeca.com/def/ftb#FootballPlayer"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#boolean"/>
+    <rdfs:isDefinedBy rdf:resource="http://data.mondeca.com/def/ftb"/>
+  </rdf:Property>
+
+  <rdf:Property rdf:about="http://data.mondeca.com/def/ftb#startFirstHalf">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdfs:label xml:lang="fr">Début 1ERE période</rdfs:label>
+    <rdfs:label xml:lang="en">Start First half</rdfs:label>
+    <rdfs:domain rdf:resource="http://data.mondeca.com/def/ftb#FootballMatch"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#dateTime"/>
+    <rdfs:isDefinedBy rdf:resource="http://data.mondeca.com/def/ftb"/>
+  </rdf:Property>
+
+  <rdf:Property rdf:about="http://data.mondeca.com/def/ftb#endFirstHalf">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdfs:label xml:lang="fr">Fin 1ERE période</rdfs:label>
+    <rdfs:label xml:lang="en">End First half</rdfs:label>
+    <rdfs:domain rdf:resource="http://data.mondeca.com/def/ftb#FootballMatch"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#dateTime"/>
+    <rdfs:isDefinedBy rdf:resource="http://data.mondeca.com/def/ftb"/>
+  </rdf:Property>
+
+  <rdf:Property rdf:about="http://data.mondeca.com/def/ftb#startSecondHalf">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdfs:label xml:lang="fr">Début 2NDE période</rdfs:label>
+    <rdfs:label xml:lang="en">Start Second half</rdfs:label>
+    <rdfs:domain rdf:resource="http://data.mondeca.com/def/ftb#FootballMatch"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#dateTime"/>
+    <rdfs:isDefinedBy rdf:resource="http://data.mondeca.com/def/ftb"/>
+  </rdf:Property>
+
+  <rdf:Property rdf:about="http://data.mondeca.com/def/ftb#goal">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdfs:label xml:lang="fr">But</rdfs:label>
+    <rdfs:label xml:lang="en">Goal</rdfs:label>
+    <rdfs:domain rdf:resource="http://data.mondeca.com/def/ftb#FootballMatch"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+    <rdfs:isDefinedBy rdf:resource="http://data.mondeca.com/def/ftb"/>
+  </rdf:Property>
+
+  <rdf:Property rdf:about="http://data.mondeca.com/def/ftb#hasScored">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdfs:label xml:lang="fr">a marqué</rdfs:label>
+    <rdfs:label xml:lang="en">Has scored</rdfs:label>
+    <rdfs:domain rdf:resource="http://data.mondeca.com/def/ftb#FootballPlayer"/>
+    <rdfs:isDefinedBy rdf:resource="http://data.mondeca.com/def/ftb"/>
+  </rdf:Property>
+
+  <rdf:Property rdf:about="http://data.mondeca.com/def/ftb#shoot">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdfs:label xml:lang="fr">tirer au but</rdfs:label>
+    <rdfs:label xml:lang="en">shoot</rdfs:label>
+    <rdfs:domain rdf:resource="http://data.mondeca.com/def/ftb#FootballPlayer"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#boolean"/>
+    <rdfs:isDefinedBy rdf:resource="http://data.mondeca.com/def/ftb"/>
+  </rdf:Property>
+
+</rdf:RDF>

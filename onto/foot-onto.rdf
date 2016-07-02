@@ -131,4 +131,22 @@
     <rdfs:isDefinedBy rdf:resource="http://data.mondeca.com/def/ftb"/>
   </rdf:Property>
 
+  <rdf:Property rdf:about="http://data.mondeca.com/def/ftb#nationalTeam">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdfs:label xml:lang="fr">Equipe national</rdfs:label>
+    <rdfs:label xml:lang="en">National team</rdfs:label>
+    <rdfs:domain rdf:resource="http://data.mondeca.com/def/ftb#FootballPlayer"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <rdfs:isDefinedBy rdf:resource="http://data.mondeca.com/def/ftb"/>
+  </rdf:Property>
+
+  <rdf:Property rdf:about="http://data.mondeca.com/def/ftb#club">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdfs:label xml:lang="fr">Club</rdfs:label>
+    <rdfs:label xml:lang="en">Club</rdfs:label>
+    <rdfs:domain rdf:resource="http://data.mondeca.com/def/ftb#FootballPlayer"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <rdfs:isDefinedBy rdf:resource="http://data.mondeca.com/def/ftb"/>
+  </rdf:Property>
+
 </rdf:RDF>

@@ -1,0 +1,171 @@
+
+{
+  "team": "Albanie",
+  "players":
+  [
+   { "number": "1",
+   "name": "Etrit Berisha" ,
+   "role": "Gardien",
+   "age": "10/03/1989",
+   "club": "Lazio (ITA)"
+   },
+   {"number": "12",
+   "name": "Orges Shehi" ,
+   "role": "Gardien",
+   "age": "25/09/1977",
+   "club": "Skënderbeu (ALB)"
+   },
+   {
+   "number": "23",
+   "name": "Alban Hoxha" ,
+   "role": "Gardien",
+   "age": "23/11/1987",
+   "club": "Partizani (ALB)"
+   },
+   {
+   "number": "2",
+   "name": "Andi Lila" ,
+   "role": "Défenseur",
+   "age": "12/02/1986",
+   "club": "Giannina (GRE)"
+   },
+
+   {
+   "number": "4",
+   "name": "Elseid Hysaj" ,
+   "role": "Défenseur",
+   "age": "20/02/1994",
+   "club": "Napoli (ITA)"
+   },
+   {
+   "number": "6",
+   "name": "Frédéric Veseli" ,
+   "role": "Défenseur",
+   "age": "20/11/1992",
+   "club": "Qarabağ (AZE)"
+   },
+
+   {
+   "number": "7",
+   "name": "Ansi Agolli" ,
+   "role": "Défenseur",
+   "age": "11/10/1982",
+   "club": "Qarabağ (AZE)"
+   },
+
+   {
+   "number": "15",
+   "name": "Mërgim Mavraj" ,
+   "role": "Défenseur",
+   "age": "09/06/1986",
+   "club": "Köln (GER)"
+   },
+   {
+   "number": "17",
+   "name": "Naser Aliji" ,
+   "role": "Défenseur",
+   "age": "27/12/1993",
+   "club": "Basel (SUI)"
+   },
+   {
+   "number": "18",
+   "name": "Arlind Ajeti" ,
+   "role": "Défenseur",
+   "age": "25/09/1993",
+   "club": "Frosinone (ITA)"
+   },
+   {
+   "number": "3",
+   "name": "Ermir Lenjani" ,
+   "role": "Milieu",
+   "age": "05/08/1989",
+   "club": "Nantes (FRA)"
+   },
+   {
+   "number": "5",
+   "name": "Lorik Cana" ,
+   "role": "Milieu",
+   "age": "27/07/1983",
+   "club": "Nantes (FRA)"
+   },
+   {
+    "number": "8",
+   "name": "Migjen Basha" ,
+   "role": "Milieu",
+   "age": "05/01/1987",
+   "club": "Como (ITA)"
+   },
+   {
+   "number": "9",
+   "name": "Ledian Memushaj" ,
+   "role": "Milieu",
+   "age": "17/12/1986",
+   "club": "Pescara (ITA)"
+   },
+   {
+   "number": "13",
+   "name": "Burim Kukeli" ,
+   "role": "Milieu",
+   "age": "16/01/1984",
+   "club": "Zürich (SUI)"
+   },
+   {
+   "number": "14",
+   "name": "Taulant Xhaka" ,
+   "role": "Milieu",
+   "age": "28/03/1991",
+   "club": "Basel (SUI)"
+   },
+   {
+   "number": "20",
+   "name": "Ergys Kaçe" ,
+   "role": "Milieu",
+   "age": "08/07/1993",
+   "club": "PAOK (GRE)"
+   },
+   {
+   "number": "21",
+   "name": "Odise Roshi" ,
+   "role": "Milieu",
+   "age": "22/05/1991",
+   "club": "Rijeka (CRO)"
+   },
+   {
+   "number": "22",
+   "name": "Amir Abrashi" ,
+   "role": "Milieu",
+   "age": "27/03/1990",
+   "club": "Freiburg (GER)"
+   },
+   {
+   "number": "10",
+   "name": "Armando Sadiku" ,
+   "role": "Attaquant",
+   "age": "27/05/1991",
+   "club": "Vaduz (LIE)"
+   },
+   {
+   "number": "11",
+   "name": "Shkëlzen Gashi" ,
+   "role": "Attaquant",
+   "age": "15/07/1988",
+   "club": "Colorado (USA)"
+   },
+   {
+   "number": "16",
+   "name": "Shkëlzen Gashi" ,
+   "role": "Attaquant",
+   "age": "27/07/1990",
+   "club": "İstanbul Başakşehir (TUR)"
+   },
+   {
+   "number": "19",
+   "name": "Bekim Balaj" ,
+   "role": "Attaquant",
+   "age": "11/01/1991",
+   "club": "Rijeka (CRO)"
+   }
+
+   ]
+  
+}

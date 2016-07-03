@@ -1,0 +1,167 @@
+@prefix ns1: <http://data.mondeca.com/def/ftb#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.mondeca.com/id/player/suisse/1> a ns1:FootballPlayer ;
+    rdfs:label "Yann Sommer" ;
+    ns1:club "Mönchengladbach (GER)" ;
+    ns1:nationalTeam "Suisse" ;
+    ns1:role "Gardien"@fr ;
+    ns1:shirtNumber "1" .
+
+<http://data.mondeca.com/id/player/suisse/10> a ns1:FootballPlayer ;
+    rdfs:label "Granit Xhaka" ;
+    ns1:club "Mönchengladbach (GER)" ;
+    ns1:nationalTeam "Suisse" ;
+    ns1:role "Milieu"@fr ;
+    ns1:shirtNumber "10" .
+
+<http://data.mondeca.com/id/player/suisse/11> a ns1:FootballPlayer ;
+    rdfs:label "Valon Behrami" ;
+    ns1:club "Watford (ENG)" ;
+    ns1:nationalTeam "Suisse" ;
+    ns1:role "Milieu"@fr ;
+    ns1:shirtNumber "11" .
+
+<http://data.mondeca.com/id/player/suisse/12> a ns1:FootballPlayer ;
+    rdfs:label "Marwin Hitz" ;
+    ns1:club "Augsburg (GER)" ;
+    ns1:nationalTeam "Suisse" ;
+    ns1:role "Gardien"@fr ;
+    ns1:shirtNumber "12" .
+
+<http://data.mondeca.com/id/player/suisse/13> a ns1:FootballPlayer ;
+    rdfs:label "Ricardo Rodríguez" ;
+    ns1:club "Wolfsburg (GER)" ;
+    ns1:nationalTeam "Suisse" ;
+    ns1:role "Défenseur"@fr ;
+    ns1:shirtNumber "13" .
+
+<http://data.mondeca.com/id/player/suisse/14> a ns1:FootballPlayer ;
+    rdfs:label "Denis Zakaria" ;
+    ns1:club "Young Boys (SUI)" ;
+    ns1:nationalTeam "Suisse" ;
+    ns1:role "Milieu"@fr ;
+    ns1:shirtNumber "14" .
+
+<http://data.mondeca.com/id/player/suisse/15> a ns1:FootballPlayer ;
+    rdfs:label "Blerim Džemaili" ;
+    ns1:club "Genoa (ITA)" ;
+    ns1:nationalTeam "Suisse" ;
+    ns1:role "Milieu"@fr ;
+    ns1:shirtNumber "15" .
+
+<http://data.mondeca.com/id/player/suisse/16> a ns1:FootballPlayer ;
+    rdfs:label "Gelson Fernandes" ;
+    ns1:club "Rennes (FRA)" ;
+    ns1:nationalTeam "Suisse" ;
+    ns1:role "Milieu"@fr ;
+    ns1:shirtNumber "16" .
+
+<http://data.mondeca.com/id/player/suisse/17> a ns1:FootballPlayer ;
+    rdfs:label "Shani Tarashaj" ;
+    ns1:club "Grasshoppers (SUI)" ;
+    ns1:nationalTeam "Suisse" ;
+    ns1:role "Attaquant"@fr ;
+    ns1:shirtNumber "17" .
+
+<http://data.mondeca.com/id/player/suisse/18> a ns1:FootballPlayer ;
+    rdfs:label "Admir Mehmedi" ;
+    ns1:club "Leverkusen (GER)" ;
+    ns1:nationalTeam "Suisse" ;
+    ns1:role "Attaquant"@fr ;
+    ns1:shirtNumber "18" .
+
+<http://data.mondeca.com/id/player/suisse/19> a ns1:FootballPlayer ;
+    rdfs:label "Eren Derdiyok" ;
+    ns1:club "Kasımpaşa (TUR)" ;
+    ns1:nationalTeam "Suisse" ;
+    ns1:role "Attaquant"@fr ;
+    ns1:shirtNumber "19" .
+
+<http://data.mondeca.com/id/player/suisse/2> a ns1:FootballPlayer ;
+    rdfs:label "Stephan Lichtsteiner" ;
+    ns1:club "Juventus (ITA)" ;
+    ns1:nationalTeam "Suisse" ;
+    ns1:role "Défenseur"@fr ;
+    ns1:shirtNumber "2" .
+
+<http://data.mondeca.com/id/player/suisse/20> a ns1:FootballPlayer ;
+    rdfs:label "Johan Djourou" ;
+    ns1:club "Hamburg (GER)" ;
+    ns1:nationalTeam "Suisse" ;
+    ns1:role "Défenseur"@fr ;
+    ns1:shirtNumber "20" .
+
+<http://data.mondeca.com/id/player/suisse/21> a ns1:FootballPlayer ;
+    rdfs:label "Roman Bürki" ;
+    ns1:club "Dortmund (GER)" ;
+    ns1:nationalTeam "Suisse" ;
+    ns1:role "Gardien"@fr ;
+    ns1:shirtNumber "21" .
+
+<http://data.mondeca.com/id/player/suisse/22> a ns1:FootballPlayer ;
+    rdfs:label "Fabian Schär" ;
+    ns1:club "Hoffenheim (GER)" ;
+    ns1:nationalTeam "Suisse" ;
+    ns1:role "Défenseur"@fr ;
+    ns1:shirtNumber "22" .
+
+<http://data.mondeca.com/id/player/suisse/23> a ns1:FootballPlayer ;
+    rdfs:label "Xherdan Shaqiri" ;
+    ns1:club "Stoke (ENG)" ;
+    ns1:nationalTeam "Suisse" ;
+    ns1:role "Milieu"@fr ;
+    ns1:shirtNumber "23" .
+
+<http://data.mondeca.com/id/player/suisse/3> a ns1:FootballPlayer ;
+    rdfs:label "François Moubandje" ;
+    ns1:club "Toulouse (FRA)" ;
+    ns1:nationalTeam "Suisse" ;
+    ns1:role "Défenseur"@fr ;
+    ns1:shirtNumber "3" .
+
+<http://data.mondeca.com/id/player/suisse/4> a ns1:FootballPlayer ;
+    rdfs:label "Nico Elvedi" ;
+    ns1:club "Mönchengladbach (GER)" ;
+    ns1:nationalTeam "Suisse" ;
+    ns1:role "Défenseur"@fr ;
+    ns1:shirtNumber "4" .
+
+<http://data.mondeca.com/id/player/suisse/5> a ns1:FootballPlayer ;
+    rdfs:label "Steve von Bergen" ;
+    ns1:club "Young Boys (SUI)" ;
+    ns1:nationalTeam "Suisse" ;
+    ns1:role "Défenseur"@fr ;
+    ns1:shirtNumber "5" .
+
+<http://data.mondeca.com/id/player/suisse/6> a ns1:FootballPlayer ;
+    rdfs:label "Michael Lang" ;
+    ns1:club "Basel (SUI)" ;
+    ns1:nationalTeam "Suisse" ;
+    ns1:role "Défenseur"@fr ;
+    ns1:shirtNumber "6" .
+
+<http://data.mondeca.com/id/player/suisse/7> a ns1:FootballPlayer ;
+    rdfs:label "Breel Embolo" ;
+    ns1:club "Basel (SUI)" ;
+    ns1:nationalTeam "Suisse" ;
+    ns1:role "Attaquant"@fr ;
+    ns1:shirtNumber "7" .
+
+<http://data.mondeca.com/id/player/suisse/8> a ns1:FootballPlayer ;
+    rdfs:label "Fabian Frei" ;
+    ns1:club "Mainz (GER)" ;
+    ns1:nationalTeam "Suisse" ;
+    ns1:role "Défenseur"@fr ;
+    ns1:shirtNumber "8" .
+
+<http://data.mondeca.com/id/player/suisse/9> a ns1:FootballPlayer ;
+    rdfs:label "Haris Seferović" ;
+    ns1:club "Frankfurt (GER)" ;
+    ns1:nationalTeam "Suisse" ;
+    ns1:role "Attaquant"@fr ;
+    ns1:shirtNumber "9" .
+

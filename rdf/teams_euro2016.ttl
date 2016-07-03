@@ -1,0 +1,89 @@
+@prefix ftb: <http://data.mondeca.com/def/ftb#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix team: <http://data.mondeca.com/id/team/> .
+
+
+
+team:france a ftb:FootballTeam ;
+	rdfs:label "France"@en, "France"@fr ;
+	.
+
+team:switzerland a ftb:FootballTeam ;
+	rdfs:label "Switzerland"@en, "Suisse"@fr ;
+	.
+
+team:albania a ftb:FootballTeam ;
+	rdfs:label "Albania"@en, "Albanie"@fr ;
+	.
+
+team:romania a ftb:FootballTeam ;
+	rdfs:label "Romania"@en, "Roumanie"@fr ;
+	.
+
+team:wales a ftb:FootballTeam ;
+	rdfs:label "Wales"@en, "Galles"@fr ;
+	.
+
+team:england a ftb:FootballTeam ;
+	rdfs:label "England"@en, "Angleterre"@fr ;
+	.
+
+team:slovakia a ftb:FootballTeam ;
+	rdfs:label "Slovakia"@en, "Slovaquie"@fr ;
+	.
+
+team:russia a ftb:FootballTeam ;
+	rdfs:label "Russia"@en, "Russie"@fr ;
+	.
+
+team:germany a ftb:FootballTeam ;
+	rdfs:label "Germany"@en, "Allemagne"@fr ;
+	.
+team:poland a ftb:FootballTeam ;
+	rdfs:label "Poland"@en, "Pologne"@fr ;
+	.
+team:northernireland a ftb:FootballTeam ;
+	rdfs:label "Nothern Ireland"@en, "Irelande du nord"@fr ;
+	.
+team:ukraine a ftb:FootballTeam ;
+	rdfs:label "Ukraine"@en, "Ukraine"@fr ;
+	.
+team:croatia a ftb:FootballTeam ;
+	rdfs:label "Croatia"@en, "Croatie"@fr ;
+	.
+team:spain a ftb:FootballTeam ;
+	rdfs:label "Spain"@en, "Espagne"@fr ;
+	.
+team:turkey a ftb:FootballTeam ;
+	rdfs:label "Turkey"@en, "Turquie"@fr ;
+	.
+team:czeckrepublic a ftb:FootballTeam ;
+	rdfs:label "Czeck Republic"@en, "République Tchèque"@fr ;
+	.
+team:italy a ftb:FootballTeam ;
+	rdfs:label "Italy"@en, "Italie"@fr ;
+	.
+team:belgium a ftb:FootballTeam ;
+	rdfs:label "Belgium"@en, "Belgique"@fr ;
+	.
+team:republicofireland a ftb:FootballTeam ;
+	rdfs:label "Ireland"@en, "Irlande"@fr ;
+	.
+team:sweden a ftb:FootballTeam ;
+	rdfs:label "Sweden"@en, "Suède"@fr ;
+	.
+team:hungary a ftb:FootballTeam ;
+	rdfs:label "Hungary"@en, "Hongrie"@fr ;
+	.
+team:iceland a ftb:FootballTeam ;
+	rdfs:label "Iceland"@en, "Islande"@fr ;
+	.
+team:portugal a ftb:FootballTeam ;
+	rdfs:label "Portugal"@en, "Portugal"@fr ;
+	.
+team:austria a ftb:FootballTeam ;
+	rdfs:label "Autria"@en, "Autriche"@fr ;
+	.

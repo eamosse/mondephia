@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:ns0="http://data.mondeca.com/def/ftb#">
+
+  <rdf:Description rdf:about="http://data.mondeca.com/id/player/alb/1">
+    <rdf:type rdf:resource="http://data.mondeca.com/def/ftb#FootballPlayer"/>
+    <rdfs:label>Etrit Berisha</rdfs:label>
+    <ns0:club>Lazio (ITA)</ns0:club>
+    <ns0:nationalTeam>Albanie</ns0:nationalTeam>
+    <ns0:role xml:lang="fr">Gardien</ns0:role>
+    <ns0:shirtNumber>1</ns0:shirtNumber>
+  </rdf:Description>
+
+  <ns0:FootballPlayer rdf:about="http://data.mondeca.com/id/player/alb/10">
+    <rdfs:label>Armando Sadiku</rdfs:label>
+    <ns0:club>Vaduz (LIE)</ns0:club>
+    <ns0:nationalTeam>Albanie</ns0:nationalTeam>
+    <ns0:role xml:lang="fr">Attaquant</ns0:role>
+    <ns0:shirtNumber>10</ns0:shirtNumber>
+  </ns0:FootballPlayer>
+
+  <ns0:FootballPlayer rdf:about="http://data.mondeca.com/id/player/alb/11">
+    <rdfs:label>Shkëlzen Gashi</rdfs:label>
+    <ns0:club>Colorado (USA)</ns0:club>
+    <ns0:nationalTeam>Albanie</ns0:nationalTeam>
+    <ns0:role xml:lang="fr">Attaquant</ns0:role>
+    <ns0:shirtNumber>11</ns0:shirtNumber>
+  </ns0:FootballPlayer>
+
+  <ns0:FootballPlayer rdf:about="http://data.mondeca.com/id/player/alb/12">
+    <rdfs:label>Orges Shehi</rdfs:label>
+    <ns0:club>Skënderbeu (ALB)</ns0:club>
+    <ns0:nationalTeam>Albanie</ns0:nationalTeam>
+    <ns0:role xml:lang="fr">Gardien</ns0:role>
+    <ns0:shirtNumber>12</ns0:shirtNumber>
+  </ns0:FootballPlayer>
+
+  <ns0:FootballPlayer rdf:about="http://data.mondeca.com/id/player/alb/13">
+    <rdfs:label>Burim Kukeli</rdfs:label>
+    <ns0:club>Zürich (SUI)</ns0:club>
+    <ns0:nationalTeam>Albanie</ns0:nationalTeam>
+    <ns0:role xml:lang="fr">Milieu</ns0:role>
+    <ns0:shirtNumber>13</ns0:shirtNumber>
+  </ns0:FootballPlayer>
+
+  <ns0:FootballPlayer rdf:about="http://data.mondeca.com/id/player/alb/14">
+    <rdfs:label>Taulant Xhaka</rdfs:label>
+    <ns0:club>Basel (SUI)</ns0:club>
+    <ns0:nationalTeam>Albanie</ns0:nationalTeam>
+    <ns0:role xml:lang="fr">Milieu</ns0:role>
+    <ns0:shirtNumber>14</ns0:shirtNumber>
+  </ns0:FootballPlayer>
+
+  <ns0:FootballPlayer rdf:about="http://data.mondeca.com/id/player/alb/15">
+    <rdfs:label>Mërgim Mavraj</rdfs:label>
+    <ns0:club>Köln (GER)</ns0:club>
+    <ns0:nationalTeam>Albanie</ns0:nationalTeam>
+    <ns0:role xml:lang="fr">Défenseur</ns0:role>
+    <ns0:shirtNumber>15</ns0:shirtNumber>
+  </ns0:FootballPlayer>
+
+  <ns0:FootballPlayer rdf:about="http://data.mondeca.com/id/player/alb/16">
+    <rdfs:label>Shkëlzen Gashi</rdfs:label>
+    <ns0:club>İstanbul Başakşehir (TUR)</ns0:club>
+    <ns0:nationalTeam>Albanie</ns0:nationalTeam>
+    <ns0:role xml:lang="fr">Attaquant</ns0:role>
+    <ns0:shirtNumber>16</ns0:shirtNumber>
+  </ns0:FootballPlayer>
+
+  <ns0:FootballPlayer rdf:about="http://data.mondeca.com/id/player/alb/17">
+    <rdfs:label>Naser Aliji</rdfs:label>
+    <ns0:club>Basel (SUI)</ns0:club>
+    <ns0:nationalTeam>Albanie</ns0:nationalTeam>
+    <ns0:role xml:lang="fr">Défenseur</ns0:role>
+    <ns0:shirtNumber>17</ns0:shirtNumber>
+  </ns0:FootballPlayer>
+
+  <ns0:FootballPlayer rdf:about="http://data.mondeca.com/id/player/alb/18">
+    <rdfs:label>Arlind Ajeti</rdfs:label>
+    <ns0:club>Frosinone (ITA)</ns0:club>
+    <ns0:nationalTeam>Albanie</ns0:nationalTeam>
+    <ns0:role xml:lang="fr">Défenseur</ns0:role>
+    <ns0:shirtNumber>18</ns0:shirtNumber>
+  </ns0:FootballPlayer>
+
+  <ns0:FootballPlayer rdf:about="http://data.mondeca.com/id/player/alb/19">
+    <rdfs:label>Bekim Balaj</rdfs:label>
+    <ns0:club>Rijeka (CRO)</ns0:club>
+    <ns0:nationalTeam>Albanie</ns0:nationalTeam>
+    <ns0:role xml:lang="fr">Attaquant</ns0:role>
+    <ns0:shirtNumber>19</ns0:shirtNumber>
+  </ns0:FootballPlayer>
+
+  <ns0:FootballPlayer rdf:about="http://data.mondeca.com/id/player/alb/2">
+    <rdfs:label>Andi Lila</rdfs:label>
+    <ns0:club>Giannina (GRE)</ns0:club>
+    <ns0:nationalTeam>Albanie</ns0:nationalTeam>
+    <ns0:role xml:lang="fr">Défenseur</ns0:role>
+    <ns0:shirtNumber>2</ns0:shirtNumber>
+  </ns0:FootballPlayer>
+
+  <ns0:FootballPlayer rdf:about="http://data.mondeca.com/id/player/alb/20">
+    <rdfs:label>Ergys Kaçe</rdfs:label>
+    <ns0:club>PAOK (GRE)</ns0:club>
+    <ns0:nationalTeam>Albanie</ns0:nationalTeam>
+    <ns0:role xml:lang="fr">Milieu</ns0:role>
+    <ns0:shirtNumber>20</ns0:shirtNumber>
+  </ns0:FootballPlayer>
+
+  <ns0:FootballPlayer rdf:about="http://data.mondeca.com/id/player/alb/21">
+    <rdfs:label>Odise Roshi</rdfs:label>
+    <ns0:club>Rijeka (CRO)</ns0:club>
+    <ns0:nationalTeam>Albanie</ns0:nationalTeam>
+    <ns0:role xml:lang="fr">Milieu</ns0:role>
+    <ns0:shirtNumber>21</ns0:shirtNumber>
+  </ns0:FootballPlayer>
+
+  <ns0:FootballPlayer rdf:about="http://data.mondeca.com/id/player/alb/22">
+    <rdfs:label>Amir Abrashi</rdfs:label>
+    <ns0:club>Freiburg (GER)</ns0:club>
+    <ns0:nationalTeam>Albanie</ns0:nationalTeam>
+    <ns0:role xml:lang="fr">Milieu</ns0:role>
+    <ns0:shirtNumber>22</ns0:shirtNumber>
+  </ns0:FootballPlayer>
+
+  <ns0:FootballPlayer rdf:about="http://data.mondeca.com/id/player/alb/23">
+    <rdfs:label>Alban Hoxha</rdfs:label>
+    <ns0:club>Partizani (ALB)</ns0:club>
+    <ns0:nationalTeam>Albanie</ns0:nationalTeam>
+    <ns0:role xml:lang="fr">Gardien</ns0:role>
+    <ns0:shirtNumber>23</ns0:shirtNumber>
+  </ns0:FootballPlayer>
+
+  <ns0:FootballPlayer rdf:about="http://data.mondeca.com/id/player/alb/3">
+    <rdfs:label>Ermir Lenjani</rdfs:label>
+    <ns0:club>Nantes (FRA)</ns0:club>
+    <ns0:nationalTeam>Albanie</ns0:nationalTeam>
+    <ns0:role xml:lang="fr">Milieu</ns0:role>
+    <ns0:shirtNumber>3</ns0:shirtNumber>
+  </ns0:FootballPlayer>
+
+  <ns0:FootballPlayer rdf:about="http://data.mondeca.com/id/player/alb/4">
+    <rdfs:label>Elseid Hysaj</rdfs:label>
+    <ns0:club>Napoli (ITA)</ns0:club>
+    <ns0:nationalTeam>Albanie</ns0:nationalTeam>
+    <ns0:role xml:lang="fr">Défenseur</ns0:role>
+    <ns0:shirtNumber>4</ns0:shirtNumber>
+  </ns0:FootballPlayer>
+
+  <ns0:FootballPlayer rdf:about="http://data.mondeca.com/id/player/alb/5">
+    <rdfs:label>Lorik Cana</rdfs:label>
+    <ns0:club>Nantes (FRA)</ns0:club>
+    <ns0:nationalTeam>Albanie</ns0:nationalTeam>
+    <ns0:role xml:lang="fr">Milieu</ns0:role>
+    <ns0:shirtNumber>5</ns0:shirtNumber>
+  </ns0:FootballPlayer>
+
+  <ns0:FootballPlayer rdf:about="http://data.mondeca.com/id/player/alb/6">
+    <rdfs:label>Frédéric Veseli</rdfs:label>
+    <ns0:club>Qarabağ (AZE)</ns0:club>
+    <ns0:nationalTeam>Albanie</ns0:nationalTeam>
+    <ns0:role xml:lang="fr">Défenseur</ns0:role>
+    <ns0:shirtNumber>6</ns0:shirtNumber>
+  </ns0:FootballPlayer>
+
+  <ns0:FootballPlayer rdf:about="http://data.mondeca.com/id/player/alb/7">
+    <rdfs:label>Ansi Agolli</rdfs:label>
+    <ns0:club>Qarabağ (AZE)</ns0:club>
+    <ns0:nationalTeam>Albanie</ns0:nationalTeam>
+    <ns0:role xml:lang="fr">Défenseur</ns0:role>
+    <ns0:shirtNumber>7</ns0:shirtNumber>
+  </ns0:FootballPlayer>
+
+  <ns0:FootballPlayer rdf:about="http://data.mondeca.com/id/player/alb/8">
+    <rdfs:label>Migjen Basha</rdfs:label>
+    <ns0:club>Como (ITA)</ns0:club>
+    <ns0:nationalTeam>Albanie</ns0:nationalTeam>
+    <ns0:role xml:lang="fr">Milieu</ns0:role>
+    <ns0:shirtNumber>8</ns0:shirtNumber>
+  </ns0:FootballPlayer>
+
+  <ns0:FootballPlayer rdf:about="http://data.mondeca.com/id/player/alb/9">
+    <rdfs:label>Ledian Memushaj</rdfs:label>
+    <ns0:club>Pescara (ITA)</ns0:club>
+    <ns0:nationalTeam>Albanie</ns0:nationalTeam>
+    <ns0:role xml:lang="fr">Milieu</ns0:role>
+    <ns0:shirtNumber>9</ns0:shirtNumber>
+  </ns0:FootballPlayer>
+
+</rdf:RDF>

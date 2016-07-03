@@ -1,0 +1,167 @@
+@prefix ns1: <http://data.mondeca.com/def/ftb#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.mondeca.com/id/player/alb/1> a ns1:FootballPlayer ;
+    rdfs:label "Etrit Berisha" ;
+    ns1:club "Lazio (ITA)" ;
+    ns1:nationalTeam "Albanie" ;
+    ns1:role "Gardien"@fr ;
+    ns1:shirtNumber "1" .
+
+<http://data.mondeca.com/id/player/alb/10> a ns1:FootballPlayer ;
+    rdfs:label "Armando Sadiku" ;
+    ns1:club "Vaduz (LIE)" ;
+    ns1:nationalTeam "Albanie" ;
+    ns1:role "Attaquant"@fr ;
+    ns1:shirtNumber "10" .
+
+<http://data.mondeca.com/id/player/alb/11> a ns1:FootballPlayer ;
+    rdfs:label "Shkëlzen Gashi" ;
+    ns1:club "Colorado (USA)" ;
+    ns1:nationalTeam "Albanie" ;
+    ns1:role "Attaquant"@fr ;
+    ns1:shirtNumber "11" .
+
+<http://data.mondeca.com/id/player/alb/12> a ns1:FootballPlayer ;
+    rdfs:label "Orges Shehi" ;
+    ns1:club "Skënderbeu (ALB)" ;
+    ns1:nationalTeam "Albanie" ;
+    ns1:role "Gardien"@fr ;
+    ns1:shirtNumber "12" .
+
+<http://data.mondeca.com/id/player/alb/13> a ns1:FootballPlayer ;
+    rdfs:label "Burim Kukeli" ;
+    ns1:club "Zürich (SUI)" ;
+    ns1:nationalTeam "Albanie" ;
+    ns1:role "Milieu"@fr ;
+    ns1:shirtNumber "13" .
+
+<http://data.mondeca.com/id/player/alb/14> a ns1:FootballPlayer ;
+    rdfs:label "Taulant Xhaka" ;
+    ns1:club "Basel (SUI)" ;
+    ns1:nationalTeam "Albanie" ;
+    ns1:role "Milieu"@fr ;
+    ns1:shirtNumber "14" .
+
+<http://data.mondeca.com/id/player/alb/15> a ns1:FootballPlayer ;
+    rdfs:label "Mërgim Mavraj" ;
+    ns1:club "Köln (GER)" ;
+    ns1:nationalTeam "Albanie" ;
+    ns1:role "Défenseur"@fr ;
+    ns1:shirtNumber "15" .
+
+<http://data.mondeca.com/id/player/alb/16> a ns1:FootballPlayer ;
+    rdfs:label "Shkëlzen Gashi" ;
+    ns1:club "İstanbul Başakşehir (TUR)" ;
+    ns1:nationalTeam "Albanie" ;
+    ns1:role "Attaquant"@fr ;
+    ns1:shirtNumber "16" .
+
+<http://data.mondeca.com/id/player/alb/17> a ns1:FootballPlayer ;
+    rdfs:label "Naser Aliji" ;
+    ns1:club "Basel (SUI)" ;
+    ns1:nationalTeam "Albanie" ;
+    ns1:role "Défenseur"@fr ;
+    ns1:shirtNumber "17" .
+
+<http://data.mondeca.com/id/player/alb/18> a ns1:FootballPlayer ;
+    rdfs:label "Arlind Ajeti" ;
+    ns1:club "Frosinone (ITA)" ;
+    ns1:nationalTeam "Albanie" ;
+    ns1:role "Défenseur"@fr ;
+    ns1:shirtNumber "18" .
+
+<http://data.mondeca.com/id/player/alb/19> a ns1:FootballPlayer ;
+    rdfs:label "Bekim Balaj" ;
+    ns1:club "Rijeka (CRO)" ;
+    ns1:nationalTeam "Albanie" ;
+    ns1:role "Attaquant"@fr ;
+    ns1:shirtNumber "19" .
+
+<http://data.mondeca.com/id/player/alb/2> a ns1:FootballPlayer ;
+    rdfs:label "Andi Lila" ;
+    ns1:club "Giannina (GRE)" ;
+    ns1:nationalTeam "Albanie" ;
+    ns1:role "Défenseur"@fr ;
+    ns1:shirtNumber "2" .
+
+<http://data.mondeca.com/id/player/alb/20> a ns1:FootballPlayer ;
+    rdfs:label "Ergys Kaçe" ;
+    ns1:club "PAOK (GRE)" ;
+    ns1:nationalTeam "Albanie" ;
+    ns1:role "Milieu"@fr ;
+    ns1:shirtNumber "20" .
+
+<http://data.mondeca.com/id/player/alb/21> a ns1:FootballPlayer ;
+    rdfs:label "Odise Roshi" ;
+    ns1:club "Rijeka (CRO)" ;
+    ns1:nationalTeam "Albanie" ;
+    ns1:role "Milieu"@fr ;
+    ns1:shirtNumber "21" .
+
+<http://data.mondeca.com/id/player/alb/22> a ns1:FootballPlayer ;
+    rdfs:label "Amir Abrashi" ;
+    ns1:club "Freiburg (GER)" ;
+    ns1:nationalTeam "Albanie" ;
+    ns1:role "Milieu"@fr ;
+    ns1:shirtNumber "22" .
+
+<http://data.mondeca.com/id/player/alb/23> a ns1:FootballPlayer ;
+    rdfs:label "Alban Hoxha" ;
+    ns1:club "Partizani (ALB)" ;
+    ns1:nationalTeam "Albanie" ;
+    ns1:role "Gardien"@fr ;
+    ns1:shirtNumber "23" .
+
+<http://data.mondeca.com/id/player/alb/3> a ns1:FootballPlayer ;
+    rdfs:label "Ermir Lenjani" ;
+    ns1:club "Nantes (FRA)" ;
+    ns1:nationalTeam "Albanie" ;
+    ns1:role "Milieu"@fr ;
+    ns1:shirtNumber "3" .
+
+<http://data.mondeca.com/id/player/alb/4> a ns1:FootballPlayer ;
+    rdfs:label "Elseid Hysaj" ;
+    ns1:club "Napoli (ITA)" ;
+    ns1:nationalTeam "Albanie" ;
+    ns1:role "Défenseur"@fr ;
+    ns1:shirtNumber "4" .
+
+<http://data.mondeca.com/id/player/alb/5> a ns1:FootballPlayer ;
+    rdfs:label "Lorik Cana" ;
+    ns1:club "Nantes (FRA)" ;
+    ns1:nationalTeam "Albanie" ;
+    ns1:role "Milieu"@fr ;
+    ns1:shirtNumber "5" .
+
+<http://data.mondeca.com/id/player/alb/6> a ns1:FootballPlayer ;
+    rdfs:label "Frédéric Veseli" ;
+    ns1:club "Qarabağ (AZE)" ;
+    ns1:nationalTeam "Albanie" ;
+    ns1:role "Défenseur"@fr ;
+    ns1:shirtNumber "6" .
+
+<http://data.mondeca.com/id/player/alb/7> a ns1:FootballPlayer ;
+    rdfs:label "Ansi Agolli" ;
+    ns1:club "Qarabağ (AZE)" ;
+    ns1:nationalTeam "Albanie" ;
+    ns1:role "Défenseur"@fr ;
+    ns1:shirtNumber "7" .
+
+<http://data.mondeca.com/id/player/alb/8> a ns1:FootballPlayer ;
+    rdfs:label "Migjen Basha" ;
+    ns1:club "Como (ITA)" ;
+    ns1:nationalTeam "Albanie" ;
+    ns1:role "Milieu"@fr ;
+    ns1:shirtNumber "8" .
+
+<http://data.mondeca.com/id/player/alb/9> a ns1:FootballPlayer ;
+    rdfs:label "Ledian Memushaj" ;
+    ns1:club "Pescara (ITA)" ;
+    ns1:nationalTeam "Albanie" ;
+    ns1:role "Milieu"@fr ;
+    ns1:shirtNumber "9" .
+

@@ -6,6 +6,7 @@ Created on Sat Jul  2 20:32:09 2016
 """
 import json 
 
+
 def moyenne(tableau):
     return sum(tableau, 0.0) / len(tableau)
 
@@ -18,6 +19,7 @@ def ecartype(tableau):
 
 def process(file):
     dd = {}
+    
     with open(file) as data_file:    
         data = json.load(data_file)
         ds = [d['val'] for d in data['data'][0]['values'] ]

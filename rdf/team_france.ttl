@@ -1,0 +1,167 @@
+@prefix ns1: <http://data.mondeca.com/def/ftb#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.mondeca.com/id/player/france/1> a ns1:FootballPlayer ;
+    rdfs:label "Hugo Lloris" ;
+    ns1:club "Tottenham (ENG)" ;
+    ns1:nationalTeam "France" ;
+    ns1:role "Gardien"@fr ;
+    ns1:shirtNumber "1" .
+
+<http://data.mondeca.com/id/player/france/10> a ns1:FootballPlayer ;
+    rdfs:label "André-Pierre Gignac" ;
+    ns1:club "Tigres (MEX)" ;
+    ns1:nationalTeam "France" ;
+    ns1:role "Attaquant"@fr ;
+    ns1:shirtNumber "10" .
+
+<http://data.mondeca.com/id/player/france/11> a ns1:FootballPlayer ;
+    rdfs:label "Anthony Martial" ;
+    ns1:club "Man. United (ENG)" ;
+    ns1:nationalTeam "France" ;
+    ns1:role "Attaquant"@fr ;
+    ns1:shirtNumber "11" .
+
+<http://data.mondeca.com/id/player/france/12> a ns1:FootballPlayer ;
+    rdfs:label "Morgan Schneiderlin" ;
+    ns1:club "Man. United (ENG)" ;
+    ns1:nationalTeam "France" ;
+    ns1:role "Milieu"@fr ;
+    ns1:shirtNumber "12" .
+
+<http://data.mondeca.com/id/player/france/13> a ns1:FootballPlayer ;
+    rdfs:label "Eliaquim Mangala" ;
+    ns1:club "Man. City (ENG)" ;
+    ns1:nationalTeam "France" ;
+    ns1:role "Défenseur"@fr ;
+    ns1:shirtNumber "13" .
+
+<http://data.mondeca.com/id/player/france/14> a ns1:FootballPlayer ;
+    rdfs:label "Blaise Matuidi" ;
+    ns1:club "Paris (FRA)" ;
+    ns1:nationalTeam "France" ;
+    ns1:role "Milieu"@fr ;
+    ns1:shirtNumber "14" .
+
+<http://data.mondeca.com/id/player/france/15> a ns1:FootballPlayer ;
+    rdfs:label "Paul Pogba" ;
+    ns1:club "Juventus (ITA)" ;
+    ns1:nationalTeam "France" ;
+    ns1:role "Milieu"@fr ;
+    ns1:shirtNumber "15" .
+
+<http://data.mondeca.com/id/player/france/16> a ns1:FootballPlayer ;
+    rdfs:label "Steve Mandanda" ;
+    ns1:club "Marseille (FRA)" ;
+    ns1:nationalTeam "France" ;
+    ns1:role "Gardien"@fr ;
+    ns1:shirtNumber "16" .
+
+<http://data.mondeca.com/id/player/france/17> a ns1:FootballPlayer ;
+    rdfs:label "Lucas Digne" ;
+    ns1:club "Roma (ITA)" ;
+    ns1:nationalTeam "France" ;
+    ns1:role "Défenseur"@fr ;
+    ns1:shirtNumber "17" .
+
+<http://data.mondeca.com/id/player/france/18> a ns1:FootballPlayer ;
+    rdfs:label "Moussa Sissoko" ;
+    ns1:club "Newcastle (ENG)" ;
+    ns1:nationalTeam "France" ;
+    ns1:role "Milieu"@fr ;
+    ns1:shirtNumber "18" .
+
+<http://data.mondeca.com/id/player/france/19> a ns1:FootballPlayer ;
+    rdfs:label "Bacary Sagna" ;
+    ns1:club "Man. City (ENG)" ;
+    ns1:nationalTeam "France" ;
+    ns1:role "Défenseur"@fr ;
+    ns1:shirtNumber "19" .
+
+<http://data.mondeca.com/id/player/france/2> a ns1:FootballPlayer ;
+    rdfs:label "Christophe Jallet" ;
+    ns1:club "Lyon (FRA)" ;
+    ns1:nationalTeam "France" ;
+    ns1:role "Gardien"@fr ;
+    ns1:shirtNumber "2" .
+
+<http://data.mondeca.com/id/player/france/20> a ns1:FootballPlayer ;
+    rdfs:label "Kingsley Coman" ;
+    ns1:club "Bayern (GER)" ;
+    ns1:nationalTeam "France" ;
+    ns1:role "Milieu"@fr ;
+    ns1:shirtNumber "20" .
+
+<http://data.mondeca.com/id/player/france/21> a ns1:FootballPlayer ;
+    rdfs:label "Laurent Koscielny" ;
+    ns1:club "Arsenal (ENG)" ;
+    ns1:nationalTeam "France" ;
+    ns1:role "Défenseur"@fr ;
+    ns1:shirtNumber "21" .
+
+<http://data.mondeca.com/id/player/france/22> a ns1:FootballPlayer ;
+    rdfs:label "Samuel Umtiti" ;
+    ns1:club "Lyon (FRA)" ;
+    ns1:nationalTeam "France" ;
+    ns1:role "Défenseur"@fr ;
+    ns1:shirtNumber "22" .
+
+<http://data.mondeca.com/id/player/france/23> a ns1:FootballPlayer ;
+    rdfs:label "Benoît Costil" ;
+    ns1:club "Rennes (FRA)" ;
+    ns1:nationalTeam "France" ;
+    ns1:role "Gardien"@fr ;
+    ns1:shirtNumber "23" .
+
+<http://data.mondeca.com/id/player/france/3> a ns1:FootballPlayer ;
+    rdfs:label "Patrice Evra" ;
+    ns1:club "Juventus (ITA)" ;
+    ns1:nationalTeam "France" ;
+    ns1:role "Défenseur"@fr ;
+    ns1:shirtNumber "3" .
+
+<http://data.mondeca.com/id/player/france/4> a ns1:FootballPlayer ;
+    rdfs:label "Adil Rami" ;
+    ns1:club "Sevilla (ESP)" ;
+    ns1:nationalTeam "France" ;
+    ns1:role "Défenseur"@fr ;
+    ns1:shirtNumber "4" .
+
+<http://data.mondeca.com/id/player/france/5> a ns1:FootballPlayer ;
+    rdfs:label "N'Golo Kanté" ;
+    ns1:club "Leicester (ENG)" ;
+    ns1:nationalTeam "France" ;
+    ns1:role "Milieu"@fr ;
+    ns1:shirtNumber "5" .
+
+<http://data.mondeca.com/id/player/france/6> a ns1:FootballPlayer ;
+    rdfs:label "Yohan Cabaye" ;
+    ns1:club "Crystal Palace (ENG)" ;
+    ns1:nationalTeam "France" ;
+    ns1:role "Milieu"@fr ;
+    ns1:shirtNumber "6" .
+
+<http://data.mondeca.com/id/player/france/7> a ns1:FootballPlayer ;
+    rdfs:label "Antoine Griezmann" ;
+    ns1:club "Atlético (ESP)" ;
+    ns1:nationalTeam "France" ;
+    ns1:role "Attaquant"@fr ;
+    ns1:shirtNumber "7" .
+
+<http://data.mondeca.com/id/player/france/8> a ns1:FootballPlayer ;
+    rdfs:label "Dimitri Payet" ;
+    ns1:club "West Ham (ENG)" ;
+    ns1:nationalTeam "France" ;
+    ns1:role "Milieu"@fr ;
+    ns1:shirtNumber "8" .
+
+<http://data.mondeca.com/id/player/france/9> a ns1:FootballPlayer ;
+    rdfs:label "Olivier Giroud" ;
+    ns1:club "Arsenal (ENG)" ;
+    ns1:nationalTeam "France" ;
+    ns1:role "Attaquant"@fr ;
+    ns1:shirtNumber "9" .
+

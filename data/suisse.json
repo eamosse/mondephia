@@ -1,0 +1,174 @@
+{
+  "team": "Suisse",
+  "players":
+  [
+  { "number": "1",
+   "name": "Yann Sommer" ,
+   "role": "Gardien",
+   "age": "17/12/1988",
+   "club": "Mönchengladbach (GER)"
+   },
+
+   {
+   "number": "12",
+   "name": "Marwin Hitz" ,
+   "role": "Gardien",
+   "age": "18/09/1987",
+   "club": "Augsburg (GER)"
+   },
+   {
+   "number": "21",
+   "name": "Roman Bürki" ,
+   "role": "Gardien",
+   "age": "14/11/1990",
+   "club": "Dortmund (GER)"
+   },
+   {
+   "number": "2",
+   "name": "Stephan Lichtsteiner" ,
+   "role": "Défenseur",
+   "age": "16/01/1984",
+   "club": "Juventus (ITA)"
+
+   },
+   {
+   "number": "3",
+   "name": "François Moubandje" ,
+   "role": "Défenseur",
+   "age": "21/06/1990",
+   "club": "Toulouse (FRA)"
+   },
+
+   {
+   "number": "4",
+   "name": "Nico Elvedi" ,
+   "role": "Défenseur",
+   "age": "30/09/1996",
+   "club": "Mönchengladbach (GER)"
+   },
+   {
+   "number": "5",
+   "name": "Steve von Bergen" ,
+   "role": "Défenseur",
+   "age": "10/06/1983",
+   "club": "Young Boys (SUI)"
+   },
+   {
+   "number": "6",
+   "name": "Michael Lang" ,
+   "role": "Défenseur",
+   "age": "08/02/1991",
+   "club": "Basel (SUI)"
+   },
+   {
+   "number": "13",
+   "name": "Ricardo Rodríguez" ,
+   "role": "Défenseur",
+   "age": "25/08/1992",
+   "club": "Wolfsburg (GER)"
+   },
+
+   {
+   "number": "20",
+   "name": "Johan Djourou" ,
+   "role": "Défenseur",
+   "age": "18/01/1987",
+   "club": "Hamburg (GER)"
+   },
+   {
+   "number": "22",
+   "name": "Fabian Schär" ,
+   "role": "Défenseur",
+   "age": "20/12/1991",
+   "club": "Hoffenheim (GER)"
+   },
+   {
+   "number": "8",
+   "name": "Fabian Frei" ,
+   "role": "Défenseur",
+   "age": "08/01/1989",
+   "club": "Mainz (GER)"
+   },
+   {
+    "number": "10",
+   "name": "Granit Xhaka" ,
+   "role": "Milieu",
+   "age": "27/09/1992",
+   "club": "Mönchengladbach (GER)"
+   },
+   {
+   "number": "11",
+   "name": "Valon Behrami" ,
+   "role": "Milieu",
+   "age": "19/04/1985",
+   "club": "Watford (ENG)"
+   },
+   {
+   "number": "14",
+   "name": "Denis Zakaria" ,
+   "role": "Milieu",
+   "age": "20/11/1996",
+   "club": "Young Boys (SUI)"
+   },
+   {
+   "number": "15",
+   "name": "Blerim Džemaili" ,
+   "role": "Milieu",
+   "age": "12/04/1986",
+   "club": "Genoa (ITA)"
+   },
+   {
+   "number": "16",
+   "name": "Gelson Fernandes" ,
+   "role": "Milieu",
+   "age": "02/09/1986",
+   "club": "Rennes (FRA)"
+   },
+   {
+   "number": "23",
+   "name": "Xherdan Shaqiri" ,
+   "role": "Milieu",
+   "age": "10/10/1991",
+   "club": "Stoke (ENG)"
+   },
+   {
+   "number": "7",
+   "name": "Breel Embolo" ,
+   "role": "Attaquant",
+   "age": "14/02/1997",
+   "club": "Basel (SUI)"
+   },
+   {
+   "number": "9",
+   "name": "Haris Seferović" ,
+   "role": "Attaquant",
+   "age": "22/02/1992",
+   "club": "Frankfurt (GER)"
+   },
+   {
+   "number": "17",
+   "name": "Shani Tarashaj" ,
+   "role": "Attaquant",
+   "age": "07/02/1995",
+   "club": "Grasshoppers (SUI)"
+   },
+
+   {
+   "number": "18",
+   "name": "Admir Mehmedi" ,
+   "role": "Attaquant",
+   "age": "16/03/1991",
+   "club": "Leverkusen (GER)"
+   },
+
+   {
+    "number": "19",
+   "name": "Eren Derdiyok" ,
+   "role": "Attaquant",
+   "age": "12/06/1988",
+   "club": "Kasımpaşa (TUR)"
+   }
+  ]
+
+}
+

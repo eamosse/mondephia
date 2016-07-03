@@ -1,0 +1,144 @@
+{
+  "team": "Roumanie",
+  "players":
+  [
+   { "number": "1",
+   "name": "Costel Pantilimon" ,
+   "role": "Gardien",
+   "age": "01/02/1987",
+   "club": "Watford (ENG)"
+   },  
+   {"number": "12",
+   "name": "Ciprian Tătăruşanu" ,
+   "role": "Gardien",
+   "age": "09/02/1986",
+   "club": "Fiorentina (ITA)"
+   },
+   {"number": "23",
+   "name": "Silviu Lung" ,
+   "role": "Gardien",
+   "age": "04/06/1989",
+   "club": "Astra (ROU)"
+   },
+  {"number": "2",
+   "name": "Alexandru Măţel" ,
+   "role": "Défenseur",
+   "age": "17/10/1989",
+   "club": "Dinamo Zagreb (CRO)"
+   },
+  {"number": "3",
+   "name": "Răzvan Raţ" ,
+   "role": "Défenseur",
+   "age": "26/05/1981",
+   "club": "Rayo Vallecano (ESP)"
+   },
+  {"number": "4",
+   "name": "Cosmin Moţi" ,
+   "role": "Défenseur",
+   "age": "03/12/1984",
+   "club": "Ludogorets (BUL)"
+   },
+  {"number": "6",
+   "name": "Vlad Chiricheş" ,
+   "role": "Défenseur",
+   "age": "14/11/1989",
+   "club": "Napoli (ITA)"
+   },
+  {"number": "15",
+   "name": "Valerică Găman" ,
+   "role": "Défenseur",
+   "age": "25/02/1989",
+   "club": "Astra (ROU)"
+   },
+  {"number": "16",
+   "name": "Steliano Filip" ,
+   "role": "Défenseur",
+   "age": "15/05/1994",
+   "club": "Dinamo Bucureşti (ROU)"
+   },
+  {"number": "21",
+   "name": "Dragoş Grigore" ,
+   "role": "Défenseur",
+   "age": "07/09/1986",
+   "club": "Al-Sailiya (QAT)"
+   },
+  {"number": "22",
+   "name": "Cristian Săpunaru" ,
+   "role": "Défenseur",
+   "age": "05/04/1984",
+   "club": "Pandurii (ROU)"
+   },
+  {"number": "5",
+   "name": "Ovidiu Hoban" ,
+   "role": "Milieu",
+   "age": "27/12/1982",
+   "club": "H. Beer-Sheva (ISR)"
+   },
+  {"number": "7",
+   "name": "Alexandru Chipciu" ,
+   "role": "Milieu",
+   "age": "18/05/1989",
+   "club": "Steaua (ROU)"
+   },
+  {"number": "8",
+   "name": "Mihai Pintilii" ,
+   "role": "Milieu",
+   "age": "09/11/1984",
+   "club": "Steaua (ROU)"
+   },
+  {"number": "10",
+   "name": "Nicolae Stanciu" ,
+   "role": "Milieu",
+   "age": "07/05/1993",
+   "club": "Steaua (ROU)"
+   },
+  {"number": "11",
+   "name": "Gabriel Torje" ,
+   "role": "Milieu",
+   "age": "22/11/1989",
+   "club": "Osmanlıspor (TUR)"
+   },
+  {"number": "17",
+   "name": "Lucian Sânmărtean" ,
+   "role": "Milieu",
+   "age": "13/03/1980",
+   "club": "Al-Ittihad (KSA)"
+   },
+  {"number": "18",
+   "name": "Andrei Prepeliţă" ,
+   "role": "Milieu",
+   "age": "08/12/1985",
+   "club": "Ludogorets (BUL)"
+   },
+  {"number": "20",
+   "name": "Adrian Popa" ,
+   "role": "Milieu",
+   "age": "24/07/1988",
+   "club": "Steaua (ROU)"
+   },
+  {"number": "9",
+   "name": "Denis Alibec" ,
+   "role": "Attaquant",
+   "age": "05/01/1991",
+   "club": "Astra (ROU)"
+   },
+  {"number": "13",
+   "name": "Claudiu Keșerü" ,
+   "role": "Attaquant",
+   "age": "02/12/1986",
+   "club": "Ludogorets (BUL)"
+   },
+  {"number": "14",
+   "name": "Florin Andone" ,
+   "role": "Attaquant",
+   "age": "11/04/1993",
+   "club": "Córdoba (ESP)"
+   },
+  {"number": "19",
+   "name": "Bogdan Stancu" ,
+   "role": "Attaquant",
+   "age": "28/06/1987",
+   "club": "Gençlerbirliği (TUR)"
+   }   
+   ]
+}

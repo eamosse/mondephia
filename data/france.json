@@ -1,0 +1,169 @@
+{
+  "team": "France",
+  "players":
+  [
+  {
+  "number": "1",
+   "name": "Hugo Lloris" ,
+   "role": "Gardien",
+   "age": "26/12/1986",
+   "club": "Tottenham (ENG)"
+   },
+   {
+   "number": "16",
+   "name": "Steve Mandanda" ,
+   "role": "Gardien",
+   "age": "28/03/1985",
+   "club": "Marseille (FRA)"
+   },
+   {
+   "number": "23",
+   "name": "Benoît Costil" ,
+   "role": "Gardien",
+   "age": "03/07/1987",
+   "club": "Rennes (FRA)"
+   },
+   {
+   "number": "2",
+   "name": "Christophe Jallet" ,
+   "role": "Gardien",
+   "age": "31/10/1983",
+   "club": "Lyon (FRA)"
+   },
+   {
+   "number": "3",
+   "name": "Patrice Evra" ,
+   "role": "Défenseur",
+   "age": "15/05/1981",
+   "club": "Juventus (ITA)"
+   },
+
+   {
+   "number": "4",
+   "name": "Adil Rami" ,
+   "role": "Défenseur",
+   "age": "27/12/1985",
+   "club": "Sevilla (ESP)"
+   },
+   {
+   "number": "13",
+   "name": "Eliaquim Mangala" ,
+   "role": "Défenseur",
+   "age": "13/02/1991",
+   "club": "Man. City (ENG)"
+   },
+
+   {
+   "number": "17",
+   "name": "Lucas Digne" ,
+   "role": "Défenseur",
+   "age": "20/07/1993",
+   "club": "Roma (ITA)"
+   },
+   {
+   "number": "19",
+   "name": "Bacary Sagna" ,
+   "role": "Défenseur",
+   "age": "14/02/1983",
+   "club": "Man. City (ENG)"
+   },
+   {
+   "number": "21",
+   "name": "Laurent Koscielny" ,
+   "role": "Défenseur",
+   "age": "0/09/1985",
+   "club": "Arsenal (ENG)"
+   },
+   {
+   "number": "22",
+   "name": "Samuel Umtiti" ,
+   "role": "Défenseur",
+   "age": "14/11/1993",
+   "club": "Lyon (FRA)"
+   },
+   {
+   "number": "5",
+   "name": "N'Golo Kanté" ,
+   "role": "Milieu",
+   "age": "29/03/1991",
+   "club": "Leicester (ENG)"
+   },
+   {
+   "number": "6",
+   "name": "Yohan Cabaye" ,
+   "role": "Milieu",
+   "age": "14/01/1986",
+   "club": "Crystal Palace (ENG)"
+   },
+   {
+   "number": "8",
+   "name": "Dimitri Payet" ,
+   "role": "Milieu",
+   "age": "29/03/1987",
+   "club": "West Ham (ENG)"
+   },
+   {
+   "number": "12",
+   "name": "Morgan Schneiderlin" ,
+   "role": "Milieu",
+   "age": "08/11/1989",
+   "club": "Man. United (ENG)"
+   },
+   {
+   "number": "14",
+   "name": "Blaise Matuidi" ,
+   "role": "Milieu",
+   "age": "09/04/1987",
+   "club": "Paris (FRA)"  
+   },
+   {
+   "number": "15",
+   "name": "Paul Pogba" ,
+   "role": "Milieu",
+   "age": "15/03/1993",
+   "club": "Juventus (ITA)" 
+   },
+   {
+   "number": "18",
+   "name": "Moussa Sissoko" ,
+   "role": "Milieu",
+   "age": "16/08/1989",
+   "club": "Newcastle (ENG)"
+   },
+   {
+   "number": "20",
+   "name": "Kingsley Coman" ,
+   "role": "Milieu",
+   "age": "13/06/1996",
+   "club": "Bayern (GER)"
+   },
+   {
+   "number": "7",
+   "name": "Antoine Griezmann" ,
+   "role": "Attaquant",
+   "age": "21/03/1991",
+   "club": "Atlético (ESP)"
+   },
+   {
+   "number": "9",
+   "name": "Olivier Giroud" ,
+   "role": "Attaquant",
+   "age": "30/09/1986",
+   "club": "Arsenal (ENG)"
+   },
+   {
+   "number": "10",
+   "name": "André-Pierre Gignac" ,
+   "role": "Attaquant",
+   "age": "05/12/1985",
+   "club": "Tigres (MEX)"
+   },
+   {
+   "number": "11",
+   "name": "Anthony Martial" ,
+   "role": "Attaquant",
+   "age": "05/12/1995",
+   "club": "Man. United (ENG)"
+   }
+  ]
+}

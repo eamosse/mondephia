@@ -1,0 +1,232 @@
+@prefix ns1: <http://data.mondeca.com/def/ftb#> .
+@prefix ns2: <http://linkedevents.org/ontology/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.mondeca.com/id/soccer/0246dd1a-fc1c-41be-b461-3cacd91a9fad> a ns1:FootballMatch,
+        ns2:Event ;
+    ns2:atTime [ ns1:endTime "2016/06/17T20:00:00+02:00" ;
+            ns1:startTime "2016/06/17T18:00:00+02:00" ] .
+
+<http://data.mondeca.com/id/soccer/0973a3c0-58ec-4f62-be75-7eaddcacd112> a ns1:FootballMatch,
+        ns2:Event ;
+    ns2:atTime [ ns1:endTime "2016/06/13T17:00:00+02:00" ;
+            ns1:startTime "2016/06/13T15:00:00+02:00" ] .
+
+<http://data.mondeca.com/id/soccer/0c6eec69-b9d8-4281-a66b-8f42eb925ac4> a ns1:FootballMatch,
+        ns2:Event ;
+    ns2:atTime [ ns1:endTime "2016/06/27T20:00:00+02:00" ;
+            ns1:startTime "2016/06/27T18:00:00+02:00" ] .
+
+<http://data.mondeca.com/id/soccer/21c38910-affa-47e9-9aa9-b3738325f6e6> a ns1:FootballMatch,
+        ns2:Event ;
+    ns2:atTime [ ns1:endTime "2016/06/26T20:00:00+02:00" ;
+            ns1:startTime "2016/06/26T18:00:00+02:00" ] .
+
+<http://data.mondeca.com/id/soccer/270df670-b6b8-48de-aada-e20aab6741b2> a ns1:FootballMatch,
+        ns2:Event ;
+    ns2:atTime [ ns1:endTime "2016/06/15T17:00:00+02:00" ;
+            ns1:startTime "2016/06/15T15:00:00+02:00" ] .
+
+<http://data.mondeca.com/id/soccer/2ae97421-7c0a-4942-bc64-f20ef96e9b2b> a ns1:FootballMatch,
+        ns2:Event ;
+    ns2:atTime [ ns1:endTime "2016/06/25T20:00:00+02:00" ;
+            ns1:startTime "2016/06/25T18:00:00+02:00" ] .
+
+<http://data.mondeca.com/id/soccer/39e98f8f-285b-4a74-8708-0d3e886e8a1e> a ns1:FootballMatch,
+        ns2:Event ;
+    ns2:atTime [ ns1:endTime "2016/06/10T23:00:00+02:00" ;
+            ns1:startTime "2016/06/10T21:00:00+02:00" ] .
+
+<http://data.mondeca.com/id/soccer/45151b38-89ac-43fb-a35a-ea3c5b236c71> a ns1:FootballMatch,
+        ns2:Event ;
+    ns2:atTime [ ns1:endTime "2016/06/17T23:00:00+02:00" ;
+            ns1:startTime "2016/06/17T21:00:00+02:00" ] .
+
+<http://data.mondeca.com/id/soccer/480b8f86-b7b8-4b86-b813-c1d0ac1302c9> a ns1:FootballMatch,
+        ns2:Event ;
+    ns2:atTime [ ns1:endTime "2016/06/11T23:00:00+02:00" ;
+            ns1:startTime "2016/06/11T21:00:00+02:00" ] .
+
+<http://data.mondeca.com/id/soccer/4a2ded69-244a-4e42-b420-70526252d74f> a ns1:FootballMatch,
+        ns2:Event ;
+    ns2:atTime [ ns1:endTime "2016/06/20T23:00:00+02:00" ;
+            ns1:startTime "2016/06/20T21:00:00+02:00" ] .
+
+<http://data.mondeca.com/id/soccer/4f0b8751-b361-4594-86a0-d21810d29985> a ns1:FootballMatch,
+        ns2:Event ;
+    ns2:atTime [ ns1:endTime "2016/06/13T20:00:00+02:00" ;
+            ns1:startTime "2016/06/13T18:00:00+02:00" ] .
+
+<http://data.mondeca.com/id/soccer/53949821-b1f7-4c51-98ac-45a09607362d> a ns1:FootballMatch,
+        ns2:Event ;
+    ns2:atTime [ ns1:endTime "2016/06/16T23:00:00+02:00" ;
+            ns1:startTime "2016/06/16T21:00:00+02:00" ] .
+
+<http://data.mondeca.com/id/soccer/562fea34-0b63-4254-a269-ad5ac27f6a8d> a ns1:FootballMatch,
+        ns2:Event ;
+    ns2:atTime [ ns1:endTime "2016/06/22T20:00:00+02:00" ;
+            ns1:startTime "2016/06/22T18:00:00+02:00" ] .
+
+<http://data.mondeca.com/id/soccer/612f5da2-2e65-4d09-b9b1-29551809272f> a ns1:FootballMatch,
+        ns2:Event ;
+    ns2:atTime [ ns1:endTime "2016/06/12T17:00:00+02:00" ;
+            ns1:startTime "2016/06/12T15:00:00+02:00" ] .
+
+<http://data.mondeca.com/id/soccer/67ba7a03-2e2a-4d42-83ea-f071b9096ab4> a ns1:FootballMatch,
+        ns2:Event ;
+    ns2:atTime [ ns1:endTime "2016/06/22T23:00:00+02:00" ;
+            ns1:startTime "2016/06/22T21:00:00+02:00" ] .
+
+<http://data.mondeca.com/id/soccer/6cbc0de6-a624-4b3b-a264-f37d9ace6da1> a ns1:FootballMatch,
+        ns2:Event ;
+    ns2:atTime [ ns1:endTime "2016/06/14T20:00:00+02:00" ;
+            ns1:startTime "2016/06/14T18:00:00+02:00" ] .
+
+<http://data.mondeca.com/id/soccer/70e281f6-00cb-483c-ad15-e8fb720aeafe> a ns1:FootballMatch,
+        ns2:Event ;
+    ns2:atTime [ ns1:endTime "2016/06/17T17:00:00+02:00" ;
+            ns1:startTime "2016/06/17T15:00:00+02:00" ] .
+
+<http://data.mondeca.com/id/soccer/74c050b0-c16f-4995-b7dd-8ac40ce4099e> a ns1:FootballMatch,
+        ns2:Event ;
+    ns2:atTime [ ns1:endTime "2016/06/16T20:00:00+02:00" ;
+            ns1:startTime "2016/06/16T18:00:00+02:00" ] .
+
+<http://data.mondeca.com/id/soccer/7eec9d1b-f471-460b-95dc-40af20310717> a ns1:FootballMatch,
+        ns2:Event ;
+    ns2:atTime [ ns1:endTime "2016/06/13T23:00:00+02:00" ;
+            ns1:startTime "2016/06/13T21:00:00+02:00" ] .
+
+<http://data.mondeca.com/id/soccer/845b7bdc-8fb1-4296-9fde-c18f6cd71b12> a ns1:FootballMatch,
+        ns2:Event ;
+    ns2:atTime [ ns1:endTime "2016/06/12T23:00:00+02:00" ;
+            ns1:startTime "2016/06/12T21:00:00+02:00" ] .
+
+<http://data.mondeca.com/id/soccer/86a23215-d1da-4900-a05d-1196768fffab> a ns1:FootballMatch,
+        ns2:Event ;
+    ns2:atTime [ ns1:endTime "2016/06/18T17:00:00+02:00" ;
+            ns1:startTime "2016/06/18T15:00:00+02:00" ] .
+
+<http://data.mondeca.com/id/soccer/86f0c57d-58f8-4f20-99fa-e752bb846180> a ns1:FootballMatch,
+        ns2:Event ;
+    ns2:atTime [ ns1:endTime "2016/06/19T23:00:00+02:00" ;
+            ns1:startTime "2016/06/19T21:00:00+02:00" ] .
+
+<http://data.mondeca.com/id/soccer/9100d69a-a23c-411f-a736-be21863ee255> a ns1:FootballMatch,
+        ns2:Event ;
+    ns2:atTime [ ns1:endTime "2016/06/11T17:00:00+02:00" ;
+            ns1:startTime "2016/06/11T15:00:00+02:00" ] .
+
+<http://data.mondeca.com/id/soccer/92708788-2140-4b87-b281-3f649ef4fa97> a ns1:FootballMatch,
+        ns2:Event ;
+    ns2:atTime [ ns1:endTime "2016/06/21T20:00:00+02:00" ;
+            ns1:startTime "2016/06/21T18:00:00+02:00" ] .
+
+<http://data.mondeca.com/id/soccer/966a0719-914f-4924-a497-b0e717b05a07> a ns1:FootballMatch,
+        ns2:Event ;
+    ns2:atTime [ ns1:endTime "2016/06/21T20:00:00+02:00" ;
+            ns1:startTime "2016/06/21T18:00:00+02:00" ] .
+
+<http://data.mondeca.com/id/soccer/9e6a2c50-bca3-4f30-a05f-5b1edd2118b5> a ns1:FootballMatch,
+        ns2:Event ;
+    ns2:atTime [ ns1:endTime "2016/06/18T23:00:00+02:00" ;
+            ns1:startTime "2016/06/18T21:00:00+02:00" ] .
+
+<http://data.mondeca.com/id/soccer/9f076dad-65b6-4988-a219-031f913c1f4d> a ns1:FootballMatch,
+        ns2:Event ;
+    ns2:atTime [ ns1:endTime "2016/06/20T23:00:00+02:00" ;
+            ns1:startTime "2016/06/20T21:00:00+02:00" ] .
+
+<http://data.mondeca.com/id/soccer/a1bafeec-c30f-4754-af57-eab131636309> a ns1:FootballMatch,
+        ns2:Event ;
+    ns2:atTime [ ns1:endTime "2016/06/27T23:00:00+02:00" ;
+            ns1:startTime "2016/06/27T21:00:00+02:00" ] .
+
+<http://data.mondeca.com/id/soccer/a2da7877-b294-4d65-9da4-9439725bc7f3> a ns1:FootballMatch,
+        ns2:Event ;
+    ns2:atTime [ ns1:endTime "2016/06/12T20:00:00+02:00" ;
+            ns1:startTime "2016/06/12T18:00:00+02:00" ] .
+
+<http://data.mondeca.com/id/soccer/a595d9aa-16ce-4d9c-bfaa-bb20dcd49c5f> a ns1:FootballMatch,
+        ns2:Event ;
+    ns2:atTime [ ns1:endTime "2016/06/16T17:00:00+02:00" ;
+            ns1:startTime "2016/06/16T15:00:00+02:00" ] .
+
+<http://data.mondeca.com/id/soccer/a711ced5-4b1a-4e1f-adc0-74c604499f83> a ns1:FootballMatch,
+        ns2:Event ;
+    ns2:atTime [ ns1:endTime "2016/06/11T20:00:00+02:00" ;
+            ns1:startTime "2016/06/11T18:00:00+02:00" ] .
+
+<http://data.mondeca.com/id/soccer/b64b3074-21de-4757-9d56-973eec7ced27> a ns1:FootballMatch,
+        ns2:Event ;
+    ns2:atTime [ ns1:endTime "2016/06/21T23:00:00+02:00" ;
+            ns1:startTime "2016/06/21T21:00:00+02:00" ] .
+
+<http://data.mondeca.com/id/soccer/b6cce907-9e8b-4d9d-b632-7cca16bc8657> a ns1:FootballMatch,
+        ns2:Event ;
+    ns2:atTime [ ns1:endTime "2016/06/19T23:00:00+02:00" ;
+            ns1:startTime "2016/06/19T21:00:00+02:00" ] .
+
+<http://data.mondeca.com/id/soccer/b942a6a6-38ba-42b0-b183-8c95e274cf8f> a ns1:FootballMatch,
+        ns2:Event ;
+    ns2:atTime [ ns1:endTime "2016/06/25T23:00:00+02:00" ;
+            ns1:startTime "2016/06/25T21:00:00+02:00" ] .
+
+<http://data.mondeca.com/id/soccer/bd006269-781f-4d23-b4a0-bfd4dbc54cbf> a ns1:FootballMatch,
+        ns2:Event ;
+    ns2:atTime [ ns1:endTime "2016/06/14T23:00:00+02:00" ;
+            ns1:startTime "2016/06/14T21:00:00+02:00" ] .
+
+<http://data.mondeca.com/id/soccer/d7c10868-fa5a-4383-a51d-794697f6e19e> a ns1:FootballMatch,
+        ns2:Event ;
+    ns2:atTime [ ns1:endTime "2016/06/26T17:00:00+02:00" ;
+            ns1:startTime "2016/06/26T15:00:00+02:00" ] .
+
+<http://data.mondeca.com/id/soccer/e507bd8f-2258-4579-bfbe-ed062c2d7099> a ns1:FootballMatch,
+        ns2:Event ;
+    ns2:atTime [ ns1:endTime "2016/06/15T23:00:00+02:00" ;
+            ns1:startTime "2016/06/15T21:00:00+02:00" ] .
+
+<http://data.mondeca.com/id/soccer/e8d5720c-9075-4183-9fdc-ff993006a6a8> a ns1:FootballMatch,
+        ns2:Event ;
+    ns2:atTime [ ns1:endTime "2016/06/30T23:00:00+02:00" ;
+            ns1:startTime "2016/06/30T21:00:00+02:00" ] .
+
+<http://data.mondeca.com/id/soccer/e9122f28-0f27-42e7-a0f8-7699af7cbbb4> a ns1:FootballMatch,
+        ns2:Event ;
+    ns2:atTime [ ns1:endTime "2016/06/22T23:00:00+02:00" ;
+            ns1:startTime "2016/06/22T21:00:00+02:00" ] .
+
+<http://data.mondeca.com/id/soccer/f101c861-0401-49b4-b049-fc2f18c41814> a ns1:FootballMatch,
+        ns2:Event ;
+    ns2:atTime [ ns1:endTime "2016/06/18T20:00:00+02:00" ;
+            ns1:startTime "2016/06/18T18:00:00+02:00" ] .
+
+<http://data.mondeca.com/id/soccer/f2d91b34-539b-443b-ac7e-6dcb2899eb54> a ns1:FootballMatch,
+        ns2:Event ;
+    ns2:atTime [ ns1:endTime "2016/06/25T17:00:00+02:00" ;
+            ns1:startTime "2016/06/25T15:00:00+02:00" ] .
+
+<http://data.mondeca.com/id/soccer/f52b0c66-50ed-488d-8721-878121705762> a ns1:FootballMatch,
+        ns2:Event ;
+    ns2:atTime [ ns1:endTime "2016/06/21T23:00:00+02:00" ;
+            ns1:startTime "2016/06/21T21:00:00+02:00" ] .
+
+<http://data.mondeca.com/id/soccer/f86db5c6-326c-45ad-8be0-5e914eedf853> a ns1:FootballMatch,
+        ns2:Event ;
+    ns2:atTime [ ns1:endTime "2016/06/22T20:00:00+02:00" ;
+            ns1:startTime "2016/06/22T18:00:00+02:00" ] .
+
+<http://data.mondeca.com/id/soccer/fa868820-80a5-4ad3-a2f6-b56120c56d4a> a ns1:FootballMatch,
+        ns2:Event ;
+    ns2:atTime [ ns1:endTime "2016/06/26T23:00:00+02:00" ;
+            ns1:startTime "2016/06/26T21:00:00+02:00" ] .
+
+<http://data.mondeca.com/id/soccer/fa97ecca-6d9e-4af2-a566-e6ca29b6052b> a ns1:FootballMatch,
+        ns2:Event ;
+    ns2:atTime [ ns1:endTime "2016/06/15T20:00:00+02:00" ;
+            ns1:startTime "2016/06/15T18:00:00+02:00" ] .
+

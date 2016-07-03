@@ -1,0 +1,167 @@
+@prefix ns1: <http://data.mondeca.com/def/ftb#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.mondeca.com/id/player/allemagne/1> a ns1:FootballPlayer ;
+    rdfs:label "Manuel Neuer" ;
+    ns1:club "Bayern (GER)" ;
+    ns1:nationalTeam "Allemagne" ;
+    ns1:role "Gardien"@fr ;
+    ns1:shirtNumber "1" .
+
+<http://data.mondeca.com/id/player/allemagne/10> a ns1:FootballPlayer ;
+    rdfs:label "Lukas Podolski" ;
+    ns1:club "Galatasaray (TUR)" ;
+    ns1:nationalTeam "Allemagne" ;
+    ns1:role "Attaquant"@fr ;
+    ns1:shirtNumber "10" .
+
+<http://data.mondeca.com/id/player/allemagne/11> a ns1:FootballPlayer ;
+    rdfs:label "Julian Draxler" ;
+    ns1:club "Wolfsburg (GER)" ;
+    ns1:nationalTeam "Allemagne" ;
+    ns1:role "Milieu"@fr ;
+    ns1:shirtNumber "11" .
+
+<http://data.mondeca.com/id/player/allemagne/12> a ns1:FootballPlayer ;
+    rdfs:label "Bernd Leno" ;
+    ns1:club "Leverkusen (GER)" ;
+    ns1:nationalTeam "Allemagne" ;
+    ns1:role "Gardien"@fr ;
+    ns1:shirtNumber "12" .
+
+<http://data.mondeca.com/id/player/allemagne/13> a ns1:FootballPlayer ;
+    rdfs:label "Thomas Müller" ;
+    ns1:club "Bayern (GER)" ;
+    ns1:nationalTeam "Allemagne" ;
+    ns1:role "Attaquant"@fr ;
+    ns1:shirtNumber "13" .
+
+<http://data.mondeca.com/id/player/allemagne/14> a ns1:FootballPlayer ;
+    rdfs:label "Emre Can" ;
+    ns1:club "Liverpool (ENG)" ;
+    ns1:nationalTeam "Allemagne" ;
+    ns1:role "Milieu"@fr ;
+    ns1:shirtNumber "14" .
+
+<http://data.mondeca.com/id/player/allemagne/15> a ns1:FootballPlayer ;
+    rdfs:label "Julian Weigl" ;
+    ns1:club "Dortmund (GER)" ;
+    ns1:nationalTeam "Allemagne" ;
+    ns1:role "Milieu"@fr ;
+    ns1:shirtNumber "15" .
+
+<http://data.mondeca.com/id/player/allemagne/16> a ns1:FootballPlayer ;
+    rdfs:label "Jonathan Tah" ;
+    ns1:club "Leverkusen (GER)" ;
+    ns1:nationalTeam "Allemagne" ;
+    ns1:role "Défenseur"@fr ;
+    ns1:shirtNumber "16" .
+
+<http://data.mondeca.com/id/player/allemagne/17> a ns1:FootballPlayer ;
+    rdfs:label "Jérôme Boateng" ;
+    ns1:club "Bayern (GER)" ;
+    ns1:nationalTeam "Allemagne" ;
+    ns1:role "Défenseur"@fr ;
+    ns1:shirtNumber "17" .
+
+<http://data.mondeca.com/id/player/allemagne/18> a ns1:FootballPlayer ;
+    rdfs:label "Toni Kroos" ;
+    ns1:club "Real Madrid (ESP)" ;
+    ns1:nationalTeam "Allemagne" ;
+    ns1:role "Milieu"@fr ;
+    ns1:shirtNumber "18" .
+
+<http://data.mondeca.com/id/player/allemagne/19> a ns1:FootballPlayer ;
+    rdfs:label "Mario Götze" ;
+    ns1:club "Bayern (GER)" ;
+    ns1:nationalTeam "Allemagne" ;
+    ns1:role "Milieu"@fr ;
+    ns1:shirtNumber "19" .
+
+<http://data.mondeca.com/id/player/allemagne/2> a ns1:FootballPlayer ;
+    rdfs:label "Shkodran Mustafi" ;
+    ns1:club "Valencia (ESP)" ;
+    ns1:nationalTeam "Allemagne" ;
+    ns1:role "Défenseur"@fr ;
+    ns1:shirtNumber "2" .
+
+<http://data.mondeca.com/id/player/allemagne/20> a ns1:FootballPlayer ;
+    rdfs:label "Leroy Sané" ;
+    ns1:club "Schalke (GER)" ;
+    ns1:nationalTeam "Allemagne" ;
+    ns1:role "Milieu"@fr ;
+    ns1:shirtNumber "20" .
+
+<http://data.mondeca.com/id/player/allemagne/21> a ns1:FootballPlayer ;
+    rdfs:label "Joshua Kimmich" ;
+    ns1:club "Bayern (GER)" ;
+    ns1:nationalTeam "Allemagne" ;
+    ns1:role "Défenseur"@fr ;
+    ns1:shirtNumber "21" .
+
+<http://data.mondeca.com/id/player/allemagne/22> a ns1:FootballPlayer ;
+    rdfs:label "Marc-André ter Stegen" ;
+    ns1:club "Barcelona (ESP)" ;
+    ns1:nationalTeam "Allemagne" ;
+    ns1:role "Gardien"@fr ;
+    ns1:shirtNumber "22" .
+
+<http://data.mondeca.com/id/player/allemagne/23> a ns1:FootballPlayer ;
+    rdfs:label "Mario Gomez" ;
+    ns1:club "Beşiktaş (TUR)" ;
+    ns1:nationalTeam "Allemagne" ;
+    ns1:role "Attaquant"@fr ;
+    ns1:shirtNumber "23" .
+
+<http://data.mondeca.com/id/player/allemagne/3> a ns1:FootballPlayer ;
+    rdfs:label "Jonas Hector" ;
+    ns1:club "Köln (GER)" ;
+    ns1:nationalTeam "Allemagne" ;
+    ns1:role "Défenseur"@fr ;
+    ns1:shirtNumber "3" .
+
+<http://data.mondeca.com/id/player/allemagne/4> a ns1:FootballPlayer ;
+    rdfs:label "Benedikt Höwedes" ;
+    ns1:club "Schalke (GER)" ;
+    ns1:nationalTeam "Allemagne" ;
+    ns1:role "Défenseur"@fr ;
+    ns1:shirtNumber "4" .
+
+<http://data.mondeca.com/id/player/allemagne/5> a ns1:FootballPlayer ;
+    rdfs:label "Mats Hummels" ;
+    ns1:club "Dortmund (GER)" ;
+    ns1:nationalTeam "Allemagne" ;
+    ns1:role "Défenseur"@fr ;
+    ns1:shirtNumber "5" .
+
+<http://data.mondeca.com/id/player/allemagne/6> a ns1:FootballPlayer ;
+    rdfs:label "Sami Khedira" ;
+    ns1:club "Juventus (ITA)" ;
+    ns1:nationalTeam "Allemagne" ;
+    ns1:role "Milieu"@fr ;
+    ns1:shirtNumber "6" .
+
+<http://data.mondeca.com/id/player/allemagne/7> a ns1:FootballPlayer ;
+    rdfs:label "Bastian Schweinsteiger" ;
+    ns1:club "Man. United (ENG)" ;
+    ns1:nationalTeam "Allemagne" ;
+    ns1:role "Milieu"@fr ;
+    ns1:shirtNumber "7" .
+
+<http://data.mondeca.com/id/player/allemagne/8> a ns1:FootballPlayer ;
+    rdfs:label "Mesut Özil" ;
+    ns1:club "Arsenal (ENG)" ;
+    ns1:nationalTeam "Allemagne" ;
+    ns1:role "Milieu"@fr ;
+    ns1:shirtNumber "8" .
+
+<http://data.mondeca.com/id/player/allemagne/9> a ns1:FootballPlayer ;
+    rdfs:label "André Schürrle" ;
+    ns1:club "Wolfsburg (GER)" ;
+    ns1:nationalTeam "Allemagne" ;
+    ns1:role "Milieu"@fr ;
+    ns1:shirtNumber "9" .
+

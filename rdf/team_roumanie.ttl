@@ -1,0 +1,167 @@
+@prefix ns1: <http://data.mondeca.com/def/ftb#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.mondeca.com/id/player/roumanie/1> a ns1:FootballPlayer ;
+    rdfs:label "Costel Pantilimon" ;
+    ns1:club "Watford (ENG)" ;
+    ns1:nationalTeam "Roumanie" ;
+    ns1:role "Gardien"@fr ;
+    ns1:shirtNumber "1" .
+
+<http://data.mondeca.com/id/player/roumanie/10> a ns1:FootballPlayer ;
+    rdfs:label "Nicolae Stanciu" ;
+    ns1:club "Steaua (ROU)" ;
+    ns1:nationalTeam "Roumanie" ;
+    ns1:role "Milieu"@fr ;
+    ns1:shirtNumber "10" .
+
+<http://data.mondeca.com/id/player/roumanie/11> a ns1:FootballPlayer ;
+    rdfs:label "Gabriel Torje" ;
+    ns1:club "Osmanlıspor (TUR)" ;
+    ns1:nationalTeam "Roumanie" ;
+    ns1:role "Milieu"@fr ;
+    ns1:shirtNumber "11" .
+
+<http://data.mondeca.com/id/player/roumanie/12> a ns1:FootballPlayer ;
+    rdfs:label "Ciprian Tătăruşanu" ;
+    ns1:club "Fiorentina (ITA)" ;
+    ns1:nationalTeam "Roumanie" ;
+    ns1:role "Gardien"@fr ;
+    ns1:shirtNumber "12" .
+
+<http://data.mondeca.com/id/player/roumanie/13> a ns1:FootballPlayer ;
+    rdfs:label "Claudiu Keșerü" ;
+    ns1:club "Ludogorets (BUL)" ;
+    ns1:nationalTeam "Roumanie" ;
+    ns1:role "Attaquant"@fr ;
+    ns1:shirtNumber "13" .
+
+<http://data.mondeca.com/id/player/roumanie/14> a ns1:FootballPlayer ;
+    rdfs:label "Florin Andone" ;
+    ns1:club "Córdoba (ESP)" ;
+    ns1:nationalTeam "Roumanie" ;
+    ns1:role "Attaquant"@fr ;
+    ns1:shirtNumber "14" .
+
+<http://data.mondeca.com/id/player/roumanie/15> a ns1:FootballPlayer ;
+    rdfs:label "Valerică Găman" ;
+    ns1:club "Astra (ROU)" ;
+    ns1:nationalTeam "Roumanie" ;
+    ns1:role "Défenseur"@fr ;
+    ns1:shirtNumber "15" .
+
+<http://data.mondeca.com/id/player/roumanie/16> a ns1:FootballPlayer ;
+    rdfs:label "Steliano Filip" ;
+    ns1:club "Dinamo Bucureşti (ROU)" ;
+    ns1:nationalTeam "Roumanie" ;
+    ns1:role "Défenseur"@fr ;
+    ns1:shirtNumber "16" .
+
+<http://data.mondeca.com/id/player/roumanie/17> a ns1:FootballPlayer ;
+    rdfs:label "Lucian Sânmărtean" ;
+    ns1:club "Al-Ittihad (KSA)" ;
+    ns1:nationalTeam "Roumanie" ;
+    ns1:role "Milieu"@fr ;
+    ns1:shirtNumber "17" .
+
+<http://data.mondeca.com/id/player/roumanie/18> a ns1:FootballPlayer ;
+    rdfs:label "Andrei Prepeliţă" ;
+    ns1:club "Ludogorets (BUL)" ;
+    ns1:nationalTeam "Roumanie" ;
+    ns1:role "Milieu"@fr ;
+    ns1:shirtNumber "18" .
+
+<http://data.mondeca.com/id/player/roumanie/19> a ns1:FootballPlayer ;
+    rdfs:label "Bogdan Stancu" ;
+    ns1:club "Gençlerbirliği (TUR)" ;
+    ns1:nationalTeam "Roumanie" ;
+    ns1:role "Attaquant"@fr ;
+    ns1:shirtNumber "19" .
+
+<http://data.mondeca.com/id/player/roumanie/2> a ns1:FootballPlayer ;
+    rdfs:label "Alexandru Măţel" ;
+    ns1:club "Dinamo Zagreb (CRO)" ;
+    ns1:nationalTeam "Roumanie" ;
+    ns1:role "Défenseur"@fr ;
+    ns1:shirtNumber "2" .
+
+<http://data.mondeca.com/id/player/roumanie/20> a ns1:FootballPlayer ;
+    rdfs:label "Adrian Popa" ;
+    ns1:club "Steaua (ROU)" ;
+    ns1:nationalTeam "Roumanie" ;
+    ns1:role "Milieu"@fr ;
+    ns1:shirtNumber "20" .
+
+<http://data.mondeca.com/id/player/roumanie/21> a ns1:FootballPlayer ;
+    rdfs:label "Dragoş Grigore" ;
+    ns1:club "Al-Sailiya (QAT)" ;
+    ns1:nationalTeam "Roumanie" ;
+    ns1:role "Défenseur"@fr ;
+    ns1:shirtNumber "21" .
+
+<http://data.mondeca.com/id/player/roumanie/22> a ns1:FootballPlayer ;
+    rdfs:label "Cristian Săpunaru" ;
+    ns1:club "Pandurii (ROU)" ;
+    ns1:nationalTeam "Roumanie" ;
+    ns1:role "Défenseur"@fr ;
+    ns1:shirtNumber "22" .
+
+<http://data.mondeca.com/id/player/roumanie/23> a ns1:FootballPlayer ;
+    rdfs:label "Silviu Lung" ;
+    ns1:club "Astra (ROU)" ;
+    ns1:nationalTeam "Roumanie" ;
+    ns1:role "Gardien"@fr ;
+    ns1:shirtNumber "23" .
+
+<http://data.mondeca.com/id/player/roumanie/3> a ns1:FootballPlayer ;
+    rdfs:label "Răzvan Raţ" ;
+    ns1:club "Rayo Vallecano (ESP)" ;
+    ns1:nationalTeam "Roumanie" ;
+    ns1:role "Défenseur"@fr ;
+    ns1:shirtNumber "3" .
+
+<http://data.mondeca.com/id/player/roumanie/4> a ns1:FootballPlayer ;
+    rdfs:label "Cosmin Moţi" ;
+    ns1:club "Ludogorets (BUL)" ;
+    ns1:nationalTeam "Roumanie" ;
+    ns1:role "Défenseur"@fr ;
+    ns1:shirtNumber "4" .
+
+<http://data.mondeca.com/id/player/roumanie/5> a ns1:FootballPlayer ;
+    rdfs:label "Ovidiu Hoban" ;
+    ns1:club "H. Beer-Sheva (ISR)" ;
+    ns1:nationalTeam "Roumanie" ;
+    ns1:role "Milieu"@fr ;
+    ns1:shirtNumber "5" .
+
+<http://data.mondeca.com/id/player/roumanie/6> a ns1:FootballPlayer ;
+    rdfs:label "Vlad Chiricheş" ;
+    ns1:club "Napoli (ITA)" ;
+    ns1:nationalTeam "Roumanie" ;
+    ns1:role "Défenseur"@fr ;
+    ns1:shirtNumber "6" .
+
+<http://data.mondeca.com/id/player/roumanie/7> a ns1:FootballPlayer ;
+    rdfs:label "Alexandru Chipciu" ;
+    ns1:club "Steaua (ROU)" ;
+    ns1:nationalTeam "Roumanie" ;
+    ns1:role "Milieu"@fr ;
+    ns1:shirtNumber "7" .
+
+<http://data.mondeca.com/id/player/roumanie/8> a ns1:FootballPlayer ;
+    rdfs:label "Mihai Pintilii" ;
+    ns1:club "Steaua (ROU)" ;
+    ns1:nationalTeam "Roumanie" ;
+    ns1:role "Milieu"@fr ;
+    ns1:shirtNumber "8" .
+
+<http://data.mondeca.com/id/player/roumanie/9> a ns1:FootballPlayer ;
+    rdfs:label "Denis Alibec" ;
+    ns1:club "Astra (ROU)" ;
+    ns1:nationalTeam "Roumanie" ;
+    ns1:role "Attaquant"@fr ;
+    ns1:shirtNumber "9" .
+

@@ -1,0 +1,166 @@
+{
+    "team": "Autriche",
+    "players": [
+        {
+            "number": "1",
+            "role": "Gardien",
+            "age": "20/03/1984",
+            "name": "Robert Almer",
+            "club": "Austria Wien (AUT)"
+        },
+        {
+            "number": "12",
+            "role": "Gardien",
+            "age": "17/07/1990",
+            "name": "Heinz Lindner",
+            "club": "Frankfurt (GER)"
+        },
+        {
+            "number": "23",
+            "role": "Gardien",
+            "age": "28/06/1984",
+            "name": "Ramazan \u00d6zcan",
+            "club": "Ingolstadt (GER)"
+        },
+        {
+            "number": "3",
+            "role": "D\u00e9fenseur",
+            "age": "06/03/1991",
+            "name": "Aleksandar Dragovi\u0107",
+            "club": "Dynamo Kyiv (UKR)"
+        },
+        {
+            "number": "4",
+            "role": "D\u00e9fenseur",
+            "age": "07/09/1992",
+            "name": "Martin Hinteregger",
+            "club": "M\u00f6nchengladbach (GER)"
+        },
+        {
+            "number": "5",
+            "role": "D\u00e9fenseur",
+            "age": "07/04/1986",
+            "name": "Christian Fuchs",
+            "club": "Leicester (ENG)"
+        },
+        {
+            "number": "13",
+            "role": "D\u00e9fenseur",
+            "age": "16/04/1987",
+            "name": "Markus Suttner",
+            "club": "Ingolstadt (GER)"
+        },
+        {
+            "number": "15",
+            "role": "D\u00e9fenseur",
+            "age": "21/06/1987",
+            "name": "Sebastian Pr\u00f6dl",
+            "club": "Watford (ENG)"
+        },
+        {
+            "number": "16",
+            "role": "D\u00e9fenseur",
+            "age": "15/11/1992",
+            "name": "Kevin Wimmer",
+            "club": "Tottenham (ENG)"
+        },
+        {
+            "number": "17",
+            "role": "D\u00e9fenseur",
+            "age": "17/11/1986",
+            "name": "Florian Klein",
+            "club": "Stuttgart (GER)"
+        },
+        {
+            "number": "2",
+            "role": "Milieu",
+            "age": "08/03/1984",
+            "name": "Gy\u00f6rgy Garics",
+            "club": "Darmstadt (GER)"
+        },
+        {
+            "number": "6",
+            "role": "Milieu",
+            "age": "18/05/1989",
+            "name": "Stefan Ilsanker",
+            "club": "Leipzig (GER)"
+        },
+        {
+            "number": "8",
+            "role": "Milieu",
+            "age": "24/06/1992",
+            "name": "David Alaba",
+            "club": "Bayern (GER)"
+        },
+        {
+            "number": "10",
+            "role": "Milieu",
+            "age": "26/09/1987",
+            "name": "Zlatko Junuzovi\u0107",
+            "club": "Bremen (GER)"
+        },
+        {
+            "number": "11",
+            "role": "Milieu",
+            "age": "10/06/1987",
+            "name": "Martin Harnik",
+            "club": "Stuttgart (GER)"
+        },
+        {
+            "number": "14",
+            "role": "Milieu",
+            "age": "02/01/1988",
+            "name": "Julian Baumgartlinger",
+            "club": "Mainz (GER)"
+        },
+        {
+            "number": "18",
+            "role": "Milieu",
+            "age": "07/02/1994",
+            "name": "Alessandro Sch\u00f6pf",
+            "club": "Schalke (GER)"
+        },
+        {
+            "number": "20",
+            "role": "Milieu",
+            "age": "17/03/1994",
+            "name": "Marcel Sabitzer",
+            "club": "Leipzig (GER)"
+        },
+        {
+            "number": "22",
+            "role": "Milieu",
+            "age": "08/01/1989",
+            "name": "Jakob Jantscher",
+            "club": "Luzern (SUI)"
+        },
+        {
+            "number": "7",
+            "role": "Attaquant",
+            "age": "19/04/1989",
+            "name": "Marko Arnautovi\u0107",
+            "club": "Stoke (ENG)"
+        },
+        {
+            "number": "9",
+            "role": "Attaquant",
+            "age": "06/06/1987",
+            "name": "Rubin Okotie",
+            "club": "1860 M\u00fcnchen (GER)"
+        },
+        {
+            "number": "19",
+            "role": "Attaquant",
+            "age": "28/03/1991",
+            "name": "Lukas Hinterseer",
+            "club": "Ingolstadt (GER)"
+        },
+        {
+            "number": "21",
+            "role": "Attaquant",
+            "age": "25/06/1983",
+            "name": "Marc Janko",
+            "club": "Basel (SUI)"
+        }
+    ]
+}

@@ -1,0 +1,166 @@
+{
+    "team": "Su\u00e8de",
+    "players": [
+        {
+            "number": "1",
+            "role": "Gardien",
+            "age": "03/10/1981",
+            "name": "Andreas Isaksson",
+            "club": "Kas\u0131mpa\u015fa (TUR)"
+        },
+        {
+            "number": "12",
+            "role": "Gardien",
+            "age": "08/01/1990",
+            "name": "Robin Olsen",
+            "club": "K\u00f8benhavn (DEN)"
+        },
+        {
+            "number": "23",
+            "role": "Gardien",
+            "age": "08/01/1992",
+            "name": "Patrik Carlgren",
+            "club": "AIK (SWE)"
+        },
+        {
+            "number": "2",
+            "role": "D\u00e9fenseur",
+            "age": "13/12/1986",
+            "name": "Mikael Lustig",
+            "club": "Celtic (SCO)"
+        },
+        {
+            "number": "3",
+            "role": "D\u00e9fenseur",
+            "age": "30/12/1988",
+            "name": "Erik Johansson",
+            "club": "K\u00f8benhavn (DEN)"
+        },
+        {
+            "number": "4",
+            "role": "D\u00e9fenseur",
+            "age": "16/04/1985",
+            "name": "Andreas Granqvist",
+            "club": "Krasnodar (RUS)"
+        },
+        {
+            "number": "5",
+            "role": "D\u00e9fenseur",
+            "age": "17/05/1988",
+            "name": "Martin Olsson",
+            "club": "Norwich (ENG)"
+        },
+        {
+            "number": "13",
+            "role": "D\u00e9fenseur",
+            "age": "13/02/1991",
+            "name": "Pontus Jansson",
+            "club": "Torino (ITA)"
+        },
+        {
+            "number": "14",
+            "role": "D\u00e9fenseur",
+            "age": "17/07/1994",
+            "name": "Victor Lindel\u00f6f",
+            "club": "Benfica (POR)"
+        },
+        {
+            "number": "17",
+            "role": "D\u00e9fenseur",
+            "age": "21/04/1994",
+            "name": "Ludwig Augustinsson",
+            "club": "K\u00f8benhavn (DEN)"
+        },
+        {
+            "number": "6",
+            "role": "Milieu",
+            "age": "23/10/1991",
+            "name": "Emil Forsberg",
+            "club": "Leipzig (GER)"
+        },
+        {
+            "number": "7",
+            "role": "Milieu",
+            "age": "06/06/1985",
+            "name": "Sebastian Larsson",
+            "club": "Sunderland (ENG)"
+        },
+        {
+            "number": "8",
+            "role": "Milieu",
+            "age": "28/07/1989",
+            "name": "Albin Ekdal",
+            "club": "Hamburg (GER)"
+        },
+        {
+            "number": "9",
+            "role": "Milieu",
+            "age": "24/08/1982",
+            "name": "Kim K\u00e4llstr\u00f6m",
+            "club": "Grasshoppers (SUI)"
+        },
+        {
+            "number": "15",
+            "role": "Milieu",
+            "age": "28/06/1992",
+            "name": "Oscar Hiljemark",
+            "club": "Palermo (ITA)"
+        },
+        {
+            "number": "16",
+            "role": "Milieu",
+            "age": "25/06/1986",
+            "name": "Pontus Wernbloom",
+            "club": "CSKA Moskva (RUS)"
+        },
+        {
+            "number": "18",
+            "role": "Milieu",
+            "age": "14/07/1992",
+            "name": "Oscar Lewicki",
+            "club": "Malm\u00f6 (SWE)"
+        },
+        {
+            "number": "21",
+            "role": "Milieu",
+            "age": "22/03/1989",
+            "name": "Jimmy Durmaz",
+            "club": "Olympiacos (GRE)"
+        },
+        {
+            "number": "22",
+            "role": "Milieu",
+            "age": "05/08/1985",
+            "name": "Erkan Zengin",
+            "club": "Trabzonspor (TUR)"
+        },
+        {
+            "number": "10",
+            "role": "Attaquant",
+            "age": "03/10/1981",
+            "name": "Zlatan Ibrahimovi\u0107",
+            "club": "Paris (FRA)"
+        },
+        {
+            "number": "11",
+            "role": "Attaquant",
+            "age": "17/08/1986",
+            "name": "Marcus Berg",
+            "club": "Panathinaikos (GRE)"
+        },
+        {
+            "number": "19",
+            "role": "Attaquant",
+            "age": "22/06/1988",
+            "name": "Emir Kujovic",
+            "club": "Norrk\u00f6ping (SWE)"
+        },
+        {
+            "number": "20",
+            "role": "Attaquant",
+            "age": "15/04/1992",
+            "name": "John Guidetti",
+            "club": "Celta (ESP)"
+        }
+    ]
+}

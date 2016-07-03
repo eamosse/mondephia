@@ -1,0 +1,166 @@
+{
+    "team": "Portugal",
+    "players": [
+        {
+            "number": "1",
+            "role": "Gardien",
+            "age": "15/02/1988",
+            "name": "Rui Patr\u00edcio",
+            "club": "Sporting CP (POR)"
+        },
+        {
+            "number": "12",
+            "role": "Gardien",
+            "age": "01/10/1990",
+            "name": "Anthony Lopes",
+            "club": "Lyon (FRA)"
+        },
+        {
+            "number": "22",
+            "role": "Gardien",
+            "age": "19/09/1982",
+            "name": "Eduardo",
+            "club": "Dinamo Zagreb (CRO)"
+        },
+        {
+            "number": "2",
+            "role": "D\u00e9fenseur",
+            "age": "27/11/1981",
+            "name": "Bruno Alves",
+            "club": "Fenerbah\u00e7e (TUR)"
+        },
+        {
+            "number": "3",
+            "role": "D\u00e9fenseur",
+            "age": "26/02/1983",
+            "name": "Pepe",
+            "club": "Real Madrid (ESP)"
+        },
+        {
+            "number": "4",
+            "role": "D\u00e9fenseur",
+            "age": "22/12/1983",
+            "name": "Jos\u00e9 Fonte",
+            "club": "Southampton (ENG)"
+        },
+        {
+            "number": "5",
+            "role": "D\u00e9fenseur",
+            "age": "22/12/1993",
+            "name": "Raphael Guerreiro",
+            "club": "Lorient (FRA)"
+        },
+        {
+            "number": "6",
+            "role": "D\u00e9fenseur",
+            "age": "18/05/1978",
+            "name": "Ricardo Carvalho",
+            "club": "Monaco (FRA)"
+        },
+        {
+            "number": "19",
+            "role": "D\u00e9fenseur",
+            "age": "01/10/1983",
+            "name": "Eliseu",
+            "club": "Benfica (POR)"
+        },
+        {
+            "number": "21",
+            "role": "D\u00e9fenseur",
+            "age": "31/08/1991",
+            "name": "C\u00e9dric",
+            "club": "Southampton (ENG)"
+        },
+        {
+            "number": "8",
+            "role": "Milieu",
+            "age": "08/09/1986",
+            "name": "Jo\u00e3o Moutinho",
+            "club": "Monaco (FRA)"
+        },
+        {
+            "number": "10",
+            "role": "Milieu",
+            "age": "19/01/1993",
+            "name": "Jo\u00e3o M\u00e1rio",
+            "club": "Sporting CP (POR)"
+        },
+        {
+            "number": "11",
+            "role": "Milieu",
+            "age": "24/01/1986",
+            "name": "Vieirinha",
+            "club": "Wolfsburg (GER)"
+        },
+        {
+            "number": "13",
+            "role": "Milieu",
+            "age": "09/09/1991",
+            "name": "Danilo",
+            "club": "Porto (POR)"
+        },
+        {
+            "number": "14",
+            "role": "Milieu",
+            "age": "07/04/1992",
+            "name": "William Carvalho",
+            "club": "Sporting CP (POR)"
+        },
+        {
+            "number": "15",
+            "role": "Milieu",
+            "age": "30/07/1993",
+            "name": "Andr\u00e9 Gomes",
+            "club": "Valencia (ESP)"
+        },
+        {
+            "number": "16",
+            "role": "Milieu",
+            "age": "18/08/1997",
+            "name": "Renato Sanches",
+            "club": "Benfica (POR)"
+        },
+        {
+            "number": "18",
+            "role": "Milieu",
+            "age": "17/05/1993",
+            "name": "Rafa Silva",
+            "club": "Braga (POR)"
+        },
+        {
+            "number": "23",
+            "role": "Milieu",
+            "age": "15/03/1989",
+            "name": "Adrien Silva",
+            "club": "Sporting CP (POR)"
+        },
+        {
+            "number": "7",
+            "role": "Attaquant",
+            "age": "05/02/1985",
+            "name": "Cristiano Ronaldo",
+            "club": "Real Madrid (ESP)"
+        },
+        {
+            "number": "9",
+            "role": "Attaquant",
+            "age": "22/12/1987",
+            "name": "\u00c9der",
+            "club": "LOSC (FRA)"
+        },
+        {
+            "number": "17",
+            "role": "Attaquant",
+            "age": "17/11/1986",
+            "name": "Nani",
+            "club": "Fenerbah\u00e7e (TUR)"
+        },
+        {
+            "number": "20",
+            "role": "Attaquant",
+            "age": "26/09/1983",
+            "name": "Ricardo Quaresma",
+            "club": "Be\u015fikta\u015f (TUR)"
+        }
+    ]
+}

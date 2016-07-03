@@ -1,0 +1,166 @@
+{
+    "team": "Islande",
+    "players": [
+        {
+            "number": "1",
+            "role": "Gardien",
+            "age": "27/04/1984",
+            "name": "Hannes Halld\u00f3rsson",
+            "club": "Bod\u00f8/Glimt (NOR)"
+        },
+        {
+            "number": "12",
+            "role": "Gardien",
+            "age": "19/06/1989",
+            "name": "\u00d6gmundur Kristinsson",
+            "club": "Hammarby (SWE)"
+        },
+        {
+            "number": "13",
+            "role": "Gardien",
+            "age": "18/10/1989",
+            "name": "Ingvar J\u00f3nsson",
+            "club": "Sandefjord (NOR)"
+        },
+        {
+            "number": "2",
+            "role": "D\u00e9fenseur",
+            "age": "11/11/1984",
+            "name": "Birkir S\u00e6varsson",
+            "club": "Hammarby (SWE)"
+        },
+        {
+            "number": "3",
+            "role": "D\u00e9fenseur",
+            "age": "01/09/1991",
+            "name": "Haukur Heidar Hauksson",
+            "club": "AIK (SWE)"
+        },
+        {
+            "number": "4",
+            "role": "D\u00e9fenseur",
+            "age": "08/02/1995",
+            "name": "Hj\u00f6rtur Hermannsson",
+            "club": "G\u00f6teborg (SWE)"
+        },
+        {
+            "number": "5",
+            "role": "D\u00e9fenseur",
+            "age": "05/08/1993",
+            "name": "Sverrir Ingason",
+            "club": "Lokeren (BEL)"
+        },
+        {
+            "number": "6",
+            "role": "D\u00e9fenseur",
+            "age": "19/06/1986",
+            "name": "Ragnar Sigurdsson",
+            "club": "Krasnodar (RUS)"
+        },
+        {
+            "number": "18",
+            "role": "D\u00e9fenseur",
+            "age": "04/03/1987",
+            "name": "Elmar Bjarnason",
+            "club": "AGF (DEN)"
+        },
+        {
+            "number": "19",
+            "role": "D\u00e9fenseur",
+            "age": "11/02/1993",
+            "name": "Hordur Magn\u00fasson",
+            "club": "Cesena (ITA)"
+        },
+        {
+            "number": "21",
+            "role": "D\u00e9fenseur",
+            "age": "30/04/1993",
+            "name": "Arnor Ingvi Traustason",
+            "club": "Norrk\u00f6ping (SWE)"
+        },
+        {
+            "number": "23",
+            "role": "D\u00e9fenseur",
+            "age": "14/05/1987",
+            "name": "Ari Sk\u00falason",
+            "club": "OB (DEN)"
+        },
+        {
+            "number": "8",
+            "role": "Milieu",
+            "age": "27/05/1988",
+            "name": "Birkir Bjarnason",
+            "club": "Basel (SUI)"
+        },
+        {
+            "number": "10",
+            "role": "Milieu",
+            "age": "08/09/1989",
+            "name": "Gylfi Sigurdsson",
+            "club": "Swansea (ENG)"
+        },
+        {
+            "number": "14",
+            "role": "Milieu",
+            "age": "13/10/1982",
+            "name": "K\u00e1ri \u00c1rnason",
+            "club": "Malm\u00f6 (SWE)"
+        },
+        {
+            "number": "16",
+            "role": "Milieu",
+            "age": "18/06/1990",
+            "name": "R\u00fanar M\u00e1r Sigurj\u00f3nsson",
+            "club": "Sundsvall (SWE)"
+        },
+        {
+            "number": "17",
+            "role": "Milieu",
+            "age": "22/04/1989",
+            "name": "Aron Gunnarsson",
+            "club": "Cardiff (WAL)"
+        },
+        {
+            "number": "20",
+            "role": "Milieu",
+            "age": "29/06/1984",
+            "name": "Emil Hallfredsson",
+            "club": "Udinese (ITA)"
+        },
+        {
+            "number": "7",
+            "role": "Attaquant",
+            "age": "27/10/1990",
+            "name": "Johann Gudmundsson",
+            "club": "Charlton (ENG)"
+        },
+        {
+            "number": "9",
+            "role": "Attaquant",
+            "age": "14/03/1990",
+            "name": "Kolbeinn Sigth\u00f3rsson",
+            "club": "Nantes (FRA)"
+        },
+        {
+            "number": "11",
+            "role": "Attaquant",
+            "age": "01/02/1989",
+            "name": "Alfred Finnbogason",
+            "club": "Augsburg (GER)"
+        },
+        {
+            "number": "15",
+            "role": "Attaquant",
+            "age": "25/05/1992",
+            "name": "J\u00f3n Dadi B\u00f6dvarsson",
+            "club": "Kaiserslautern (GER)"
+        },
+        {
+            "number": "22",
+            "role": "Attaquant",
+            "age": "15/09/1978",
+            "name": "Eidur Gudjohnsen",
+            "club": "Molde (NOR)"
+        }
+    ]
+}

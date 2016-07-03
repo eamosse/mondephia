@@ -1,0 +1,166 @@
+{
+    "team": "Slovaquie",
+    "players": [
+        {
+            "number": "1",
+            "role": "Gardien",
+            "age": "05/12/1982",
+            "name": "J\u00e1n Mucha",
+            "club": "Slovan Bratislava (SVK)"
+        },
+        {
+            "number": "12",
+            "role": "Gardien",
+            "age": "29/11/1983",
+            "name": "J\u00e1n Novota",
+            "club": "Rapid Wien (AUT)"
+        },
+        {
+            "number": "23",
+            "role": "Gardien",
+            "age": "27/12/1983",
+            "name": "Mat\u00fa\u0161 Koz\u00e1\u010dik",
+            "club": "Plze\u0148 (CZE)"
+        },
+        {
+            "number": "2",
+            "role": "D\u00e9fenseur",
+            "age": "30/10/1986",
+            "name": "Peter Pekar\u00edk",
+            "club": "Hertha (GER)"
+        },
+        {
+            "number": "3",
+            "role": "D\u00e9fenseur",
+            "age": "15/12/1984",
+            "name": "Martin \u0160krtel",
+            "club": "Liverpool (ENG)"
+        },
+        {
+            "number": "4",
+            "role": "D\u00e9fenseur",
+            "age": "10/12/1981",
+            "name": "J\u00e1n \u010eurica",
+            "club": "Lokomotiv Moskva (RUS)"
+        },
+        {
+            "number": "5",
+            "role": "D\u00e9fenseur",
+            "age": "03/07/1992",
+            "name": "Norbert Gy\u00f6mber",
+            "club": "Roma (ITA)"
+        },
+        {
+            "number": "14",
+            "role": "D\u00e9fenseur",
+            "age": "11/02/1995",
+            "name": "Milan \u0160kriniar",
+            "club": "Sampdoria (ITA)"
+        },
+        {
+            "number": "15",
+            "role": "D\u00e9fenseur",
+            "age": "17/09/1985",
+            "name": "Tom\u00e1\u0161 Hubo\u010dan",
+            "club": "Dinamo Moskva (RUS)"
+        },
+        {
+            "number": "16",
+            "role": "D\u00e9fenseur",
+            "age": "24/01/1985",
+            "name": "Kornel Sal\u00e1ta",
+            "club": "Slovan Bratislava (SVK)"
+        },
+        {
+            "number": "18",
+            "role": "D\u00e9fenseur",
+            "age": "01/08/1985",
+            "name": "Du\u0161an \u0160vento",
+            "club": "K\u00f6ln (GER)"
+        },
+        {
+            "number": "6",
+            "role": "Milieu",
+            "age": "29/01/1991",
+            "name": "J\u00e1n Gregu\u0161",
+            "club": "Jablonec (CZE)"
+        },
+        {
+            "number": "7",
+            "role": "Milieu",
+            "age": "30/11/1989",
+            "name": "Vladim\u00edr Weiss",
+            "club": "Al"
+        },
+        {
+            "number": "8",
+            "role": "Milieu",
+            "age": "05/12/1994",
+            "name": "Ondrej Duda",
+            "club": "Legia (POL)"
+        },
+        {
+            "number": "10",
+            "role": "Milieu",
+            "age": "19/10/1989",
+            "name": "Miroslav Stoch",
+            "club": "Bursaspor (TUR)"
+        },
+        {
+            "number": "13",
+            "role": "Milieu",
+            "age": "22/04/1992",
+            "name": "Patrik Hro\u0161ovsk\u00fd",
+            "club": "Plze\u0148 (CZE)"
+        },
+        {
+            "number": "17",
+            "role": "Milieu",
+            "age": "27/07/1987",
+            "name": "Marek Ham\u0161\u00edk",
+            "club": "Napoli (ITA)"
+        },
+        {
+            "number": "19",
+            "role": "Milieu",
+            "age": "26/02/1987",
+            "name": "Juraj Kucka",
+            "club": "Milan (ITA)"
+        },
+        {
+            "number": "20",
+            "role": "Milieu",
+            "age": "08/03/1991",
+            "name": "R\u00f3bert Mak",
+            "club": "PAOK (GRE)"
+        },
+        {
+            "number": "22",
+            "role": "Milieu",
+            "age": "24/05/1983",
+            "name": "Viktor Pe\u010dovsk\u00fd",
+            "club": "\u017dilina (SVK)"
+        },
+        {
+            "number": "9",
+            "role": "Attaquant",
+            "age": "16/12/1982",
+            "name": "Stanislav \u0160est\u00e1k",
+            "club": "Ferencv\u00e1ros (HUN)"
+        },
+        {
+            "number": "11",
+            "role": "Attaquant",
+            "age": "02/09/1985",
+            "name": "Adam Nemec",
+            "club": "Willem II (NED)"
+        },
+        {
+            "number": "21",
+            "role": "Attaquant",
+            "age": "01/06/1988",
+            "name": "Michal \u010euri\u0161",
+            "club": "Plze\u0148 (CZE)"
+        }
+    ]
+}

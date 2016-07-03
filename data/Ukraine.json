@@ -1,0 +1,166 @@
+{
+    "team": "Ukraine",
+    "players": [
+        {
+            "number": "1",
+            "role": "Gardien",
+            "age": "29/01/1988",
+            "name": "Denys Boyko",
+            "club": "Be\u015fikta\u015f (TUR)"
+        },
+        {
+            "number": "12",
+            "role": "Gardien",
+            "age": "28/06/1984",
+            "name": "Andriy Pyatov",
+            "club": "Shakhtar Donetsk (UKR)"
+        },
+        {
+            "number": "23",
+            "role": "Gardien",
+            "age": "26/01/1993",
+            "name": "Mykyta Shevchenko",
+            "club": "Zorya (UKR)"
+        },
+        {
+            "number": "2",
+            "role": "D\u00e9fenseur",
+            "age": "13/01/1991",
+            "name": "Bohdan Butko",
+            "club": "Amkar (RUS)"
+        },
+        {
+            "number": "3",
+            "role": "D\u00e9fenseur",
+            "age": "28/07/1987",
+            "name": "Yevhen Khacheridi",
+            "club": "Dynamo Kyiv (UKR)"
+        },
+        {
+            "number": "5",
+            "role": "D\u00e9fenseur",
+            "age": "22/10/1982",
+            "name": "Olexandr Kucher",
+            "club": "Shakhtar Donetsk (UKR)"
+        },
+        {
+            "number": "13",
+            "role": "D\u00e9fenseur",
+            "age": "13/05/1979",
+            "name": "Vyacheslav Shevchuk",
+            "club": "Shakhtar Donetsk (UKR)"
+        },
+        {
+            "number": "17",
+            "role": "D\u00e9fenseur",
+            "age": "26/04/1985",
+            "name": "Artem Fedetskiy",
+            "club": "Dnipro (UKR)"
+        },
+        {
+            "number": "20",
+            "role": "D\u00e9fenseur",
+            "age": "03/08/1989",
+            "name": "Yaroslav Rakitskiy",
+            "club": "Shakhtar Donetsk (UKR)"
+        },
+        {
+            "number": "4",
+            "role": "Milieu",
+            "age": "30/03/1979",
+            "name": "Anatoliy Tymoshchuk",
+            "club": "Kairat (KAZ)"
+        },
+        {
+            "number": "6",
+            "role": "Milieu",
+            "age": "08/08/1989",
+            "name": "Taras Stepanenko",
+            "club": "Shakhtar Donetsk (UKR)"
+        },
+        {
+            "number": "7",
+            "role": "Milieu",
+            "age": "23/10/1989",
+            "name": "Andriy Yarmolenko",
+            "club": "Dynamo Kyiv (UKR)"
+        },
+        {
+            "number": "9",
+            "role": "Milieu",
+            "age": "14/02/1996",
+            "name": "Viktor Kovalenko",
+            "club": "Shakhtar Donetsk (UKR)"
+        },
+        {
+            "number": "10",
+            "role": "Milieu",
+            "age": "29/09/1989",
+            "name": "Yevhen Konoplyanka",
+            "club": "Sevilla (ESP)"
+        },
+        {
+            "number": "14",
+            "role": "Milieu",
+            "age": "29/10/1981",
+            "name": "Ruslan Rotan",
+            "club": "Dnipro (UKR)"
+        },
+        {
+            "number": "16",
+            "role": "Milieu",
+            "age": "02/05/1991",
+            "name": "Serhiy Sydorchuk",
+            "club": "Dynamo Kyiv (UKR)"
+        },
+        {
+            "number": "18",
+            "role": "Milieu",
+            "age": "01/04/1990",
+            "name": "Serhiy Rybalka",
+            "club": "Dynamo Kyiv (UKR)"
+        },
+        {
+            "number": "19",
+            "role": "Milieu",
+            "age": "19/04/1990",
+            "name": "Denys Garmash",
+            "club": "Dynamo Kyiv (UKR)"
+        },
+        {
+            "number": "21",
+            "role": "Milieu",
+            "age": "15/12/1996",
+            "name": "Olexandr Zinchenko",
+            "club": "Ufa (RUS)"
+        },
+        {
+            "number": "22",
+            "role": "Milieu",
+            "age": "02/06/1992",
+            "name": "Olexandr Karavaev",
+            "club": "Zorya (UKR)"
+        },
+        {
+            "number": "8",
+            "role": "Attaquant",
+            "age": "17/11/1989",
+            "name": "Roman Zozulya",
+            "club": "Dnipro (UKR)"
+        },
+        {
+            "number": "11",
+            "role": "Attaquant",
+            "age": "20/07/1985",
+            "name": "Yevhen Seleznyov",
+            "club": "Shakhtar Donetsk (UKR)"
+        },
+        {
+            "number": "15",
+            "role": "Attaquant",
+            "age": "10/03/1992",
+            "name": "Pylyp Budkivskiy",
+            "club": "Zorya (UKR)"
+        }
+    ]
+}

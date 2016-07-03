@@ -1,0 +1,166 @@
+{
+    "team": "Angleterre",
+    "players": [
+        {
+            "number": "1",
+            "role": "Gardien",
+            "age": "19/04/1987",
+            "name": "Joe Hart",
+            "club": "Man. City (ENG)"
+        },
+        {
+            "number": "13",
+            "role": "Gardien",
+            "age": "17/03/1988",
+            "name": "Fraser Forster",
+            "club": "Southampton (ENG)"
+        },
+        {
+            "number": "23",
+            "role": "Gardien",
+            "age": "15/04/1986",
+            "name": "Tom Heaton",
+            "club": "Burnley (ENG)"
+        },
+        {
+            "number": "2",
+            "role": "D\u00e9fenseur",
+            "age": "28/05/1990",
+            "name": "Kyle Walker",
+            "club": "Tottenham (ENG)"
+        },
+        {
+            "number": "3",
+            "role": "D\u00e9fenseur",
+            "age": "02/07/1990",
+            "name": "Danny Rose",
+            "club": "Tottenham (ENG)"
+        },
+        {
+            "number": "5",
+            "role": "D\u00e9fenseur",
+            "age": "19/12/1985",
+            "name": "Gary Cahill",
+            "club": "Chelsea (ENG)"
+        },
+        {
+            "number": "6",
+            "role": "D\u00e9fenseur",
+            "age": "22/11/1989",
+            "name": "Chris Smalling",
+            "club": "Man. United (ENG)"
+        },
+        {
+            "number": "12",
+            "role": "D\u00e9fenseur",
+            "age": "05/04/1991",
+            "name": "Nathaniel Clyne",
+            "club": "Liverpool (ENG)"
+        },
+        {
+            "number": "16",
+            "role": "D\u00e9fenseur",
+            "age": "28/05/1994",
+            "name": "John Stones",
+            "club": "Everton (ENG)"
+        },
+        {
+            "number": "21",
+            "role": "D\u00e9fenseur",
+            "age": "05/08/1989",
+            "name": "Ryan Bertrand",
+            "club": "Southampton (ENG)"
+        },
+        {
+            "number": "4",
+            "role": "Milieu",
+            "age": "04/01/1986",
+            "name": "James Milner",
+            "club": "Liverpool (ENG)"
+        },
+        {
+            "number": "7",
+            "role": "Milieu",
+            "age": "08/12/1994",
+            "name": "Raheem Sterling",
+            "club": "Man. City (ENG)"
+        },
+        {
+            "number": "8",
+            "role": "Milieu",
+            "age": "10/05/1988",
+            "name": "Adam Lallana",
+            "club": "Liverpool (ENG)"
+        },
+        {
+            "number": "14",
+            "role": "Milieu",
+            "age": "17/06/1990",
+            "name": "Jordan Henderson",
+            "club": "Liverpool (ENG)"
+        },
+        {
+            "number": "17",
+            "role": "Milieu",
+            "age": "15/01/1994",
+            "name": "Eric Dier",
+            "club": "Tottenham (ENG)"
+        },
+        {
+            "number": "18",
+            "role": "Milieu",
+            "age": "01/01/1992",
+            "name": "Jack Wilshere",
+            "club": "Arsenal (ENG)"
+        },
+        {
+            "number": "19",
+            "role": "Milieu",
+            "age": "05/12/1993",
+            "name": "Ross Barkley",
+            "club": "Everton (ENG)"
+        },
+        {
+            "number": "20",
+            "role": "Milieu",
+            "age": "11/04/1996",
+            "name": "Dele Alli",
+            "club": "Tottenham (ENG)"
+        },
+        {
+            "number": "9",
+            "role": "Attaquant",
+            "age": "28/07/1993",
+            "name": "Harry Kane",
+            "club": "Tottenham (ENG)"
+        },
+        {
+            "number": "10",
+            "role": "Attaquant",
+            "age": "24/10/1985",
+            "name": "Wayne Rooney",
+            "club": "Man. United (ENG)"
+        },
+        {
+            "number": "11",
+            "role": "Attaquant",
+            "age": "11/01/1987",
+            "name": "Jamie Vardy",
+            "club": "Leicester (ENG)"
+        },
+        {
+            "number": "15",
+            "role": "Attaquant",
+            "age": "01/09/1989",
+            "name": "Daniel Sturridge",
+            "club": "Liverpool (ENG)"
+        },
+        {
+            "number": "22",
+            "role": "Attaquant",
+            "age": "31/10/1997",
+            "name": "Marcus Rashford",
+            "club": "Man. United (ENG)"
+        }
+    ]
+}

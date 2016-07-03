@@ -1,0 +1,166 @@
+{
+    "team": "Hongrie",
+    "players": [
+        {
+            "number": "1",
+            "role": "Gardien",
+            "age": "01/04/1976",
+            "name": "G\u00e1bor Kir\u00e1ly",
+            "club": "Halad\u00e1s (HUN)"
+        },
+        {
+            "number": "12",
+            "role": "Gardien",
+            "age": "16/11/1990",
+            "name": "D\u00e9nes Dibusz",
+            "club": "Ferencv\u00e1ros (HUN)"
+        },
+        {
+            "number": "22",
+            "role": "Gardien",
+            "age": "06/05/1990",
+            "name": "P\u00e9ter Gul\u00e1csi",
+            "club": "Leipzig (GER)"
+        },
+        {
+            "number": "2",
+            "role": "D\u00e9fenseur",
+            "age": "17/01/1993",
+            "name": "\u00c1d\u00e1m Lang",
+            "club": "Videoton (HUN)"
+        },
+        {
+            "number": "3",
+            "role": "D\u00e9fenseur",
+            "age": "01/12/1988",
+            "name": "Mih\u00e1ly Korhut",
+            "club": "Debrecen (HUN)"
+        },
+        {
+            "number": "4",
+            "role": "D\u00e9fenseur",
+            "age": "14/03/1990",
+            "name": "Tam\u00e1s K\u00e1d\u00e1r",
+            "club": "Lech (POL)"
+        },
+        {
+            "number": "5",
+            "role": "D\u00e9fenseur",
+            "age": "17/02/1990",
+            "name": "Attila Fiola",
+            "club": "Pusk\u00e1s Akad\u00e9mia (HUN)"
+        },
+        {
+            "number": "16",
+            "role": "D\u00e9fenseur",
+            "age": "12/06/1988",
+            "name": "\u00c1d\u00e1m Pint\u00e9r",
+            "club": "Ferencv\u00e1ros (HUN)"
+        },
+        {
+            "number": "20",
+            "role": "D\u00e9fenseur",
+            "age": "16/04/1987",
+            "name": "Rich\u00e1rd Guzmics",
+            "club": "Wis\u0142a (POL)"
+        },
+        {
+            "number": "21",
+            "role": "D\u00e9fenseur",
+            "age": "06/05/1994",
+            "name": "Barnab\u00e1s Bese",
+            "club": "MTK (HUN)"
+        },
+        {
+            "number": "23",
+            "role": "D\u00e9fenseur",
+            "age": "01/07/1983",
+            "name": "Roland Juh\u00e1sz",
+            "club": "Videoton (HUN)"
+        },
+        {
+            "number": "6",
+            "role": "Milieu",
+            "age": "21/07/1988",
+            "name": "\u00c1kos Elek",
+            "club": "Di\u00f3sgy\u0151r (HUN)"
+        },
+        {
+            "number": "8",
+            "role": "Milieu",
+            "age": "17/06/1995",
+            "name": "\u00c1d\u00e1m Nagy",
+            "club": "Ferencv\u00e1ros (HUN)"
+        },
+        {
+            "number": "14",
+            "role": "Milieu",
+            "age": "01/09/1988",
+            "name": "Gerg\u0151 Lovrencsics",
+            "club": "Lech (POL)"
+        },
+        {
+            "number": "15",
+            "role": "Milieu",
+            "age": "08/04/1994",
+            "name": "L\u00e1szl\u00f3 Kleinheisler",
+            "club": "Bremen (GER)"
+        },
+        {
+            "number": "18",
+            "role": "Milieu",
+            "age": "16/10/1988",
+            "name": "Zolt\u00e1n Stieber",
+            "club": "N\u00fcrnberg (GER)"
+        },
+        {
+            "number": "7",
+            "role": "Attaquant",
+            "age": "23/12/1986",
+            "name": "Bal\u00e1zs Dzsudzs\u00e1k",
+            "club": "Bursaspor (TUR)"
+        },
+        {
+            "number": "9",
+            "role": "Attaquant",
+            "age": "09/12/1987",
+            "name": "\u00c1d\u00e1m Szalai",
+            "club": "Hannover (GER)"
+        },
+        {
+            "number": "10",
+            "role": "Attaquant",
+            "age": "22/04/1979",
+            "name": "Zolt\u00e1n Gera",
+            "club": "Ferencv\u00e1ros (HUN)"
+        },
+        {
+            "number": "11",
+            "role": "Attaquant",
+            "age": "05/01/1989",
+            "name": "Kriszti\u00e1n N\u00e9meth",
+            "club": "Al"
+        },
+        {
+            "number": "13",
+            "role": "Attaquant",
+            "age": "24/10/1986",
+            "name": "D\u00e1niel B\u00f6de",
+            "club": "Ferencv\u00e1ros (HUN)"
+        },
+        {
+            "number": "17",
+            "role": "Attaquant",
+            "age": "31/12/1987",
+            "name": "Nemanja Nikoli\u0107",
+            "club": "Legia (POL)"
+        },
+        {
+            "number": "19",
+            "role": "Attaquant",
+            "age": "27/09/1986",
+            "name": "Tam\u00e1s Priskin",
+            "club": "Slovan Bratislava (SVK)"
+        }
+    ]
+}

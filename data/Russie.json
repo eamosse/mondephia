@@ -1,0 +1,166 @@
+{
+    "team": "Russie",
+    "players": [
+        {
+            "number": "1",
+            "role": "Gardien",
+            "age": "08/04/1986",
+            "name": "Igor Akinfeev",
+            "club": "CSKA Moskva (RUS)"
+        },
+        {
+            "number": "12",
+            "role": "Gardien",
+            "age": "26/05/1990",
+            "name": "Yuri Lodygin",
+            "club": "Zenit (RUS)"
+        },
+        {
+            "number": "16",
+            "role": "Gardien",
+            "age": "12/12/1985",
+            "name": "Guilherme",
+            "club": "Lokomotiv Moskva (RUS)"
+        },
+        {
+            "number": "2",
+            "role": "D\u00e9fenseur",
+            "age": "27/01/1987",
+            "name": "Roman Shishkin",
+            "club": "Lokomotiv Moskva (RUS)"
+        },
+        {
+            "number": "3",
+            "role": "D\u00e9fenseur",
+            "age": "08/08/1988",
+            "name": "Igor Smolnikov",
+            "club": "Zenit (RUS)"
+        },
+        {
+            "number": "4",
+            "role": "D\u00e9fenseur",
+            "age": "14/07/1979",
+            "name": "Sergei Ignashevich",
+            "club": "CSKA Moskva (RUS)"
+        },
+        {
+            "number": "5",
+            "role": "D\u00e9fenseur",
+            "age": "18/02/1988",
+            "name": "Roman Neust\u00e4dter",
+            "club": "Schalke (GER)"
+        },
+        {
+            "number": "6",
+            "role": "D\u00e9fenseur",
+            "age": "20/06/1982",
+            "name": "Aleksei Berezutski",
+            "club": "CSKA Moskva (RUS)"
+        },
+        {
+            "number": "14",
+            "role": "D\u00e9fenseur",
+            "age": "20/06/1982",
+            "name": "Vasili Berezutski",
+            "club": "CSKA Moskva (RUS)"
+        },
+        {
+            "number": "21",
+            "role": "D\u00e9fenseur",
+            "age": "27/04/1991",
+            "name": "Georgi Schennikov",
+            "club": "CSKA Moskva (RUS)"
+        },
+        {
+            "number": "23",
+            "role": "D\u00e9fenseur",
+            "age": "22/01/1987",
+            "name": "Dmitri Kombarov",
+            "club": "Spartak Moskva (RUS)"
+        },
+        {
+            "number": "7",
+            "role": "Milieu",
+            "age": "01/09/1989",
+            "name": "Artur Yusupov",
+            "club": "Zenit (RUS)"
+        },
+        {
+            "number": "8",
+            "role": "Milieu",
+            "age": "27/01/1987",
+            "name": "Denis Glushakov",
+            "club": "Spartak Moskva (RUS)"
+        },
+        {
+            "number": "11",
+            "role": "Milieu",
+            "age": "17/09/1988",
+            "name": "Pavel Mamaev",
+            "club": "Krasnodar (RUS)"
+        },
+        {
+            "number": "13",
+            "role": "Milieu",
+            "age": "30/05/1996",
+            "name": "Aleksandr Golovin",
+            "club": "CSKA Moskva (RUS)"
+        },
+        {
+            "number": "15",
+            "role": "Milieu",
+            "age": "06/07/1981",
+            "name": "Roman Shirokov",
+            "club": "CSKA Moskva (RUS)"
+        },
+        {
+            "number": "17",
+            "role": "Milieu",
+            "age": "29/07/1990",
+            "name": "Oleg Shatov",
+            "club": "Zenit (RUS)"
+        },
+        {
+            "number": "18",
+            "role": "Milieu",
+            "age": "04/08/1986",
+            "name": "Oleg Ivanov",
+            "club": "Terek (RUS)"
+        },
+        {
+            "number": "19",
+            "role": "Milieu",
+            "age": "19/07/1984",
+            "name": "Aleksandr Samedov",
+            "club": "Lokomotiv Moskva (RUS)"
+        },
+        {
+            "number": "20",
+            "role": "Milieu",
+            "age": "28/04/1984",
+            "name": "Dmitri Torbinski",
+            "club": "Krasnodar (RUS)"
+        },
+        {
+            "number": "9",
+            "role": "Attaquant",
+            "age": "19/03/1991",
+            "name": "Aleksandr Kokorin",
+            "club": "Zenit (RUS)"
+        },
+        {
+            "number": "10",
+            "role": "Attaquant",
+            "age": "09/02/1990",
+            "name": "Fedor Smolov",
+            "club": "Krasnodar (RUS)"
+        },
+        {
+            "number": "22",
+            "role": "Attaquant",
+            "age": "22/08/1988",
+            "name": "Artem Dzyuba",
+            "club": "Zenit (RUS)"
+        }
+    ]
+}

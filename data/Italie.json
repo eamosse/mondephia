@@ -1,0 +1,166 @@
+{
+    "team": "Italie",
+    "players": [
+        {
+            "number": "1",
+            "role": "Gardien",
+            "age": "28/01/1978",
+            "name": "Gianluigi Buffon",
+            "club": "Juventus (ITA)"
+        },
+        {
+            "number": "12",
+            "role": "Gardien",
+            "age": "12/01/1987",
+            "name": "Salvatore Sirigu",
+            "club": "Paris (FRA)"
+        },
+        {
+            "number": "13",
+            "role": "Gardien",
+            "age": "07/02/1983",
+            "name": "Federico Marchetti",
+            "club": "Lazio (ITA)"
+        },
+        {
+            "number": "2",
+            "role": "D\u00e9fenseur",
+            "age": "20/10/1992",
+            "name": "Mattia De Sciglio",
+            "club": "Milan (ITA)"
+        },
+        {
+            "number": "3",
+            "role": "D\u00e9fenseur",
+            "age": "14/08/1984",
+            "name": "Giorgio Chiellini",
+            "club": "Juventus (ITA)"
+        },
+        {
+            "number": "4",
+            "role": "D\u00e9fenseur",
+            "age": "02/12/1989",
+            "name": "Matteo Darmian",
+            "club": "Man. United (ENG)"
+        },
+        {
+            "number": "5",
+            "role": "D\u00e9fenseur",
+            "age": "23/05/1988",
+            "name": "Angelo Ogbonna",
+            "club": "West Ham (ENG)"
+        },
+        {
+            "number": "15",
+            "role": "D\u00e9fenseur",
+            "age": "08/05/1981",
+            "name": "Andrea Barzagli",
+            "club": "Juventus (ITA)"
+        },
+        {
+            "number": "19",
+            "role": "D\u00e9fenseur",
+            "age": "01/05/1987",
+            "name": "Leonardo Bonucci",
+            "club": "Juventus (ITA)"
+        },
+        {
+            "number": "6",
+            "role": "Milieu",
+            "age": "28/02/1987",
+            "name": "Antonio Candreva",
+            "club": "Lazio (ITA)"
+        },
+        {
+            "number": "8",
+            "role": "Milieu",
+            "age": "11/03/1991",
+            "name": "Alessandro Florenzi",
+            "club": "Roma (ITA)"
+        },
+        {
+            "number": "10",
+            "role": "Milieu",
+            "age": "28/08/1982",
+            "name": "Thiago Motta",
+            "club": "Paris (FRA)"
+        },
+        {
+            "number": "14",
+            "role": "Milieu",
+            "age": "09/03/1993",
+            "name": "Stefano Sturaro",
+            "club": "Juventus (ITA)"
+        },
+        {
+            "number": "16",
+            "role": "Milieu",
+            "age": "24/07/1983",
+            "name": "Daniele De Rossi",
+            "club": "Roma (ITA)"
+        },
+        {
+            "number": "18",
+            "role": "Milieu",
+            "age": "25/01/1985",
+            "name": "Marco Parolo",
+            "club": "Lazio (ITA)"
+        },
+        {
+            "number": "21",
+            "role": "Milieu",
+            "age": "16/02/1994",
+            "name": "Federico Bernardeschi",
+            "club": "Fiorentina (ITA)"
+        },
+        {
+            "number": "23",
+            "role": "Milieu",
+            "age": "05/05/1985",
+            "name": "Emanuele Giaccherini",
+            "club": "Bologna (ITA)"
+        },
+        {
+            "number": "7",
+            "role": "Attaquant",
+            "age": "25/06/1991",
+            "name": "Simone Zaza",
+            "club": "Juventus (ITA)"
+        },
+        {
+            "number": "9",
+            "role": "Attaquant",
+            "age": "15/07/1985",
+            "name": "Graziano Pell\u00e8",
+            "club": "Southampton (ENG)"
+        },
+        {
+            "number": "11",
+            "role": "Attaquant",
+            "age": "20/02/1990",
+            "name": "Ciro Immobile",
+            "club": "Torino (ITA)"
+        },
+        {
+            "number": "17",
+            "role": "Attaquant",
+            "age": "15/11/1986",
+            "name": "\u00c9der",
+            "club": "Internazionale (ITA)"
+        },
+        {
+            "number": "20",
+            "role": "Attaquant",
+            "age": "04/06/1991",
+            "name": "Lorenzo Insigne",
+            "club": "Napoli (ITA)"
+        },
+        {
+            "number": "22",
+            "role": "Attaquant",
+            "age": "27/10/1992",
+            "name": "Stephan El Shaarawy",
+            "club": "Roma (ITA)"
+        }
+    ]
+}

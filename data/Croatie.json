@@ -1,0 +1,166 @@
+{
+    "team": "Croatie",
+    "players": [
+        {
+            "number": "1",
+            "role": "Gardien",
+            "age": "15/03/1987",
+            "name": "Ivan Vargi\u0107",
+            "club": "Rijeka (CRO)"
+        },
+        {
+            "number": "12",
+            "role": "Gardien",
+            "age": "03/04/1990",
+            "name": "Lovre Kalini\u0107",
+            "club": "Hajduk Split (CRO)"
+        },
+        {
+            "number": "23",
+            "role": "Gardien",
+            "age": "27/10/1984",
+            "name": "Danijel Suba\u0161i\u0107",
+            "club": "Monaco (FRA)"
+        },
+        {
+            "number": "2",
+            "role": "D\u00e9fenseur",
+            "age": "10/01/1992",
+            "name": "\u0160ime Vrsaljko",
+            "club": "Sassuolo (ITA)"
+        },
+        {
+            "number": "3",
+            "role": "D\u00e9fenseur",
+            "age": "17/07/1987",
+            "name": "Ivan Strini\u0107",
+            "club": "Napoli (ITA)"
+        },
+        {
+            "number": "5",
+            "role": "D\u00e9fenseur",
+            "age": "05/02/1986",
+            "name": "Vedran \u0106orluka",
+            "club": "Lokomotiv Moskva (RUS)"
+        },
+        {
+            "number": "6",
+            "role": "D\u00e9fenseur",
+            "age": "28/11/1995",
+            "name": "Tin Jedvaj",
+            "club": "Leverkusen (GER)"
+        },
+        {
+            "number": "11",
+            "role": "D\u00e9fenseur",
+            "age": "01/05/1982",
+            "name": "Darijo Srna",
+            "club": "Shakhtar Donetsk (UKR)"
+        },
+        {
+            "number": "13",
+            "role": "D\u00e9fenseur",
+            "age": "18/03/1985",
+            "name": "Gordon Schildenfeld",
+            "club": "Dinamo Zagreb (CRO)"
+        },
+        {
+            "number": "21",
+            "role": "D\u00e9fenseur",
+            "age": "29/04/1989",
+            "name": "Domagoj Vida",
+            "club": "Dynamo Kyiv (UKR)"
+        },
+        {
+            "number": "4",
+            "role": "Milieu",
+            "age": "02/02/1989",
+            "name": "Ivan Peri\u0161i\u0107",
+            "club": "Internazionale (ITA)"
+        },
+        {
+            "number": "7",
+            "role": "Milieu",
+            "age": "10/03/1988",
+            "name": "Ivan Rakiti\u0107",
+            "club": "Barcelona (ESP)"
+        },
+        {
+            "number": "8",
+            "role": "Milieu",
+            "age": "06/05/1994",
+            "name": "Mateo Kova\u010di\u0107",
+            "club": "Real Madrid (ESP)"
+        },
+        {
+            "number": "10",
+            "role": "Milieu",
+            "age": "09/09/1985",
+            "name": "Luka Modri\u0107",
+            "club": "Real Madrid (ESP)"
+        },
+        {
+            "number": "14",
+            "role": "Milieu",
+            "age": "16/11/1992",
+            "name": "Marcelo Brozovi\u0107",
+            "club": "Internazionale (ITA)"
+        },
+        {
+            "number": "15",
+            "role": "Milieu",
+            "age": "19/07/1995",
+            "name": "Marko Rog",
+            "club": "Dinamo Zagreb (CRO)"
+        },
+        {
+            "number": "18",
+            "role": "Milieu",
+            "age": "14/04/1997",
+            "name": "Ante \u0106ori\u0107",
+            "club": "Dinamo Zagreb (CRO)"
+        },
+        {
+            "number": "19",
+            "role": "Milieu",
+            "age": "25/02/1989",
+            "name": "Milan Badelj",
+            "club": "Fiorentina (ITA)"
+        },
+        {
+            "number": "9",
+            "role": "Attaquant",
+            "age": "19/06/1991",
+            "name": "Andrej Kramari\u0107",
+            "club": "Hoffenheim (GER)"
+        },
+        {
+            "number": "16",
+            "role": "Attaquant",
+            "age": "05/01/1988",
+            "name": "Nikola Kalini\u0107",
+            "club": "Fiorentina (ITA)"
+        },
+        {
+            "number": "17",
+            "role": "Attaquant",
+            "age": "21/05/1986",
+            "name": "Mario Mand\u017euki\u0107",
+            "club": "Juventus (ITA)"
+        },
+        {
+            "number": "20",
+            "role": "Attaquant",
+            "age": "06/05/1995",
+            "name": "Marko Pjaca",
+            "club": "Dinamo Zagreb (CRO)"
+        },
+        {
+            "number": "22",
+            "role": "Attaquant",
+            "age": "01/02/1990",
+            "name": "Duje \u010cop",
+            "club": "M\u00e1laga (ESP)"
+        }
+    ]
+}

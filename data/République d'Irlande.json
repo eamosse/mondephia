@@ -1,0 +1,166 @@
+{
+    "team": "R\u00e9publique d'Irlande",
+    "players": [
+        {
+            "number": "1",
+            "role": "Gardien",
+            "age": "23/10/1984",
+            "name": "Keiren Westwood",
+            "club": "Sheff. Wednesday (ENG)"
+        },
+        {
+            "number": "16",
+            "role": "Gardien",
+            "age": "20/04/1976",
+            "name": "Shay Given",
+            "club": "Stoke (ENG)"
+        },
+        {
+            "number": "23",
+            "role": "Gardien",
+            "age": "12/05/1987",
+            "name": "Darren Randolph",
+            "club": "West Ham (ENG)"
+        },
+        {
+            "number": "2",
+            "role": "D\u00e9fenseur",
+            "age": "11/10/1988",
+            "name": "Seamus Coleman",
+            "club": "Everton (ENG)"
+        },
+        {
+            "number": "3",
+            "role": "D\u00e9fenseur",
+            "age": "26/09/1989",
+            "name": "Ciaran Clark",
+            "club": "Aston Villa (ENG)"
+        },
+        {
+            "number": "4",
+            "role": "D\u00e9fenseur",
+            "age": "30/04/1981",
+            "name": "John O'Shea",
+            "club": "Sunderland (ENG)"
+        },
+        {
+            "number": "5",
+            "role": "D\u00e9fenseur",
+            "age": "11/08/1986",
+            "name": "Richard Keogh",
+            "club": "Derby (ENG)"
+        },
+        {
+            "number": "12",
+            "role": "D\u00e9fenseur",
+            "age": "01/01/1992",
+            "name": "Shane Duffy",
+            "club": "Blackburn (ENG)"
+        },
+        {
+            "number": "15",
+            "role": "D\u00e9fenseur",
+            "age": "30/09/1992",
+            "name": "Cyrus Christie",
+            "club": "Derby (ENG)"
+        },
+        {
+            "number": "17",
+            "role": "D\u00e9fenseur",
+            "age": "20/08/1985",
+            "name": "Stephen Ward",
+            "club": "Burnley (ENG)"
+        },
+        {
+            "number": "6",
+            "role": "Milieu",
+            "age": "13/01/1984",
+            "name": "Glenn Whelan",
+            "club": "Stoke (ENG)"
+        },
+        {
+            "number": "7",
+            "role": "Milieu",
+            "age": "04/04/1986",
+            "name": "Aiden McGeady",
+            "club": "Sheff. Wednesday (ENG)"
+        },
+        {
+            "number": "8",
+            "role": "Milieu",
+            "age": "12/11/1990",
+            "name": "James McCarthy",
+            "club": "Everton (ENG)"
+        },
+        {
+            "number": "11",
+            "role": "Milieu",
+            "age": "22/04/1989",
+            "name": "James McClean",
+            "club": "West Brom (ENG)"
+        },
+        {
+            "number": "13",
+            "role": "Milieu",
+            "age": "31/01/1992",
+            "name": "Jeff Hendrick",
+            "club": "Derby (ENG)"
+        },
+        {
+            "number": "18",
+            "role": "Milieu",
+            "age": "29/05/1989",
+            "name": "David Meyler",
+            "club": "Hull (ENG)"
+        },
+        {
+            "number": "19",
+            "role": "Milieu",
+            "age": "14/01/1992",
+            "name": "Robbie Brady",
+            "club": "Norwich (ENG)"
+        },
+        {
+            "number": "20",
+            "role": "Milieu",
+            "age": "20/05/1982",
+            "name": "Wes Hoolahan",
+            "club": "Norwich (ENG)"
+        },
+        {
+            "number": "22",
+            "role": "Milieu",
+            "age": "01/04/1986",
+            "name": "Stephen Quinn",
+            "club": "Reading (ENG)"
+        },
+        {
+            "number": "9",
+            "role": "Attaquant",
+            "age": "22/01/1987",
+            "name": "Shane Long",
+            "club": "Southampton (ENG)"
+        },
+        {
+            "number": "10",
+            "role": "Attaquant",
+            "age": "08/07/1980",
+            "name": "Robbie Keane",
+            "club": "LA Galaxy (USA)"
+        },
+        {
+            "number": "14",
+            "role": "Attaquant",
+            "age": "20/09/1983",
+            "name": "Jon Walters",
+            "club": "Stoke (ENG)"
+        },
+        {
+            "number": "21",
+            "role": "Attaquant",
+            "age": "15/03/1983",
+            "name": "Daryl Murphy",
+            "club": "Ipswich (ENG)"
+        }
+    ]
+}

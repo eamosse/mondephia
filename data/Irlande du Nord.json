@@ -1,0 +1,166 @@
+{
+    "team": "Irlande du Nord",
+    "players": [
+        {
+            "number": "1",
+            "role": "Gardien",
+            "age": "12/07/1984",
+            "name": "Michael McGovern",
+            "club": "Hamilton (SCO)"
+        },
+        {
+            "number": "12",
+            "role": "Gardien",
+            "age": "30/09/1977",
+            "name": "Roy Carroll",
+            "club": "Linfield (NIR)"
+        },
+        {
+            "number": "23",
+            "role": "Gardien",
+            "age": "19/05/1982",
+            "name": "Alan Mannus",
+            "club": "St Johnstone (SCO)"
+        },
+        {
+            "number": "2",
+            "role": "D\u00e9fenseur",
+            "age": "26/07/1991",
+            "name": "Conor McLaughlin",
+            "club": "Fleetwood (ENG)"
+        },
+        {
+            "number": "4",
+            "role": "D\u00e9fenseur",
+            "age": "05/12/1979",
+            "name": "Gareth McAuley",
+            "club": "West Brom (ENG)"
+        },
+        {
+            "number": "5",
+            "role": "D\u00e9fenseur",
+            "age": "03/01/1988",
+            "name": "Jonny Evans",
+            "club": "West Brom (ENG)"
+        },
+        {
+            "number": "6",
+            "role": "D\u00e9fenseur",
+            "age": "25/02/1982",
+            "name": "Chris Baird",
+            "club": "Fulham (ENG)"
+        },
+        {
+            "number": "15",
+            "role": "D\u00e9fenseur",
+            "age": "15/02/1994",
+            "name": "Luke McCullough",
+            "club": "Doncaster (ENG)"
+        },
+        {
+            "number": "17",
+            "role": "D\u00e9fenseur",
+            "age": "27/04/1995",
+            "name": "Paddy McNair",
+            "club": "Man. United (ENG)"
+        },
+        {
+            "number": "18",
+            "role": "D\u00e9fenseur",
+            "age": "08/11/1979",
+            "name": "Aaron Hughes",
+            "club": "Melbourne City (AUS)"
+        },
+        {
+            "number": "20",
+            "role": "D\u00e9fenseur",
+            "age": "06/02/1989",
+            "name": "Craig Cathcart",
+            "club": "Watford (ENG)"
+        },
+        {
+            "number": "22",
+            "role": "D\u00e9fenseur",
+            "age": "02/10/1991",
+            "name": "Lee Hodson",
+            "club": "MK Dons (ENG)"
+        },
+        {
+            "number": "3",
+            "role": "Milieu",
+            "age": "12/07/1991",
+            "name": "Shane Ferguson",
+            "club": "Millwall (ENG)"
+        },
+        {
+            "number": "8",
+            "role": "Milieu",
+            "age": "01/01/1985",
+            "name": "Steven Davis",
+            "club": "Southampton (ENG)"
+        },
+        {
+            "number": "13",
+            "role": "Milieu",
+            "age": "30/07/1990",
+            "name": "Corry Evans",
+            "club": "Blackburn (ENG)"
+        },
+        {
+            "number": "14",
+            "role": "Milieu",
+            "age": "19/04/1991",
+            "name": "Stuart Dallas",
+            "club": "Leeds (ENG)"
+        },
+        {
+            "number": "16",
+            "role": "Milieu",
+            "age": "12/04/1991",
+            "name": "Oliver Norwood",
+            "club": "Reading (ENG)"
+        },
+        {
+            "number": "19",
+            "role": "Milieu",
+            "age": "12/05/1986",
+            "name": "Jamie Ward",
+            "club": "Nottm Forest (ENG)"
+        },
+        {
+            "number": "21",
+            "role": "Milieu",
+            "age": "15/08/1990",
+            "name": "Josh Magennis",
+            "club": "Kilmarnock (SCO)"
+        },
+        {
+            "number": "7",
+            "role": "Attaquant",
+            "age": "20/07/1987",
+            "name": "Niall McGinn",
+            "club": "Aberdeen (SCO)"
+        },
+        {
+            "number": "9",
+            "role": "Attaquant",
+            "age": "03/07/1991",
+            "name": "Will Grigg",
+            "club": "Wigan (ENG)"
+        },
+        {
+            "number": "10",
+            "role": "Attaquant",
+            "age": "16/09/1987",
+            "name": "Kyle Lafferty",
+            "club": "Birmingham (ENG)"
+        },
+        {
+            "number": "11",
+            "role": "Attaquant",
+            "age": "18/05/1992",
+            "name": "Conor Washington",
+            "club": "QPR (ENG)"
+        }
+    ]
+}

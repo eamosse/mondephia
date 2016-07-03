@@ -1,0 +1,166 @@
+{
+    "team": "Allemagne",
+    "players": [
+        {
+            "number": "1",
+            "role": "Gardien",
+            "age": "27/03/1986",
+            "name": "Manuel Neuer",
+            "club": "Bayern (GER)"
+        },
+        {
+            "number": "12",
+            "role": "Gardien",
+            "age": "04/03/1992",
+            "name": "Bernd Leno",
+            "club": "Leverkusen (GER)"
+        },
+        {
+            "number": "22",
+            "role": "Gardien",
+            "age": "30/04/1992",
+            "name": "Marc-Andr\u00e9 ter Stegen",
+            "club": "Barcelona (ESP)"
+        },
+        {
+            "number": "2",
+            "role": "D\u00e9fenseur",
+            "age": "17/04/1992",
+            "name": "Shkodran Mustafi",
+            "club": "Valencia (ESP)"
+        },
+        {
+            "number": "3",
+            "role": "D\u00e9fenseur",
+            "age": "27/05/1990",
+            "name": "Jonas Hector",
+            "club": "K\u00f6ln (GER)"
+        },
+        {
+            "number": "4",
+            "role": "D\u00e9fenseur",
+            "age": "29/02/1988",
+            "name": "Benedikt H\u00f6wedes",
+            "club": "Schalke (GER)"
+        },
+        {
+            "number": "5",
+            "role": "D\u00e9fenseur",
+            "age": "16/12/1988",
+            "name": "Mats Hummels",
+            "club": "Dortmund (GER)"
+        },
+        {
+            "number": "16",
+            "role": "D\u00e9fenseur",
+            "age": "11/02/1996",
+            "name": "Jonathan Tah",
+            "club": "Leverkusen (GER)"
+        },
+        {
+            "number": "17",
+            "role": "D\u00e9fenseur",
+            "age": "03/09/1988",
+            "name": "J\u00e9r\u00f4me Boateng",
+            "club": "Bayern (GER)"
+        },
+        {
+            "number": "21",
+            "role": "D\u00e9fenseur",
+            "age": "08/02/1995",
+            "name": "Joshua Kimmich",
+            "club": "Bayern (GER)"
+        },
+        {
+            "number": "6",
+            "role": "Milieu",
+            "age": "04/04/1987",
+            "name": "Sami Khedira",
+            "club": "Juventus (ITA)"
+        },
+        {
+            "number": "7",
+            "role": "Milieu",
+            "age": "01/08/1984",
+            "name": "Bastian Schweinsteiger",
+            "club": "Man. United (ENG)"
+        },
+        {
+            "number": "8",
+            "role": "Milieu",
+            "age": "15/10/1988",
+            "name": "Mesut \u00d6zil",
+            "club": "Arsenal (ENG)"
+        },
+        {
+            "number": "9",
+            "role": "Milieu",
+            "age": "06/11/1990",
+            "name": "Andr\u00e9 Sch\u00fcrrle",
+            "club": "Wolfsburg (GER)"
+        },
+        {
+            "number": "11",
+            "role": "Milieu",
+            "age": "20/09/1993",
+            "name": "Julian Draxler",
+            "club": "Wolfsburg (GER)"
+        },
+        {
+            "number": "14",
+            "role": "Milieu",
+            "age": "12/01/1994",
+            "name": "Emre Can",
+            "club": "Liverpool (ENG)"
+        },
+        {
+            "number": "15",
+            "role": "Milieu",
+            "age": "08/09/1995",
+            "name": "Julian Weigl",
+            "club": "Dortmund (GER)"
+        },
+        {
+            "number": "18",
+            "role": "Milieu",
+            "age": "04/01/1990",
+            "name": "Toni Kroos",
+            "club": "Real Madrid (ESP)"
+        },
+        {
+            "number": "19",
+            "role": "Milieu",
+            "age": "03/06/1992",
+            "name": "Mario G\u00f6tze",
+            "club": "Bayern (GER)"
+        },
+        {
+            "number": "20",
+            "role": "Milieu",
+            "age": "11/01/1996",
+            "name": "Leroy San\u00e9",
+            "club": "Schalke (GER)"
+        },
+        {
+            "number": "10",
+            "role": "Attaquant",
+            "age": "04/06/1985",
+            "name": "Lukas Podolski",
+            "club": "Galatasaray (TUR)"
+        },
+        {
+            "number": "13",
+            "role": "Attaquant",
+            "age": "13/09/1989",
+            "name": "Thomas M\u00fcller",
+            "club": "Bayern (GER)"
+        },
+        {
+            "number": "23",
+            "role": "Attaquant",
+            "age": "10/07/1985",
+            "name": "Mario Gomez",
+            "club": "Be\u015fikta\u015f (TUR)"
+        }
+    ]
+}

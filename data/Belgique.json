@@ -1,0 +1,166 @@
+{
+    "team": "Belgique",
+    "players": [
+        {
+            "number": "1",
+            "role": "Gardien",
+            "age": "11/05/1992",
+            "name": "Thibaut Courtois",
+            "club": "Chelsea (ENG)"
+        },
+        {
+            "number": "12",
+            "role": "Gardien",
+            "age": "06/08/1988",
+            "name": "Simon Mignolet",
+            "club": "Liverpool (ENG)"
+        },
+        {
+            "number": "13",
+            "role": "Gardien",
+            "age": "31/05/1979",
+            "name": "Jean-Fran\u00e7ois Gillet",
+            "club": "Mechelen (BEL)"
+        },
+        {
+            "number": "2",
+            "role": "D\u00e9fenseur",
+            "age": "02/03/1989",
+            "name": "Toby Alderweireld",
+            "club": "Tottenham (ENG)"
+        },
+        {
+            "number": "3",
+            "role": "D\u00e9fenseur",
+            "age": "14/11/1985",
+            "name": "Thomas Vermaelen",
+            "club": "Barcelona (ESP)"
+        },
+        {
+            "number": "5",
+            "role": "D\u00e9fenseur",
+            "age": "24/04/1987",
+            "name": "Jan Vertonghen",
+            "club": "Tottenham (ENG)"
+        },
+        {
+            "number": "15",
+            "role": "D\u00e9fenseur",
+            "age": "28/06/1995",
+            "name": "Jason Denayer",
+            "club": "Galatasaray (TUR)"
+        },
+        {
+            "number": "16",
+            "role": "D\u00e9fenseur",
+            "age": "12/09/1991",
+            "name": "Thomas Meunier",
+            "club": "Club Brugge (BEL)"
+        },
+        {
+            "number": "18",
+            "role": "D\u00e9fenseur",
+            "age": "24/02/1991",
+            "name": "Christian Kabasele",
+            "club": "Genk (BEL)"
+        },
+        {
+            "number": "21",
+            "role": "D\u00e9fenseur",
+            "age": "25/07/1994",
+            "name": "Jordan Lukaku",
+            "club": "Oostende (BEL)"
+        },
+        {
+            "number": "23",
+            "role": "D\u00e9fenseur",
+            "age": "05/08/1985",
+            "name": "Laurent Ciman",
+            "club": "Montreal (CAN)"
+        },
+        {
+            "number": "4",
+            "role": "Milieu",
+            "age": "04/05/1988",
+            "name": "Radja Nainggolan",
+            "club": "Roma (ITA)"
+        },
+        {
+            "number": "6",
+            "role": "Milieu",
+            "age": "12/01/1989",
+            "name": "Axel Witsel",
+            "club": "Zenit (RUS)"
+        },
+        {
+            "number": "7",
+            "role": "Milieu",
+            "age": "28/06/1991",
+            "name": "Kevin De Bruyne",
+            "club": "Man. City (ENG)"
+        },
+        {
+            "number": "8",
+            "role": "Milieu",
+            "age": "22/11/1987",
+            "name": "Marouane Fellaini",
+            "club": "Man. United (ENG)"
+        },
+        {
+            "number": "10",
+            "role": "Milieu",
+            "age": "07/01/1991",
+            "name": "Eden Hazard",
+            "club": "Chelsea (ENG)"
+        },
+        {
+            "number": "11",
+            "role": "Milieu",
+            "age": "04/09/1993",
+            "name": "Yannick Carrasco",
+            "club": "Atl\u00e9tico (ESP)"
+        },
+        {
+            "number": "19",
+            "role": "Milieu",
+            "age": "16/07/1987",
+            "name": "Mousa Demb\u00e9l\u00e9",
+            "club": "Tottenham (ENG)"
+        },
+        {
+            "number": "9",
+            "role": "Attaquant",
+            "age": "13/05/1993",
+            "name": "Romelu Lukaku",
+            "club": "Everton (ENG)"
+        },
+        {
+            "number": "14",
+            "role": "Attaquant",
+            "age": "06/05/1987",
+            "name": "Dries Mertens",
+            "club": "Napoli (ITA)"
+        },
+        {
+            "number": "17",
+            "role": "Attaquant",
+            "age": "18/04/1995",
+            "name": "Divock Origi",
+            "club": "Liverpool (ENG)"
+        },
+        {
+            "number": "20",
+            "role": "Attaquant",
+            "age": "03/12/1990",
+            "name": "Christian Benteke",
+            "club": "Liverpool (ENG)"
+        },
+        {
+            "number": "22",
+            "role": "Attaquant",
+            "age": "02/10/1993",
+            "name": "Michy Batshuayi",
+            "club": "Marseille (FRA)"
+        }
+    ]
+}

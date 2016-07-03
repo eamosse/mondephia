@@ -1,0 +1,166 @@
+{
+    "team": "Espagne",
+    "players": [
+        {
+            "number": "1",
+            "role": "Gardien",
+            "age": "20/05/1981",
+            "name": "Iker Casillas",
+            "club": "Porto (POR)"
+        },
+        {
+            "number": "13",
+            "role": "Gardien",
+            "age": "07/11/1990",
+            "name": "David de Gea",
+            "club": "Man. United (ENG)"
+        },
+        {
+            "number": "23",
+            "role": "Gardien",
+            "age": "01/09/1993",
+            "name": "Sergio Rico",
+            "club": "Sevilla (ESP)"
+        },
+        {
+            "number": "2",
+            "role": "D\u00e9fenseur",
+            "age": "28/08/1989",
+            "name": "C\u00e9sar Azpilicueta",
+            "club": "Chelsea (ENG)"
+        },
+        {
+            "number": "3",
+            "role": "D\u00e9fenseur",
+            "age": "02/02/1987",
+            "name": "Gerard Piqu\u00e9",
+            "club": "Barcelona (ESP)"
+        },
+        {
+            "number": "4",
+            "role": "D\u00e9fenseur",
+            "age": "15/01/1991",
+            "name": "Marc Bartra",
+            "club": "Barcelona (ESP)"
+        },
+        {
+            "number": "12",
+            "role": "D\u00e9fenseur",
+            "age": "19/03/1995",
+            "name": "H\u00e9ctor Beller\u00edn",
+            "club": "Arsenal (ENG)"
+        },
+        {
+            "number": "15",
+            "role": "D\u00e9fenseur",
+            "age": "30/03/1986",
+            "name": "Sergio Ramos",
+            "club": "Real Madrid (ESP)"
+        },
+        {
+            "number": "16",
+            "role": "D\u00e9fenseur",
+            "age": "09/01/1985",
+            "name": "Juanfran",
+            "club": "Atl\u00e9tico (ESP)"
+        },
+        {
+            "number": "17",
+            "role": "D\u00e9fenseur",
+            "age": "30/05/1989",
+            "name": "Mikel San Jos\u00e9",
+            "club": "Athletic (ESP)"
+        },
+        {
+            "number": "18",
+            "role": "D\u00e9fenseur",
+            "age": "21/03/1989",
+            "name": "Jordi Alba",
+            "club": "Barcelona (ESP)"
+        },
+        {
+            "number": "5",
+            "role": "Milieu",
+            "age": "16/07/1988",
+            "name": "Sergio Busquets",
+            "club": "Barcelona (ESP)"
+        },
+        {
+            "number": "6",
+            "role": "Milieu",
+            "age": "11/05/1984",
+            "name": "Andr\u00e9s Iniesta",
+            "club": "Barcelona (ESP)"
+        },
+        {
+            "number": "8",
+            "role": "Milieu",
+            "age": "08/01/1992",
+            "name": "Koke",
+            "club": "Atl\u00e9tico (ESP)"
+        },
+        {
+            "number": "10",
+            "role": "Milieu",
+            "age": "04/05/1987",
+            "name": "Cesc F\u00e0bregas",
+            "club": "Chelsea (ENG)"
+        },
+        {
+            "number": "14",
+            "role": "Milieu",
+            "age": "11/04/1991",
+            "name": "Thiago Alc\u00e1ntara",
+            "club": "Bayern (GER)"
+        },
+        {
+            "number": "19",
+            "role": "Milieu",
+            "age": "12/06/1984",
+            "name": "Bruno Soriano",
+            "club": "Villarreal (ESP)"
+        },
+        {
+            "number": "21",
+            "role": "Milieu",
+            "age": "08/01/1986",
+            "name": "David Silva",
+            "club": "Man. City (ENG)"
+        },
+        {
+            "number": "7",
+            "role": "Attaquant",
+            "age": "23/10/1992",
+            "name": "\u00c1lvaro Morata",
+            "club": "Juventus (ITA)"
+        },
+        {
+            "number": "9",
+            "role": "Attaquant",
+            "age": "01/07/1991",
+            "name": "Lucas V\u00e1zquez",
+            "club": "Real Madrid (ESP)"
+        },
+        {
+            "number": "11",
+            "role": "Attaquant",
+            "age": "28/07/1987",
+            "name": "Pedro Rodr\u00edguez",
+            "club": "Chelsea (ENG)"
+        },
+        {
+            "number": "20",
+            "role": "Attaquant",
+            "age": "11/02/1981",
+            "name": "Aritz Aduriz",
+            "club": "Athletic (ESP)"
+        },
+        {
+            "number": "22",
+            "role": "Attaquant",
+            "age": "15/10/1986",
+            "name": "Nolito",
+            "club": "Celta (ESP)"
+        }
+    ]
+}

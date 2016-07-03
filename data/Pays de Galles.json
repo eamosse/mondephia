@@ -1,0 +1,166 @@
+{
+    "team": "Pays de Galles",
+    "players": [
+        {
+            "number": "1",
+            "role": "Gardien",
+            "age": "24/01/1987",
+            "name": "Wayne Hennessey",
+            "club": "Crystal Palace (ENG)"
+        },
+        {
+            "number": "12",
+            "role": "Gardien",
+            "age": "17/03/1987",
+            "name": "Owain F\u00f4n Williams",
+            "club": "Inverness (SCO)"
+        },
+        {
+            "number": "21",
+            "role": "Gardien",
+            "age": "22/06/1993",
+            "name": "Danny Ward",
+            "club": "Liverpool (ENG)"
+        },
+        {
+            "number": "2",
+            "role": "D\u00e9fenseur",
+            "age": "21/07/1989",
+            "name": "Chris Gunter",
+            "club": "Reading (ENG)"
+        },
+        {
+            "number": "3",
+            "role": "D\u00e9fenseur",
+            "age": "07/02/1989",
+            "name": "Neil Taylor",
+            "club": "Swansea (ENG)"
+        },
+        {
+            "number": "4",
+            "role": "D\u00e9fenseur",
+            "age": "24/04/1993",
+            "name": "Ben Davies",
+            "club": "Tottenham (ENG)"
+        },
+        {
+            "number": "5",
+            "role": "D\u00e9fenseur",
+            "age": "23/01/1989",
+            "name": "James Chester",
+            "club": "West Brom (ENG)"
+        },
+        {
+            "number": "6",
+            "role": "D\u00e9fenseur",
+            "age": "23/08/1984",
+            "name": "Ashley Williams",
+            "club": "Swansea (ENG)"
+        },
+        {
+            "number": "15",
+            "role": "D\u00e9fenseur",
+            "age": "12/04/1991",
+            "name": "Jazz Richards",
+            "club": "Fulham (ENG)"
+        },
+        {
+            "number": "19",
+            "role": "D\u00e9fenseur",
+            "age": "23/08/1983",
+            "name": "James Collins",
+            "club": "West Ham (ENG)"
+        },
+        {
+            "number": "7",
+            "role": "Milieu",
+            "age": "14/03/1990",
+            "name": "Joe Allen",
+            "club": "Liverpool (ENG)"
+        },
+        {
+            "number": "8",
+            "role": "Milieu",
+            "age": "29/10/1988",
+            "name": "Andy King",
+            "club": "Leicester (ENG)"
+        },
+        {
+            "number": "10",
+            "role": "Milieu",
+            "age": "26/12/1990",
+            "name": "Aaron Ramsey",
+            "club": "Arsenal (ENG)"
+        },
+        {
+            "number": "14",
+            "role": "Milieu",
+            "age": "03/02/1986",
+            "name": "David Edwards",
+            "club": "Wolves (ENG)"
+        },
+        {
+            "number": "16",
+            "role": "Milieu",
+            "age": "23/01/1987",
+            "name": "Joe Ledley",
+            "club": "Crystal Palace (ENG)"
+        },
+        {
+            "number": "20",
+            "role": "Milieu",
+            "age": "09/10/1993",
+            "name": "Jonathan Williams",
+            "club": "Crystal Palace (ENG)"
+        },
+        {
+            "number": "22",
+            "role": "Milieu",
+            "age": "18/02/1983",
+            "name": "David Vaughan",
+            "club": "Nottm Forest (ENG)"
+        },
+        {
+            "number": "9",
+            "role": "Attaquant",
+            "age": "21/05/1989",
+            "name": "Hal Robson-Kanu",
+            "club": "Reading (ENG)"
+        },
+        {
+            "number": "11",
+            "role": "Attaquant",
+            "age": "16/07/1989",
+            "name": "Gareth Bale",
+            "club": "Real Madrid (ESP)"
+        },
+        {
+            "number": "13",
+            "role": "Attaquant",
+            "age": "07/09/1995",
+            "name": "George Williams",
+            "club": "Fulham (ENG)"
+        },
+        {
+            "number": "17",
+            "role": "Attaquant",
+            "age": "04/12/1987",
+            "name": "David Cotterill",
+            "club": "Birmingham (ENG)"
+        },
+        {
+            "number": "18",
+            "role": "Attaquant",
+            "age": "21/10/1989",
+            "name": "Sam Vokes",
+            "club": "Burnley (ENG)"
+        },
+        {
+            "number": "23",
+            "role": "Attaquant",
+            "age": "10/12/1988",
+            "name": "Simon Church",
+            "club": "MK Dons (ENG)"
+        }
+    ]
+}

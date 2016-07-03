@@ -1,0 +1,166 @@
+{
+    "team": "Turquie",
+    "players": [
+        {
+            "number": "1",
+            "role": "Gardien",
+            "age": "11/08/1988",
+            "name": "Volkan Babacan",
+            "club": "\u0130stanbul Ba\u015fak\u015fehir (TUR)"
+        },
+        {
+            "number": "12",
+            "role": "Gardien",
+            "age": "01/01/1988",
+            "name": "Onur K\u0131vrak",
+            "club": "Trabzonspor (TUR)"
+        },
+        {
+            "number": "23",
+            "role": "Gardien",
+            "age": "17/06/1989",
+            "name": "Harun Tekin",
+            "club": "Bursaspor (TUR)"
+        },
+        {
+            "number": "2",
+            "role": "D\u00e9fenseur",
+            "age": "24/02/1991",
+            "name": "Semih Kaya",
+            "club": "Galatasaray (TUR)"
+        },
+        {
+            "number": "3",
+            "role": "D\u00e9fenseur",
+            "age": "23/03/1983",
+            "name": "Hakan Balta",
+            "club": "Galatasaray (TUR)"
+        },
+        {
+            "number": "4",
+            "role": "D\u00e9fenseur",
+            "age": "26/02/1994",
+            "name": "Ahmet \u00c7al\u0131k",
+            "club": "Gen\u00e7lerbirli\u011fi (TUR)"
+        },
+        {
+            "number": "7",
+            "role": "D\u00e9fenseur",
+            "age": "04/01/1985",
+            "name": "G\u00f6khan G\u00f6n\u00fcl",
+            "club": "Fenerbah\u00e7e (TUR)"
+        },
+        {
+            "number": "13",
+            "role": "D\u00e9fenseur",
+            "age": "10/07/1989",
+            "name": "\u0130smail K\u00f6yba\u015f\u0131",
+            "club": "Be\u015fikta\u015f (TUR)"
+        },
+        {
+            "number": "18",
+            "role": "D\u00e9fenseur",
+            "age": "04/10/1988",
+            "name": "Caner Erkin",
+            "club": "Fenerbah\u00e7e (TUR)"
+        },
+        {
+            "number": "22",
+            "role": "D\u00e9fenseur",
+            "age": "23/01/1990",
+            "name": "\u015eener \u00d6zbayrakl\u0131",
+            "club": "Fenerbah\u00e7e (TUR)"
+        },
+        {
+            "number": "5",
+            "role": "Milieu",
+            "age": "05/09/1988",
+            "name": "Nuri \u015eahin",
+            "club": "Dortmund (GER)"
+        },
+        {
+            "number": "6",
+            "role": "Milieu",
+            "age": "08/02/1994",
+            "name": "Hakan \u00c7alhano\u011flu",
+            "club": "Leverkusen (GER)"
+        },
+        {
+            "number": "8",
+            "role": "Milieu",
+            "age": "10/02/1985",
+            "name": "Sel\u00e7uk \u0130nan",
+            "club": "Galatasaray (TUR)"
+        },
+        {
+            "number": "10",
+            "role": "Milieu",
+            "age": "30/01/1987",
+            "name": "Arda Turan",
+            "club": "Barcelona (ESP)"
+        },
+        {
+            "number": "11",
+            "role": "Milieu",
+            "age": "26/05/1987",
+            "name": "Olcay \u015eahan",
+            "club": "Be\u015fikta\u015f (TUR)"
+        },
+        {
+            "number": "14",
+            "role": "Milieu",
+            "age": "23/09/1992",
+            "name": "O\u011fuzhan \u00d6zyakup",
+            "club": "Be\u015fikta\u015f (TUR)"
+        },
+        {
+            "number": "15",
+            "role": "Milieu",
+            "age": "03/03/1986",
+            "name": "Mehmet Topal",
+            "club": "Fenerbah\u00e7e (TUR)"
+        },
+        {
+            "number": "16",
+            "role": "Milieu",
+            "age": "23/03/1995",
+            "name": "Ozan Tufan",
+            "club": "Fenerbah\u00e7e (TUR)"
+        },
+        {
+            "number": "19",
+            "role": "Milieu",
+            "age": "24/02/1992",
+            "name": "Yunus Mall\u0131",
+            "club": "Mainz (GER)"
+        },
+        {
+            "number": "20",
+            "role": "Milieu",
+            "age": "07/07/1987",
+            "name": "Volkan \u015een",
+            "club": "Fenerbah\u00e7e (TUR)"
+        },
+        {
+            "number": "9",
+            "role": "Attaquant",
+            "age": "07/06/1991",
+            "name": "Cenk Tosun",
+            "club": "Be\u015fikta\u015f (TUR)"
+        },
+        {
+            "number": "17",
+            "role": "Attaquant",
+            "age": "15/07/1985",
+            "name": "Burak Y\u0131lmaz",
+            "club": "Beijing Guoan (CHN)"
+        },
+        {
+            "number": "21",
+            "role": "Attaquant",
+            "age": "24/07/1997",
+            "name": "Emre Mor",
+            "club": "Nordsj\u00e6lland (DEN)"
+        }
+    ]
+}

@@ -1,0 +1,166 @@
+{
+    "team": "R\u00e9p. tch\u00e8que",
+    "players": [
+        {
+            "number": "1",
+            "role": "Gardien",
+            "age": "20/05/1982",
+            "name": "Petr \u010cech",
+            "club": "Arsenal (ENG)"
+        },
+        {
+            "number": "16",
+            "role": "Gardien",
+            "age": "29/03/1989",
+            "name": "Tom\u00e1\u0161 Vacl\u00edk",
+            "club": "Basel (SUI)"
+        },
+        {
+            "number": "23",
+            "role": "Gardien",
+            "age": "26/08/1992",
+            "name": "Tom\u00e1\u0161 Koubek",
+            "club": "Liberec (CZE)"
+        },
+        {
+            "number": "2",
+            "role": "D\u00e9fenseur",
+            "age": "25/04/1992",
+            "name": "Pavel Kade\u0159\u00e1bek",
+            "club": "Hoffenheim (GER)"
+        },
+        {
+            "number": "3",
+            "role": "D\u00e9fenseur",
+            "age": "13/12/1984",
+            "name": "Michal Kadlec",
+            "club": "Fenerbah\u00e7e (TUR)"
+        },
+        {
+            "number": "4",
+            "role": "D\u00e9fenseur",
+            "age": "24/12/1986",
+            "name": "Theodor Gebre Selassie",
+            "club": "Bremen (GER)"
+        },
+        {
+            "number": "5",
+            "role": "D\u00e9fenseur",
+            "age": "06/06/1984",
+            "name": "Roman Hubn\u00edk",
+            "club": "Plze\u0148 (CZE)"
+        },
+        {
+            "number": "6",
+            "role": "D\u00e9fenseur",
+            "age": "15/09/1983",
+            "name": "Tom\u00e1\u0161 Sivok",
+            "club": "Bursaspor (TUR)"
+        },
+        {
+            "number": "8",
+            "role": "D\u00e9fenseur",
+            "age": "06/10/1983",
+            "name": "David Limbersk\u00fd",
+            "club": "Plze\u0148 (CZE)"
+        },
+        {
+            "number": "17",
+            "role": "D\u00e9fenseur",
+            "age": "29/03/1988",
+            "name": "Marek Such\u00fd",
+            "club": "Basel (SUI)"
+        },
+        {
+            "number": "9",
+            "role": "Milieu",
+            "age": "30/09/1988",
+            "name": "Bo\u0159ek Do\u010dkal",
+            "club": "Sparta Praha (CZE)"
+        },
+        {
+            "number": "10",
+            "role": "Milieu",
+            "age": "04/10/1980",
+            "name": "Tom\u00e1\u0161 Rosick\u00fd",
+            "club": "Arsenal (ENG)"
+        },
+        {
+            "number": "11",
+            "role": "Milieu",
+            "age": "27/09/1985",
+            "name": "Daniel Pudil",
+            "club": "Sheff. Wednesday (ENG)"
+        },
+        {
+            "number": "13",
+            "role": "Milieu",
+            "age": "05/01/1982",
+            "name": "Jaroslav Pla\u0161il",
+            "club": "Bordeaux (FRA)"
+        },
+        {
+            "number": "14",
+            "role": "Milieu",
+            "age": "27/10/1985",
+            "name": "Daniel Kol\u00e1\u0159",
+            "club": "Plze\u0148 (CZE)"
+        },
+        {
+            "number": "15",
+            "role": "Milieu",
+            "age": "18/05/1991",
+            "name": "David Pavelka",
+            "club": "Kas\u0131mpa\u015fa (TUR)"
+        },
+        {
+            "number": "18",
+            "role": "Milieu",
+            "age": "30/05/1990",
+            "name": "Josef \u0160ural",
+            "club": "Sparta Praha (CZE)"
+        },
+        {
+            "number": "19",
+            "role": "Milieu",
+            "age": "05/07/1992",
+            "name": "Ladislav Krej\u010d\u00ed",
+            "club": "Sparta Praha (CZE)"
+        },
+        {
+            "number": "20",
+            "role": "Milieu",
+            "age": "12/03/1992",
+            "name": "Ji\u0159\u00ed Skal\u00e1k",
+            "club": "Brighton (ENG)"
+        },
+        {
+            "number": "22",
+            "role": "Milieu",
+            "age": "08/08/1990",
+            "name": "Vladim\u00edr Darida",
+            "club": "Hertha (GER)"
+        },
+        {
+            "number": "7",
+            "role": "Attaquant",
+            "age": "13/08/1989",
+            "name": "Tom\u00e1\u0161 Necid",
+            "club": "Bursaspor (TUR)"
+        },
+        {
+            "number": "12",
+            "role": "Attaquant",
+            "age": "16/01/1986",
+            "name": "Milan \u0160koda",
+            "club": "Slavia Praha (CZE)"
+        },
+        {
+            "number": "21",
+            "role": "Attaquant",
+            "age": "18/09/1981",
+            "name": "David Lafata",
+            "club": "Sparta Praha (CZE)"
+        }
+    ]
+}

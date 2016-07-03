@@ -1,0 +1,166 @@
+{
+    "team": "Pologne",
+    "players": [
+        {
+            "number": "1",
+            "role": "Gardien",
+            "age": "18/04/1990",
+            "name": "Wojciech Szcz\u0119sny",
+            "club": "Roma (ITA)"
+        },
+        {
+            "number": "12",
+            "role": "Gardien",
+            "age": "20/02/1980",
+            "name": "Artur Boruc",
+            "club": "Bournemouth (ENG)"
+        },
+        {
+            "number": "22",
+            "role": "Gardien",
+            "age": "18/04/1985",
+            "name": "\u0141ukasz Fabia\u0144ski",
+            "club": "Swansea (ENG)"
+        },
+        {
+            "number": "2",
+            "role": "D\u00e9fenseur",
+            "age": "21/09/1987",
+            "name": "Micha\u0142 Pazdan",
+            "club": "Legia (POL)"
+        },
+        {
+            "number": "3",
+            "role": "D\u00e9fenseur",
+            "age": "04/11/1987",
+            "name": "Artur J\u0119drzejczyk",
+            "club": "Legia (POL)"
+        },
+        {
+            "number": "4",
+            "role": "D\u00e9fenseur",
+            "age": "21/04/1986",
+            "name": "Thiago Cionek",
+            "club": "Palermo (ITA)"
+        },
+        {
+            "number": "4",
+            "role": "D\u00e9fenseur",
+            "age": "07/07/1983",
+            "name": "Thiago Cionek",
+            "club": "Lechia (POL)"
+        },
+        {
+            "number": "14",
+            "role": "D\u00e9fenseur",
+            "age": "03/02/1988",
+            "name": "Jakub Wawrzyniak",
+            "club": "Torino (ITA)"
+        },
+        {
+            "number": "15",
+            "role": "D\u00e9fenseur",
+            "age": "01/05/1991",
+            "name": "Kamil Glik",
+            "club": "Cagliari (ITA)"
+        },
+        {
+            "number": "18",
+            "role": "D\u00e9fenseur",
+            "age": "03/06/1985",
+            "name": "Bartosz Salamon",
+            "club": "Dortmund (GER)"
+        },
+        {
+            "number": "20",
+            "role": "D\u00e9fenseur",
+            "age": "23/05/1987",
+            "name": "\u0141ukasz Piszczek",
+            "club": "Wis\u0142a (POL)"
+        },
+        {
+            "number": "5",
+            "role": "Milieu",
+            "age": "08/09/1985",
+            "name": "Krzysztof M\u0105czy\u0144ski",
+            "club": "Legia (POL)"
+        },
+        {
+            "number": "6",
+            "role": "Milieu",
+            "age": "02/02/1995",
+            "name": "Tomasz Jod\u0142owiec",
+            "club": "Lech (POL)"
+        },
+        {
+            "number": "8",
+            "role": "Milieu",
+            "age": "29/01/1990",
+            "name": "Karol Linetty",
+            "club": "Sevilla (ESP)"
+        },
+        {
+            "number": "10",
+            "role": "Milieu",
+            "age": "08/06/1988",
+            "name": "Grzegorz Krychowiak",
+            "club": "Rennes (FRA)"
+        },
+        {
+            "number": "11",
+            "role": "Milieu",
+            "age": "14/12/1985",
+            "name": "Kamil Grosicki",
+            "club": "Fiorentina (ITA)"
+        },
+        {
+            "number": "16",
+            "role": "Milieu",
+            "age": "19/02/1985",
+            "name": "Jakub B\u0142aszczykowski",
+            "club": "Lechia (POL)"
+        },
+        {
+            "number": "17",
+            "role": "Milieu",
+            "age": "20/05/1994",
+            "name": "S\u0142awomir Peszko",
+            "club": "Empoli (ITA)"
+        },
+        {
+            "number": "19",
+            "role": "Milieu",
+            "age": "23/12/1996",
+            "name": "Piotr Zieli\u0144ski",
+            "club": "Cracovia (POL)"
+        },
+        {
+            "number": "21",
+            "role": "Milieu",
+            "age": "27/05/1991",
+            "name": "Bartosz Kapustka",
+            "club": "Zag\u0142\u0119bie (POL)"
+        },
+        {
+            "number": "23",
+            "role": "Milieu",
+            "age": "28/02/1994",
+            "name": "Filip Starzy\u0144ski",
+            "club": "Ajax (NED)"
+        },
+        {
+            "number": "7",
+            "role": "Attaquant",
+            "age": "21/08/1988",
+            "name": "Arkadiusz Milik",
+            "club": "Bayern (GER)"
+        },
+        {
+            "number": "9",
+            "role": "Attaquant",
+            "age": "12/05/1995",
+            "name": "Robert Lewandowski",
+            "club": "Ruch (POL)"
+        }
+    ]
+}

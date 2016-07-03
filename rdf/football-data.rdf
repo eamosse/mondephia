@@ -24,6 +24,8 @@
     </ns0:inSpace>
 
     <dc:title xml:lang="fr">République-Tchèque / Croatie (Euro2016)</dc:title>
+    <dc:title >#CZECRO</dc:title>
+    <dc:title >#CROCZE</dc:title>
   </rdf:Description>
 
   <ns1:FootballMatch rdf:about="http://data.mondeca.com/id/soccer/0973a3c0-58ec-4f62-be75-7eaddcacd112">
@@ -44,6 +46,8 @@
     </ns0:inSpace>
 
     <dc:title xml:lang="fr">Espagne / République-Tchèque (Euro2016)</dc:title>
+    <dc:title >#ESPCZE</dc:title>
+    <dc:title >#CZEESP</dc:title>
   </ns1:FootballMatch>
 
   <ns1:FootballMatch rdf:about="http://data.mondeca.com/id/soccer/0c6eec69-b9d8-4281-a66b-8f42eb925ac4">
@@ -104,6 +108,8 @@
     </ns0:inSpace>
 
     <dc:title xml:lang="fr">Russie / Slovaquie (Euro2016)</dc:title>
+    <dc:title >#RUSSLO</dc:title>
+    <dc:title >#SLORUS</dc:title>
   </ns1:FootballMatch>
 
   <ns1:FootballMatch rdf:about="http://data.mondeca.com/id/soccer/2ae97421-7c0a-4942-bc64-f20ef96e9b2b">
@@ -144,6 +150,10 @@
     </ns0:inSpace>
 
     <dc:title xml:lang="fr">France / Roumanie (Euro2016) : 2 - 1</dc:title>
+    <dc:title >#FRAROU</dc:title>
+    <dc:title >#ROUFRA</dc:title>
+    <dc:title >#ROMFRA</dc:title>
+    <dc:title >#FRAROM</dc:title>
   </ns1:FootballMatch>
 
   <ns1:FootballMatch rdf:about="http://data.mondeca.com/id/soccer/45151b38-89ac-43fb-a35a-ea3c5b236c71">
@@ -164,6 +174,8 @@
     </ns0:inSpace>
 
     <dc:title xml:lang="fr">Espagne / Turquie (Euro2016)</dc:title>
+    <dc:title >#ESPTURC</dc:title>
+    <dc:title >#TURCESP</dc:title>
   </ns1:FootballMatch>
 
   <ns1:FootballMatch rdf:about="http://data.mondeca.com/id/soccer/480b8f86-b7b8-4b86-b813-c1d0ac1302c9">
@@ -184,6 +196,8 @@
     </ns0:inSpace>
 
     <dc:title xml:lang="fr">Angleterre / Russie (Euro2016) : 1 - 1</dc:title>
+    <dc:title >#INGRUS</dc:title>
+    <dc:title >#RUSING</dc:title>
   </ns1:FootballMatch>
 
   <ns1:FootballMatch rdf:about="http://data.mondeca.com/id/soccer/4a2ded69-244a-4e42-b420-70526252d74f">
@@ -204,6 +218,8 @@
     </ns0:inSpace>
 
     <dc:title xml:lang="fr">Slovaquie / Angleterre (Euro2016)</dc:title>
+    <dc:title >#INGSLO</dc:title>
+    <dc:title >#SLOING</dc:title>
   </ns1:FootballMatch>
 
   <ns1:FootballMatch rdf:about="http://data.mondeca.com/id/soccer/4f0b8751-b361-4594-86a0-d21810d29985">
@@ -224,6 +240,8 @@
     </ns0:inSpace>
 
     <dc:title xml:lang="fr">Irlande / Suède (Euro2016)</dc:title>
+    <dc:title >#IRLSUE</dc:title>
+    <dc:title >#SUEIRL</dc:title>
   </ns1:FootballMatch>
 
   <ns1:FootballMatch rdf:about="http://data.mondeca.com/id/soccer/53949821-b1f7-4c51-98ac-45a09607362d">
@@ -244,6 +262,9 @@
     </ns0:inSpace>
 
     <dc:title xml:lang="fr">Allemagne / Pologne (Euro2016)</dc:title>
+    <dc:title >#ALPOL</dc:title>
+    <dc:title >#POLAL</dc:title>
+
   </ns1:FootballMatch>
 
   <ns1:FootballMatch rdf:about="http://data.mondeca.com/id/soccer/562fea34-0b63-4254-a269-ad5ac27f6a8d">
@@ -264,6 +285,8 @@
     </ns0:inSpace>
 
     <dc:title xml:lang="fr">Islande / Autriche (Euro2016)</dc:title>
+    <dc:title >#ISLAUT</dc:title>
+    <dc:title >#AUTISL</dc:title>
   </ns1:FootballMatch>
 
   <ns1:FootballMatch rdf:about="http://data.mondeca.com/id/soccer/612f5da2-2e65-4d09-b9b1-29551809272f">
@@ -284,6 +307,7 @@
     </ns0:inSpace>
 
     <dc:title xml:lang="fr">Turquie / Croatie (Euro2016) : 0 - 1</dc:title>
+    <dc:title >#TURCRO</dc:title>
   </ns1:FootballMatch>
 
   <ns1:FootballMatch rdf:about="http://data.mondeca.com/id/soccer/67ba7a03-2e2a-4d42-83ea-f071b9096ab4">
@@ -304,6 +328,8 @@
     </ns0:inSpace>
 
     <dc:title xml:lang="fr">Suède / Belgique (Euro2016)</dc:title>
+    <dc:title >#SUEBEL</dc:title>
+    <dc:title >#BELSUE</dc:title>
   </ns1:FootballMatch>
 
   <ns1:FootballMatch rdf:about="http://data.mondeca.com/id/soccer/6cbc0de6-a624-4b3b-a264-f37d9ace6da1">
@@ -324,6 +350,8 @@
     </ns0:inSpace>
 
     <dc:title xml:lang="fr">Autriche / Hongrie (Euro2016)</dc:title>
+    <dc:title >#AUTHUN</dc:title>
+    <dc:title >#HUNAUT</dc:title>
   </ns1:FootballMatch>
 
   <ns1:FootballMatch rdf:about="http://data.mondeca.com/id/soccer/70e281f6-00cb-483c-ad15-e8fb720aeafe">
@@ -344,6 +372,8 @@
     </ns0:inSpace>
 
     <dc:title xml:lang="fr">Italie / Suède (Euro2016)</dc:title>
+    <dc:title >#ITASUE</dc:title>
+    <dc:title >#SUEITA</dc:title>
   </ns1:FootballMatch>
 
   <ns1:FootballMatch rdf:about="http://data.mondeca.com/id/soccer/74c050b0-c16f-4995-b7dd-8ac40ce4099e">
@@ -364,6 +394,8 @@
     </ns0:inSpace>
 
     <dc:title xml:lang="fr">Ukraine / Irlande-du-Nord (Euro2016)</dc:title>
+    <dc:title >#UCRIRN</dc:title>
+    <dc:title >#IRNUCR</dc:title>
   </ns1:FootballMatch>
 
   <ns1:FootballMatch rdf:about="http://data.mondeca.com/id/soccer/7eec9d1b-f471-460b-95dc-40af20310717">
@@ -384,6 +416,8 @@
     </ns0:inSpace>
 
     <dc:title xml:lang="fr">Belgique / Italie (Euro2016)</dc:title>
+    <dc:title >#BELITA</dc:title>
+    <dc:title >#ITABEL</dc:title>
   </ns1:FootballMatch>
 
   <ns1:FootballMatch rdf:about="http://data.mondeca.com/id/soccer/845b7bdc-8fb1-4296-9fde-c18f6cd71b12">
@@ -404,6 +438,10 @@
     </ns0:inSpace>
 
     <dc:title xml:lang="fr">Allemagne / Ukraine (Euro2016)</dc:title>
+    <dc:title >#ALEUCR</dc:title>
+    <dc:title >#ALEUKR</dc:title>
+    <dc:title >#UCRALE</dc:title>
+    <dc:title >#UKRALE</dc:title>
   </ns1:FootballMatch>
 
   <ns1:FootballMatch rdf:about="http://data.mondeca.com/id/soccer/86a23215-d1da-4900-a05d-1196768fffab">
@@ -424,6 +462,8 @@
     </ns0:inSpace>
 
     <dc:title xml:lang="fr">Belgique / Irlande (Euro2016)</dc:title>
+    <dc:title >#BELIRL</dc:title>
+    <dc:title >#IRLBEL</dc:title>
   </ns1:FootballMatch>
 
   <ns1:FootballMatch rdf:about="http://data.mondeca.com/id/soccer/86f0c57d-58f8-4f20-99fa-e752bb846180">
@@ -444,6 +484,8 @@
     </ns0:inSpace>
 
     <dc:title xml:lang="fr">Suisse / France (Euro2016)</dc:title>
+    <dc:title >#SUIFRA</dc:title>
+    <dc:title >#FRASUI</dc:title>
   </ns1:FootballMatch>
 
   <ns1:FootballMatch rdf:about="http://data.mondeca.com/id/soccer/9100d69a-a23c-411f-a736-be21863ee255">
@@ -464,6 +506,8 @@
     </ns0:inSpace>
 
     <dc:title xml:lang="fr">Albanie / Suisse (Euro2016) : 0 - 1</dc:title>
+    <dc:title >#ALBSUI</dc:title>
+    <dc:title >#SUIALB</dc:title>
   </ns1:FootballMatch>
 
   <ns1:FootballMatch rdf:about="http://data.mondeca.com/id/soccer/92708788-2140-4b87-b281-3f649ef4fa97">
@@ -504,6 +548,8 @@
     </ns0:inSpace>
 
     <dc:title xml:lang="fr">Irlande-du-Nord / Allemagne (Euro2016)</dc:title>
+    <dc:title >#IRNALE</dc:title>
+    <dc:title >#ALEIRN</dc:title>
   </ns1:FootballMatch>
 
   <ns1:FootballMatch rdf:about="http://data.mondeca.com/id/soccer/9e6a2c50-bca3-4f30-a05f-5b1edd2118b5">
@@ -524,6 +570,8 @@
     </ns0:inSpace>
 
     <dc:title xml:lang="fr">Portugal / Autriche (Euro2016)</dc:title>
+    <dc:title >#PORAUT</dc:title>
+    <dc:title >#AUTPOR</dc:title>
   </ns1:FootballMatch>
 
   <ns1:FootballMatch rdf:about="http://data.mondeca.com/id/soccer/9f076dad-65b6-4988-a219-031f913c1f4d">
@@ -544,6 +592,8 @@
     </ns0:inSpace>
 
     <dc:title xml:lang="fr">Russie / Pays-de-Galles (Euro2016)</dc:title>
+    <dc:title >#RUSGAL</dc:title>
+    <dc:title >#GALRUS</dc:title>
   </ns1:FootballMatch>
 
   <ns1:FootballMatch rdf:about="http://data.mondeca.com/id/soccer/a1bafeec-c30f-4754-af57-eab131636309">
@@ -584,6 +634,8 @@
     </ns0:inSpace>
 
     <dc:title xml:lang="fr">Pologne / Irlande-du-Nord (Euro2016)</dc:title>
+    <dc:title >#POLIRN</dc:title>
+    <dc:title >#IRNPOL</dc:title>
   </ns1:FootballMatch>
 
   <ns1:FootballMatch rdf:about="http://data.mondeca.com/id/soccer/a595d9aa-16ce-4d9c-bfaa-bb20dcd49c5f">
@@ -624,6 +676,9 @@
     </ns0:inSpace>
 
     <dc:title xml:lang="fr">Pays-de-Galles / Slovaquie (Euro2016) : 2 - 1</dc:title>
+    <dc:title >#GALSLO</dc:title>
+    <dc:title >#SLOGAL</dc:title>
+    <dc:title >#ESQGAL</dc:title>
   </ns1:FootballMatch>
 
   <ns1:FootballMatch rdf:about="http://data.mondeca.com/id/soccer/b64b3074-21de-4757-9d56-973eec7ced27">
@@ -644,6 +699,8 @@
     </ns0:inSpace>
 
     <dc:title xml:lang="fr">République-Tchèque / Turquie (Euro2016)</dc:title>
+    <dc:title >#RCHTUR</dc:title>
+    <dc:title >#TURRCH</dc:title>
   </ns1:FootballMatch>
 
   <ns1:FootballMatch rdf:about="http://data.mondeca.com/id/soccer/b6cce907-9e8b-4d9d-b632-7cca16bc8657">
@@ -664,6 +721,8 @@
     </ns0:inSpace>
 
     <dc:title xml:lang="fr">Roumanie / Albanie (Euro2016)</dc:title>
+    <dc:title >#ROUALB</dc:title>
+    <dc:title >#ALBROU</dc:title>
   </ns1:FootballMatch>
 
   <ns1:FootballMatch rdf:about="http://data.mondeca.com/id/soccer/b942a6a6-38ba-42b0-b183-8c95e274cf8f">
@@ -704,6 +763,8 @@
     </ns0:inSpace>
 
     <dc:title xml:lang="fr">Portugal / Islande (Euro2016)</dc:title>
+    <dc:title >#PORISL</dc:title>
+    <dc:title >#ISLPOR</dc:title>
   </ns1:FootballMatch>
 
   <ns1:FootballMatch rdf:about="http://data.mondeca.com/id/soccer/d7c10868-fa5a-4383-a51d-794697f6e19e">
@@ -744,6 +805,8 @@
     </ns0:inSpace>
 
     <dc:title xml:lang="fr">France / Albanie (Euro2016)</dc:title>
+    <dc:title >#FRAALB</dc:title>
+    <dc:title >#ALBFRA</dc:title>
   </ns1:FootballMatch>
 
   <ns1:FootballMatch rdf:about="http://data.mondeca.com/id/soccer/e8d5720c-9075-4183-9fdc-ff993006a6a8">
@@ -784,6 +847,8 @@
     </ns0:inSpace>
 
     <dc:title xml:lang="fr">Italie / Irlande (Euro2016)</dc:title>
+    <dc:title >#ITAIRL</dc:title>
+    <dc:title >#IRLITA</dc:title>
   </ns1:FootballMatch>
 
   <ns1:FootballMatch rdf:about="http://data.mondeca.com/id/soccer/f101c861-0401-49b4-b049-fc2f18c41814">
@@ -804,6 +869,8 @@
     </ns0:inSpace>
 
     <dc:title xml:lang="fr">Islande / Hongrie (Euro2016)</dc:title>
+    <dc:title >#ISLHON</dc:title>
+    <dc:title >#HONISL</dc:title>
   </ns1:FootballMatch>
 
   <ns1:FootballMatch rdf:about="http://data.mondeca.com/id/soccer/f2d91b34-539b-443b-ac7e-6dcb2899eb54">
@@ -844,6 +911,8 @@
     </ns0:inSpace>
 
     <dc:title xml:lang="fr">Croatie / Espagne (Euro2016)</dc:title>
+    <dc:title >#CROESP</dc:title>
+    <dc:title >#ESPCRO</dc:title>
   </ns1:FootballMatch>
 
   <ns1:FootballMatch rdf:about="http://data.mondeca.com/id/soccer/f86db5c6-326c-45ad-8be0-5e914eedf853">
@@ -864,6 +933,8 @@
     </ns0:inSpace>
 
     <dc:title xml:lang="fr">Hongrie / Portugal (Euro2016)</dc:title>
+    <dc:title >#HONPOR</dc:title>
+    <dc:title >#PORHON</dc:title>
   </ns1:FootballMatch>
 
   <ns1:FootballMatch rdf:about="http://data.mondeca.com/id/soccer/fa868820-80a5-4ad3-a2f6-b56120c56d4a">
@@ -904,6 +975,8 @@
     </ns0:inSpace>
 
     <dc:title xml:lang="fr">Roumanie / Suisse (Euro2016)</dc:title>
+    <dc:title >#ROUSUI</dc:title>
+    <dc:title >#SUIROU</dc:title>
   </ns1:FootballMatch>
 
 </rdf:RDF>

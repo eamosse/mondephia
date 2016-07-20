@@ -1,7 +1,7 @@
 import json
 import os
 
-with open('../HackaTAL2016/team_composition.txt') as f:
+with open('../data/team.txt') as f:
 	data = {}
 	team = ""
 	player = {}
@@ -34,7 +34,7 @@ with open('../HackaTAL2016/team_composition.txt') as f:
 			#print(player)
 			player = {}
 			i += 1
-			with open(os.getcwd() + '/data/'+team+'.json', 'w+') as out:
+			with open(os.getcwd() + '../data/'+team+'.json', 'w+') as out:
 				json.dump(data, out, indent = 4)
 		else:
 			i += 1
